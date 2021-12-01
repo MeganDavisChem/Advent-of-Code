@@ -1,0 +1,6002 @@
+~~~Iteration 1~~~
+174: n/a
+~~~Iteration 2~~~
+180: higher than previous
+~~~Iteration 3~~~
+179: lower than previous
+Window sum is 533: lower than previous
+~~~Iteration 4~~~
+186: higher than previous
+Window sum is 545: higher than previous
+~~~Iteration 5~~~
+184: lower than previous
+Window sum is 549: higher than previous
+~~~Iteration 6~~~
+176: lower than previous
+Window sum is 546: lower than previous
+~~~Iteration 7~~~
+177: higher than previous
+Window sum is 537: lower than previous
+~~~Iteration 8~~~
+190: higher than previous
+Window sum is 543: higher than previous
+~~~Iteration 9~~~
+173: lower than previous
+Window sum is 540: lower than previous
+~~~Iteration 10~~~
+174: higher than previous
+Window sum is 537: lower than previous
+~~~Iteration 11~~~
+176: higher than previous
+Window sum is 523: lower than previous
+~~~Iteration 12~~~
+175: lower than previous
+Window sum is 525: higher than previous
+~~~Iteration 13~~~
+172: lower than previous
+Window sum is 523: lower than previous
+~~~Iteration 14~~~
+175: higher than previous
+Window sum is 522: lower than previous
+~~~Iteration 15~~~
+174: lower than previous
+Window sum is 521: lower than previous
+~~~Iteration 16~~~
+175: higher than previous
+Window sum is 524: higher than previous
+~~~Iteration 17~~~
+176: higher than previous
+Window sum is 525: higher than previous
+~~~Iteration 18~~~
+179: higher than previous
+Window sum is 530: higher than previous
+~~~Iteration 19~~~
+206: higher than previous
+Window sum is 561: higher than previous
+~~~Iteration 20~~~
+207: higher than previous
+Window sum is 592: higher than previous
+~~~Iteration 21~~~
+206: lower than previous
+Window sum is 619: higher than previous
+~~~Iteration 22~~~
+205: lower than previous
+Window sum is 618: lower than previous
+~~~Iteration 23~~~
+208: higher than previous
+Window sum is 619: higher than previous
+~~~Iteration 24~~~
+209: higher than previous
+Window sum is 622: higher than previous
+~~~Iteration 25~~~
+215: higher than previous
+Window sum is 632: higher than previous
+~~~Iteration 26~~~
+221: higher than previous
+Window sum is 645: higher than previous
+~~~Iteration 27~~~
+228: higher than previous
+Window sum is 664: higher than previous
+~~~Iteration 28~~~
+227: lower than previous
+Window sum is 676: higher than previous
+~~~Iteration 29~~~
+214: lower than previous
+Window sum is 669: lower than previous
+~~~Iteration 30~~~
+215: higher than previous
+Window sum is 656: lower than previous
+~~~Iteration 31~~~
+216: higher than previous
+Window sum is 645: lower than previous
+~~~Iteration 32~~~
+218: higher than previous
+Window sum is 649: higher than previous
+~~~Iteration 33~~~
+244: higher than previous
+Window sum is 678: higher than previous
+~~~Iteration 34~~~
+246: higher than previous
+Window sum is 708: higher than previous
+~~~Iteration 35~~~
+242: lower than previous
+Window sum is 732: higher than previous
+~~~Iteration 36~~~
+249: higher than previous
+Window sum is 737: higher than previous
+~~~Iteration 37~~~
+250: higher than previous
+Window sum is 741: higher than previous
+~~~Iteration 38~~~
+253: higher than previous
+Window sum is 752: higher than previous
+~~~Iteration 39~~~
+259: higher than previous
+Window sum is 762: higher than previous
+~~~Iteration 40~~~
+256: lower than previous
+Window sum is 768: higher than previous
+~~~Iteration 41~~~
+261: higher than previous
+Window sum is 776: higher than previous
+~~~Iteration 42~~~
+256: lower than previous
+Window sum is 773: lower than previous
+~~~Iteration 43~~~
+252: lower than previous
+Window sum is 769: lower than previous
+~~~Iteration 44~~~
+254: higher than previous
+Window sum is 762: lower than previous
+~~~Iteration 45~~~
+256: higher than previous
+Window sum is 762: lower than previous
+~~~Iteration 46~~~
+261: higher than previous
+Window sum is 771: higher than previous
+~~~Iteration 47~~~
+274: higher than previous
+Window sum is 791: higher than previous
+~~~Iteration 48~~~
+270: lower than previous
+Window sum is 805: higher than previous
+~~~Iteration 49~~~
+300: higher than previous
+Window sum is 844: higher than previous
+~~~Iteration 50~~~
+301: higher than previous
+Window sum is 871: higher than previous
+~~~Iteration 51~~~
+308: higher than previous
+Window sum is 909: higher than previous
+~~~Iteration 52~~~
+310: higher than previous
+Window sum is 919: higher than previous
+~~~Iteration 53~~~
+308: lower than previous
+Window sum is 926: higher than previous
+~~~Iteration 54~~~
+305: lower than previous
+Window sum is 923: lower than previous
+~~~Iteration 55~~~
+306: higher than previous
+Window sum is 919: lower than previous
+~~~Iteration 56~~~
+300: lower than previous
+Window sum is 911: lower than previous
+~~~Iteration 57~~~
+292: lower than previous
+Window sum is 898: lower than previous
+~~~Iteration 58~~~
+290: lower than previous
+Window sum is 882: lower than previous
+~~~Iteration 59~~~
+296: higher than previous
+Window sum is 878: lower than previous
+~~~Iteration 60~~~
+295: lower than previous
+Window sum is 881: higher than previous
+~~~Iteration 61~~~
+298: higher than previous
+Window sum is 889: higher than previous
+~~~Iteration 62~~~
+301: higher than previous
+Window sum is 894: higher than previous
+~~~Iteration 63~~~
+303: higher than previous
+Window sum is 902: higher than previous
+~~~Iteration 64~~~
+304: higher than previous
+Window sum is 908: higher than previous
+~~~Iteration 65~~~
+305: higher than previous
+Window sum is 912: higher than previous
+~~~Iteration 66~~~
+302: lower than previous
+Window sum is 911: lower than previous
+~~~Iteration 67~~~
+301: lower than previous
+Window sum is 908: lower than previous
+~~~Iteration 68~~~
+282: lower than previous
+Window sum is 885: lower than previous
+~~~Iteration 69~~~
+280: lower than previous
+Window sum is 863: lower than previous
+~~~Iteration 70~~~
+281: higher than previous
+Window sum is 843: lower than previous
+~~~Iteration 71~~~
+279: lower than previous
+Window sum is 840: lower than previous
+~~~Iteration 72~~~
+302: higher than previous
+Window sum is 862: higher than previous
+~~~Iteration 73~~~
+285: lower than previous
+Window sum is 866: higher than previous
+~~~Iteration 74~~~
+278: lower than previous
+Window sum is 865: lower than previous
+~~~Iteration 75~~~
+288: higher than previous
+Window sum is 851: lower than previous
+~~~Iteration 76~~~
+302: higher than previous
+Window sum is 868: higher than previous
+~~~Iteration 77~~~
+306: higher than previous
+Window sum is 896: higher than previous
+~~~Iteration 78~~~
+308: higher than previous
+Window sum is 916: higher than previous
+~~~Iteration 79~~~
+314: higher than previous
+Window sum is 928: higher than previous
+~~~Iteration 80~~~
+319: higher than previous
+Window sum is 941: higher than previous
+~~~Iteration 81~~~
+324: higher than previous
+Window sum is 957: higher than previous
+~~~Iteration 82~~~
+320: lower than previous
+Window sum is 963: higher than previous
+~~~Iteration 83~~~
+324: higher than previous
+Window sum is 968: higher than previous
+~~~Iteration 84~~~
+326: higher than previous
+Window sum is 970: higher than previous
+~~~Iteration 85~~~
+296: lower than previous
+Window sum is 946: lower than previous
+~~~Iteration 86~~~
+297: higher than previous
+Window sum is 919: lower than previous
+~~~Iteration 87~~~
+309: higher than previous
+Window sum is 902: lower than previous
+~~~Iteration 88~~~
+316: higher than previous
+Window sum is 922: higher than previous
+~~~Iteration 89~~~
+315: lower than previous
+Window sum is 940: higher than previous
+~~~Iteration 90~~~
+327: higher than previous
+Window sum is 958: higher than previous
+~~~Iteration 91~~~
+328: higher than previous
+Window sum is 970: higher than previous
+~~~Iteration 92~~~
+341: higher than previous
+Window sum is 996: higher than previous
+~~~Iteration 93~~~
+339: lower than previous
+Window sum is 1008: higher than previous
+~~~Iteration 94~~~
+338: lower than previous
+Window sum is 1018: higher than previous
+~~~Iteration 95~~~
+329: lower than previous
+Window sum is 1006: lower than previous
+~~~Iteration 96~~~
+330: higher than previous
+Window sum is 997: lower than previous
+~~~Iteration 97~~~
+328: lower than previous
+Window sum is 987: lower than previous
+~~~Iteration 98~~~
+330: higher than previous
+Window sum is 988: higher than previous
+~~~Iteration 99~~~
+328: lower than previous
+Window sum is 986: lower than previous
+~~~Iteration 100~~~
+327: lower than previous
+Window sum is 985: lower than previous
+~~~Iteration 101~~~
+336: higher than previous
+Window sum is 991: higher than previous
+~~~Iteration 102~~~
+332: lower than previous
+Window sum is 995: higher than previous
+~~~Iteration 103~~~
+330: lower than previous
+Window sum is 998: higher than previous
+~~~Iteration 104~~~
+331: higher than previous
+Window sum is 993: lower than previous
+~~~Iteration 105~~~
+336: higher than previous
+Window sum is 997: higher than previous
+~~~Iteration 106~~~
+338: higher than previous
+Window sum is 1005: higher than previous
+~~~Iteration 107~~~
+342: higher than previous
+Window sum is 1016: higher than previous
+~~~Iteration 108~~~
+358: higher than previous
+Window sum is 1038: higher than previous
+~~~Iteration 109~~~
+360: higher than previous
+Window sum is 1060: higher than previous
+~~~Iteration 110~~~
+369: higher than previous
+Window sum is 1087: higher than previous
+~~~Iteration 111~~~
+371: higher than previous
+Window sum is 1100: higher than previous
+~~~Iteration 112~~~
+378: higher than previous
+Window sum is 1118: higher than previous
+~~~Iteration 113~~~
+380: higher than previous
+Window sum is 1129: higher than previous
+~~~Iteration 114~~~
+385: higher than previous
+Window sum is 1143: higher than previous
+~~~Iteration 115~~~
+382: lower than previous
+Window sum is 1147: higher than previous
+~~~Iteration 116~~~
+381: lower than previous
+Window sum is 1148: higher than previous
+~~~Iteration 117~~~
+383: higher than previous
+Window sum is 1146: lower than previous
+~~~Iteration 118~~~
+417: higher than previous
+Window sum is 1181: higher than previous
+~~~Iteration 119~~~
+421: higher than previous
+Window sum is 1221: higher than previous
+~~~Iteration 120~~~
+422: higher than previous
+Window sum is 1260: higher than previous
+~~~Iteration 121~~~
+424: higher than previous
+Window sum is 1267: higher than previous
+~~~Iteration 122~~~
+425: higher than previous
+Window sum is 1271: higher than previous
+~~~Iteration 123~~~
+426: higher than previous
+Window sum is 1275: higher than previous
+~~~Iteration 124~~~
+454: higher than previous
+Window sum is 1305: higher than previous
+~~~Iteration 125~~~
+455: higher than previous
+Window sum is 1335: higher than previous
+~~~Iteration 126~~~
+457: higher than previous
+Window sum is 1366: higher than previous
+~~~Iteration 127~~~
+467: higher than previous
+Window sum is 1379: higher than previous
+~~~Iteration 128~~~
+499: higher than previous
+Window sum is 1423: higher than previous
+~~~Iteration 129~~~
+507: higher than previous
+Window sum is 1473: higher than previous
+~~~Iteration 130~~~
+513: higher than previous
+Window sum is 1519: higher than previous
+~~~Iteration 131~~~
+507: lower than previous
+Window sum is 1527: higher than previous
+~~~Iteration 132~~~
+513: higher than previous
+Window sum is 1533: higher than previous
+~~~Iteration 133~~~
+512: lower than previous
+Window sum is 1532: lower than previous
+~~~Iteration 134~~~
+509: lower than previous
+Window sum is 1534: higher than previous
+~~~Iteration 135~~~
+500: lower than previous
+Window sum is 1521: lower than previous
+~~~Iteration 136~~~
+501: higher than previous
+Window sum is 1510: lower than previous
+~~~Iteration 137~~~
+508: higher than previous
+Window sum is 1509: lower than previous
+~~~Iteration 138~~~
+507: lower than previous
+Window sum is 1516: higher than previous
+~~~Iteration 139~~~
+509: higher than previous
+Window sum is 1524: higher than previous
+~~~Iteration 140~~~
+512: higher than previous
+Window sum is 1528: higher than previous
+~~~Iteration 141~~~
+529: higher than previous
+Window sum is 1550: higher than previous
+~~~Iteration 142~~~
+530: higher than previous
+Window sum is 1571: higher than previous
+~~~Iteration 143~~~
+529: lower than previous
+Window sum is 1588: higher than previous
+~~~Iteration 144~~~
+530: higher than previous
+Window sum is 1589: higher than previous
+~~~Iteration 145~~~
+529: lower than previous
+Window sum is 1588: lower than previous
+~~~Iteration 146~~~
+518: lower than previous
+Window sum is 1577: lower than previous
+~~~Iteration 147~~~
+526: higher than previous
+Window sum is 1573: lower than previous
+~~~Iteration 148~~~
+523: lower than previous
+Window sum is 1567: lower than previous
+~~~Iteration 149~~~
+518: lower than previous
+Window sum is 1567: lower than previous
+~~~Iteration 150~~~
+521: higher than previous
+Window sum is 1562: lower than previous
+~~~Iteration 151~~~
+484: lower than previous
+Window sum is 1523: lower than previous
+~~~Iteration 152~~~
+479: lower than previous
+Window sum is 1484: lower than previous
+~~~Iteration 153~~~
+478: lower than previous
+Window sum is 1441: lower than previous
+~~~Iteration 154~~~
+489: higher than previous
+Window sum is 1446: higher than previous
+~~~Iteration 155~~~
+476: lower than previous
+Window sum is 1443: lower than previous
+~~~Iteration 156~~~
+477: higher than previous
+Window sum is 1442: lower than previous
+~~~Iteration 157~~~
+478: higher than previous
+Window sum is 1431: lower than previous
+~~~Iteration 158~~~
+495: higher than previous
+Window sum is 1450: higher than previous
+~~~Iteration 159~~~
+476: lower than previous
+Window sum is 1449: lower than previous
+~~~Iteration 160~~~
+474: lower than previous
+Window sum is 1445: lower than previous
+~~~Iteration 161~~~
+481: higher than previous
+Window sum is 1431: lower than previous
+~~~Iteration 162~~~
+485: higher than previous
+Window sum is 1440: higher than previous
+~~~Iteration 163~~~
+499: higher than previous
+Window sum is 1465: higher than previous
+~~~Iteration 164~~~
+511: higher than previous
+Window sum is 1495: higher than previous
+~~~Iteration 165~~~
+512: higher than previous
+Window sum is 1522: higher than previous
+~~~Iteration 166~~~
+516: higher than previous
+Window sum is 1539: higher than previous
+~~~Iteration 167~~~
+508: lower than previous
+Window sum is 1536: lower than previous
+~~~Iteration 168~~~
+497: lower than previous
+Window sum is 1521: lower than previous
+~~~Iteration 169~~~
+500: higher than previous
+Window sum is 1505: lower than previous
+~~~Iteration 170~~~
+502: higher than previous
+Window sum is 1499: lower than previous
+~~~Iteration 171~~~
+493: lower than previous
+Window sum is 1495: lower than previous
+~~~Iteration 172~~~
+492: lower than previous
+Window sum is 1487: lower than previous
+~~~Iteration 173~~~
+475: lower than previous
+Window sum is 1460: lower than previous
+~~~Iteration 174~~~
+473: lower than previous
+Window sum is 1440: lower than previous
+~~~Iteration 175~~~
+474: higher than previous
+Window sum is 1422: lower than previous
+~~~Iteration 176~~~
+468: lower than previous
+Window sum is 1415: lower than previous
+~~~Iteration 177~~~
+469: higher than previous
+Window sum is 1411: lower than previous
+~~~Iteration 178~~~
+471: higher than previous
+Window sum is 1408: lower than previous
+~~~Iteration 179~~~
+473: higher than previous
+Window sum is 1413: higher than previous
+~~~Iteration 180~~~
+476: higher than previous
+Window sum is 1420: higher than previous
+~~~Iteration 181~~~
+504: higher than previous
+Window sum is 1453: higher than previous
+~~~Iteration 182~~~
+499: lower than previous
+Window sum is 1479: higher than previous
+~~~Iteration 183~~~
+470: lower than previous
+Window sum is 1473: lower than previous
+~~~Iteration 184~~~
+472: higher than previous
+Window sum is 1441: lower than previous
+~~~Iteration 185~~~
+473: higher than previous
+Window sum is 1415: lower than previous
+~~~Iteration 186~~~
+466: lower than previous
+Window sum is 1411: lower than previous
+~~~Iteration 187~~~
+467: higher than previous
+Window sum is 1406: lower than previous
+~~~Iteration 188~~~
+474: higher than previous
+Window sum is 1407: higher than previous
+~~~Iteration 189~~~
+481: higher than previous
+Window sum is 1422: higher than previous
+~~~Iteration 190~~~
+483: higher than previous
+Window sum is 1438: higher than previous
+~~~Iteration 191~~~
+481: lower than previous
+Window sum is 1445: higher than previous
+~~~Iteration 192~~~
+464: lower than previous
+Window sum is 1428: lower than previous
+~~~Iteration 193~~~
+469: higher than previous
+Window sum is 1414: lower than previous
+~~~Iteration 194~~~
+486: higher than previous
+Window sum is 1419: higher than previous
+~~~Iteration 195~~~
+487: higher than previous
+Window sum is 1442: higher than previous
+~~~Iteration 196~~~
+481: lower than previous
+Window sum is 1454: higher than previous
+~~~Iteration 197~~~
+484: higher than previous
+Window sum is 1452: lower than previous
+~~~Iteration 198~~~
+488: higher than previous
+Window sum is 1453: higher than previous
+~~~Iteration 199~~~
+489: higher than previous
+Window sum is 1461: higher than previous
+~~~Iteration 200~~~
+486: lower than previous
+Window sum is 1463: higher than previous
+~~~Iteration 201~~~
+484: lower than previous
+Window sum is 1459: lower than previous
+~~~Iteration 202~~~
+485: higher than previous
+Window sum is 1455: lower than previous
+~~~Iteration 203~~~
+490: higher than previous
+Window sum is 1459: higher than previous
+~~~Iteration 204~~~
+492: higher than previous
+Window sum is 1467: higher than previous
+~~~Iteration 205~~~
+499: higher than previous
+Window sum is 1481: higher than previous
+~~~Iteration 206~~~
+539: higher than previous
+Window sum is 1530: higher than previous
+~~~Iteration 207~~~
+575: higher than previous
+Window sum is 1613: higher than previous
+~~~Iteration 208~~~
+576: higher than previous
+Window sum is 1690: higher than previous
+~~~Iteration 209~~~
+578: higher than previous
+Window sum is 1729: higher than previous
+~~~Iteration 210~~~
+585: higher than previous
+Window sum is 1739: higher than previous
+~~~Iteration 211~~~
+602: higher than previous
+Window sum is 1765: higher than previous
+~~~Iteration 212~~~
+608: higher than previous
+Window sum is 1795: higher than previous
+~~~Iteration 213~~~
+611: higher than previous
+Window sum is 1821: higher than previous
+~~~Iteration 214~~~
+612: higher than previous
+Window sum is 1831: higher than previous
+~~~Iteration 215~~~
+610: lower than previous
+Window sum is 1833: higher than previous
+~~~Iteration 216~~~
+600: lower than previous
+Window sum is 1822: lower than previous
+~~~Iteration 217~~~
+606: higher than previous
+Window sum is 1816: lower than previous
+~~~Iteration 218~~~
+610: higher than previous
+Window sum is 1816: lower than previous
+~~~Iteration 219~~~
+606: lower than previous
+Window sum is 1822: higher than previous
+~~~Iteration 220~~~
+617: higher than previous
+Window sum is 1833: higher than previous
+~~~Iteration 221~~~
+626: higher than previous
+Window sum is 1849: higher than previous
+~~~Iteration 222~~~
+636: higher than previous
+Window sum is 1879: higher than previous
+~~~Iteration 223~~~
+639: higher than previous
+Window sum is 1901: higher than previous
+~~~Iteration 224~~~
+640: higher than previous
+Window sum is 1915: higher than previous
+~~~Iteration 225~~~
+639: lower than previous
+Window sum is 1918: higher than previous
+~~~Iteration 226~~~
+609: lower than previous
+Window sum is 1888: lower than previous
+~~~Iteration 227~~~
+610: higher than previous
+Window sum is 1858: lower than previous
+~~~Iteration 228~~~
+615: higher than previous
+Window sum is 1834: lower than previous
+~~~Iteration 229~~~
+614: lower than previous
+Window sum is 1839: higher than previous
+~~~Iteration 230~~~
+612: lower than previous
+Window sum is 1841: higher than previous
+~~~Iteration 231~~~
+616: higher than previous
+Window sum is 1842: higher than previous
+~~~Iteration 232~~~
+620: higher than previous
+Window sum is 1848: higher than previous
+~~~Iteration 233~~~
+621: higher than previous
+Window sum is 1857: higher than previous
+~~~Iteration 234~~~
+622: higher than previous
+Window sum is 1863: higher than previous
+~~~Iteration 235~~~
+625: higher than previous
+Window sum is 1868: higher than previous
+~~~Iteration 236~~~
+621: lower than previous
+Window sum is 1868: lower than previous
+~~~Iteration 237~~~
+608: lower than previous
+Window sum is 1854: lower than previous
+~~~Iteration 238~~~
+604: lower than previous
+Window sum is 1833: lower than previous
+~~~Iteration 239~~~
+621: higher than previous
+Window sum is 1833: lower than previous
+~~~Iteration 240~~~
+619: lower than previous
+Window sum is 1844: higher than previous
+~~~Iteration 241~~~
+621: higher than previous
+Window sum is 1861: higher than previous
+~~~Iteration 242~~~
+623: higher than previous
+Window sum is 1863: higher than previous
+~~~Iteration 243~~~
+627: higher than previous
+Window sum is 1871: higher than previous
+~~~Iteration 244~~~
+612: lower than previous
+Window sum is 1862: lower than previous
+~~~Iteration 245~~~
+613: higher than previous
+Window sum is 1852: lower than previous
+~~~Iteration 246~~~
+614: higher than previous
+Window sum is 1839: lower than previous
+~~~Iteration 247~~~
+613: lower than previous
+Window sum is 1840: higher than previous
+~~~Iteration 248~~~
+585: lower than previous
+Window sum is 1812: lower than previous
+~~~Iteration 249~~~
+587: higher than previous
+Window sum is 1785: lower than previous
+~~~Iteration 250~~~
+591: higher than previous
+Window sum is 1763: lower than previous
+~~~Iteration 251~~~
+599: higher than previous
+Window sum is 1777: higher than previous
+~~~Iteration 252~~~
+598: lower than previous
+Window sum is 1788: higher than previous
+~~~Iteration 253~~~
+597: lower than previous
+Window sum is 1794: higher than previous
+~~~Iteration 254~~~
+598: higher than previous
+Window sum is 1793: lower than previous
+~~~Iteration 255~~~
+596: lower than previous
+Window sum is 1791: lower than previous
+~~~Iteration 256~~~
+594: lower than previous
+Window sum is 1788: lower than previous
+~~~Iteration 257~~~
+611: higher than previous
+Window sum is 1801: higher than previous
+~~~Iteration 258~~~
+604: lower than previous
+Window sum is 1809: higher than previous
+~~~Iteration 259~~~
+603: lower than previous
+Window sum is 1818: higher than previous
+~~~Iteration 260~~~
+609: higher than previous
+Window sum is 1816: lower than previous
+~~~Iteration 261~~~
+612: higher than previous
+Window sum is 1824: higher than previous
+~~~Iteration 262~~~
+637: higher than previous
+Window sum is 1858: higher than previous
+~~~Iteration 263~~~
+638: higher than previous
+Window sum is 1887: higher than previous
+~~~Iteration 264~~~
+644: higher than previous
+Window sum is 1919: higher than previous
+~~~Iteration 265~~~
+643: lower than previous
+Window sum is 1925: higher than previous
+~~~Iteration 266~~~
+641: lower than previous
+Window sum is 1928: higher than previous
+~~~Iteration 267~~~
+642: higher than previous
+Window sum is 1926: lower than previous
+~~~Iteration 268~~~
+641: lower than previous
+Window sum is 1924: lower than previous
+~~~Iteration 269~~~
+642: higher than previous
+Window sum is 1925: higher than previous
+~~~Iteration 270~~~
+631: lower than previous
+Window sum is 1914: lower than previous
+~~~Iteration 271~~~
+618: lower than previous
+Window sum is 1891: lower than previous
+~~~Iteration 272~~~
+619: higher than previous
+Window sum is 1868: lower than previous
+~~~Iteration 273~~~
+611: lower than previous
+Window sum is 1848: lower than previous
+~~~Iteration 274~~~
+615: higher than previous
+Window sum is 1845: lower than previous
+~~~Iteration 275~~~
+614: lower than previous
+Window sum is 1840: lower than previous
+~~~Iteration 276~~~
+613: lower than previous
+Window sum is 1842: higher than previous
+~~~Iteration 277~~~
+614: higher than previous
+Window sum is 1841: lower than previous
+~~~Iteration 278~~~
+608: lower than previous
+Window sum is 1835: lower than previous
+~~~Iteration 279~~~
+609: higher than previous
+Window sum is 1831: lower than previous
+~~~Iteration 280~~~
+620: higher than previous
+Window sum is 1837: higher than previous
+~~~Iteration 281~~~
+606: lower than previous
+Window sum is 1835: lower than previous
+~~~Iteration 282~~~
+607: higher than previous
+Window sum is 1833: lower than previous
+~~~Iteration 283~~~
+625: higher than previous
+Window sum is 1838: higher than previous
+~~~Iteration 284~~~
+631: higher than previous
+Window sum is 1863: higher than previous
+~~~Iteration 285~~~
+630: lower than previous
+Window sum is 1886: higher than previous
+~~~Iteration 286~~~
+640: higher than previous
+Window sum is 1901: higher than previous
+~~~Iteration 287~~~
+641: higher than previous
+Window sum is 1911: higher than previous
+~~~Iteration 288~~~
+642: higher than previous
+Window sum is 1923: higher than previous
+~~~Iteration 289~~~
+655: higher than previous
+Window sum is 1938: higher than previous
+~~~Iteration 290~~~
+658: higher than previous
+Window sum is 1955: higher than previous
+~~~Iteration 291~~~
+666: higher than previous
+Window sum is 1979: higher than previous
+~~~Iteration 292~~~
+669: higher than previous
+Window sum is 1993: higher than previous
+~~~Iteration 293~~~
+670: higher than previous
+Window sum is 2005: higher than previous
+~~~Iteration 294~~~
+671: higher than previous
+Window sum is 2010: higher than previous
+~~~Iteration 295~~~
+672: higher than previous
+Window sum is 2013: higher than previous
+~~~Iteration 296~~~
+673: higher than previous
+Window sum is 2016: higher than previous
+~~~Iteration 297~~~
+674: higher than previous
+Window sum is 2019: higher than previous
+~~~Iteration 298~~~
+670: lower than previous
+Window sum is 2017: lower than previous
+~~~Iteration 299~~~
+688: higher than previous
+Window sum is 2032: higher than previous
+~~~Iteration 300~~~
+684: lower than previous
+Window sum is 2042: higher than previous
+~~~Iteration 301~~~
+687: higher than previous
+Window sum is 2059: higher than previous
+~~~Iteration 302~~~
+678: lower than previous
+Window sum is 2049: lower than previous
+~~~Iteration 303~~~
+681: higher than previous
+Window sum is 2046: lower than previous
+~~~Iteration 304~~~
+687: higher than previous
+Window sum is 2046: lower than previous
+~~~Iteration 305~~~
+694: higher than previous
+Window sum is 2062: higher than previous
+~~~Iteration 306~~~
+695: higher than previous
+Window sum is 2076: higher than previous
+~~~Iteration 307~~~
+692: lower than previous
+Window sum is 2081: higher than previous
+~~~Iteration 308~~~
+691: lower than previous
+Window sum is 2078: lower than previous
+~~~Iteration 309~~~
+687: lower than previous
+Window sum is 2070: lower than previous
+~~~Iteration 310~~~
+671: lower than previous
+Window sum is 2049: lower than previous
+~~~Iteration 311~~~
+676: higher than previous
+Window sum is 2034: lower than previous
+~~~Iteration 312~~~
+684: higher than previous
+Window sum is 2031: lower than previous
+~~~Iteration 313~~~
+682: lower than previous
+Window sum is 2042: higher than previous
+~~~Iteration 314~~~
+690: higher than previous
+Window sum is 2056: higher than previous
+~~~Iteration 315~~~
+698: higher than previous
+Window sum is 2070: higher than previous
+~~~Iteration 316~~~
+694: lower than previous
+Window sum is 2082: higher than previous
+~~~Iteration 317~~~
+695: higher than previous
+Window sum is 2087: higher than previous
+~~~Iteration 318~~~
+683: lower than previous
+Window sum is 2072: lower than previous
+~~~Iteration 319~~~
+682: lower than previous
+Window sum is 2060: lower than previous
+~~~Iteration 320~~~
+691: higher than previous
+Window sum is 2056: lower than previous
+~~~Iteration 321~~~
+688: lower than previous
+Window sum is 2061: higher than previous
+~~~Iteration 322~~~
+678: lower than previous
+Window sum is 2057: lower than previous
+~~~Iteration 323~~~
+676: lower than previous
+Window sum is 2042: lower than previous
+~~~Iteration 324~~~
+675: lower than previous
+Window sum is 2029: lower than previous
+~~~Iteration 325~~~
+684: higher than previous
+Window sum is 2035: higher than previous
+~~~Iteration 326~~~
+689: higher than previous
+Window sum is 2048: higher than previous
+~~~Iteration 327~~~
+690: higher than previous
+Window sum is 2063: higher than previous
+~~~Iteration 328~~~
+667: lower than previous
+Window sum is 2046: lower than previous
+~~~Iteration 329~~~
+673: higher than previous
+Window sum is 2030: lower than previous
+~~~Iteration 330~~~
+680: higher than previous
+Window sum is 2020: lower than previous
+~~~Iteration 331~~~
+679: lower than previous
+Window sum is 2032: higher than previous
+~~~Iteration 332~~~
+681: higher than previous
+Window sum is 2040: higher than previous
+~~~Iteration 333~~~
+692: higher than previous
+Window sum is 2052: higher than previous
+~~~Iteration 334~~~
+694: higher than previous
+Window sum is 2067: higher than previous
+~~~Iteration 335~~~
+685: lower than previous
+Window sum is 2071: higher than previous
+~~~Iteration 336~~~
+692: higher than previous
+Window sum is 2071: lower than previous
+~~~Iteration 337~~~
+705: higher than previous
+Window sum is 2082: higher than previous
+~~~Iteration 338~~~
+700: lower than previous
+Window sum is 2097: higher than previous
+~~~Iteration 339~~~
+699: lower than previous
+Window sum is 2104: higher than previous
+~~~Iteration 340~~~
+702: higher than previous
+Window sum is 2101: lower than previous
+~~~Iteration 341~~~
+698: lower than previous
+Window sum is 2099: lower than previous
+~~~Iteration 342~~~
+703: higher than previous
+Window sum is 2103: higher than previous
+~~~Iteration 343~~~
+730: higher than previous
+Window sum is 2131: higher than previous
+~~~Iteration 344~~~
+731: higher than previous
+Window sum is 2164: higher than previous
+~~~Iteration 345~~~
+746: higher than previous
+Window sum is 2207: higher than previous
+~~~Iteration 346~~~
+745: lower than previous
+Window sum is 2222: higher than previous
+~~~Iteration 347~~~
+741: lower than previous
+Window sum is 2232: higher than previous
+~~~Iteration 348~~~
+709: lower than previous
+Window sum is 2195: lower than previous
+~~~Iteration 349~~~
+710: higher than previous
+Window sum is 2160: lower than previous
+~~~Iteration 350~~~
+712: higher than previous
+Window sum is 2131: lower than previous
+~~~Iteration 351~~~
+717: higher than previous
+Window sum is 2139: higher than previous
+~~~Iteration 352~~~
+715: lower than previous
+Window sum is 2144: higher than previous
+~~~Iteration 353~~~
+714: lower than previous
+Window sum is 2146: higher than previous
+~~~Iteration 354~~~
+705: lower than previous
+Window sum is 2134: lower than previous
+~~~Iteration 355~~~
+711: higher than previous
+Window sum is 2130: lower than previous
+~~~Iteration 356~~~
+713: higher than previous
+Window sum is 2129: lower than previous
+~~~Iteration 357~~~
+712: lower than previous
+Window sum is 2136: higher than previous
+~~~Iteration 358~~~
+727: higher than previous
+Window sum is 2152: higher than previous
+~~~Iteration 359~~~
+724: lower than previous
+Window sum is 2163: higher than previous
+~~~Iteration 360~~~
+723: lower than previous
+Window sum is 2174: higher than previous
+~~~Iteration 361~~~
+719: lower than previous
+Window sum is 2166: lower than previous
+~~~Iteration 362~~~
+711: lower than previous
+Window sum is 2153: lower than previous
+~~~Iteration 363~~~
+707: lower than previous
+Window sum is 2137: lower than previous
+~~~Iteration 364~~~
+709: higher than previous
+Window sum is 2127: lower than previous
+~~~Iteration 365~~~
+740: higher than previous
+Window sum is 2156: higher than previous
+~~~Iteration 366~~~
+742: higher than previous
+Window sum is 2191: higher than previous
+~~~Iteration 367~~~
+745: higher than previous
+Window sum is 2227: higher than previous
+~~~Iteration 368~~~
+756: higher than previous
+Window sum is 2243: higher than previous
+~~~Iteration 369~~~
+759: higher than previous
+Window sum is 2260: higher than previous
+~~~Iteration 370~~~
+758: lower than previous
+Window sum is 2273: higher than previous
+~~~Iteration 371~~~
+764: higher than previous
+Window sum is 2281: higher than previous
+~~~Iteration 372~~~
+760: lower than previous
+Window sum is 2282: higher than previous
+~~~Iteration 373~~~
+761: higher than previous
+Window sum is 2285: higher than previous
+~~~Iteration 374~~~
+787: higher than previous
+Window sum is 2308: higher than previous
+~~~Iteration 375~~~
+788: higher than previous
+Window sum is 2336: higher than previous
+~~~Iteration 376~~~
+789: higher than previous
+Window sum is 2364: higher than previous
+~~~Iteration 377~~~
+765: lower than previous
+Window sum is 2342: lower than previous
+~~~Iteration 378~~~
+766: higher than previous
+Window sum is 2320: lower than previous
+~~~Iteration 379~~~
+768: higher than previous
+Window sum is 2299: lower than previous
+~~~Iteration 380~~~
+770: higher than previous
+Window sum is 2304: higher than previous
+~~~Iteration 381~~~
+767: lower than previous
+Window sum is 2305: higher than previous
+~~~Iteration 382~~~
+768: higher than previous
+Window sum is 2305: lower than previous
+~~~Iteration 383~~~
+789: higher than previous
+Window sum is 2324: higher than previous
+~~~Iteration 384~~~
+778: lower than previous
+Window sum is 2335: higher than previous
+~~~Iteration 385~~~
+783: higher than previous
+Window sum is 2350: higher than previous
+~~~Iteration 386~~~
+787: higher than previous
+Window sum is 2348: lower than previous
+~~~Iteration 387~~~
+793: higher than previous
+Window sum is 2363: higher than previous
+~~~Iteration 388~~~
+788: lower than previous
+Window sum is 2368: higher than previous
+~~~Iteration 389~~~
+828: higher than previous
+Window sum is 2409: higher than previous
+~~~Iteration 390~~~
+827: lower than previous
+Window sum is 2443: higher than previous
+~~~Iteration 391~~~
+819: lower than previous
+Window sum is 2474: higher than previous
+~~~Iteration 392~~~
+807: lower than previous
+Window sum is 2453: lower than previous
+~~~Iteration 393~~~
+806: lower than previous
+Window sum is 2432: lower than previous
+~~~Iteration 394~~~
+820: higher than previous
+Window sum is 2433: higher than previous
+~~~Iteration 395~~~
+825: higher than previous
+Window sum is 2451: higher than previous
+~~~Iteration 396~~~
+807: lower than previous
+Window sum is 2452: higher than previous
+~~~Iteration 397~~~
+821: higher than previous
+Window sum is 2453: higher than previous
+~~~Iteration 398~~~
+820: lower than previous
+Window sum is 2448: lower than previous
+~~~Iteration 399~~~
+834: higher than previous
+Window sum is 2475: higher than previous
+~~~Iteration 400~~~
+836: higher than previous
+Window sum is 2490: higher than previous
+~~~Iteration 401~~~
+846: higher than previous
+Window sum is 2516: higher than previous
+~~~Iteration 402~~~
+847: higher than previous
+Window sum is 2529: higher than previous
+~~~Iteration 403~~~
+844: lower than previous
+Window sum is 2537: higher than previous
+~~~Iteration 404~~~
+848: higher than previous
+Window sum is 2539: higher than previous
+~~~Iteration 405~~~
+844: lower than previous
+Window sum is 2536: lower than previous
+~~~Iteration 406~~~
+857: higher than previous
+Window sum is 2549: higher than previous
+~~~Iteration 407~~~
+855: lower than previous
+Window sum is 2556: higher than previous
+~~~Iteration 408~~~
+857: higher than previous
+Window sum is 2569: higher than previous
+~~~Iteration 409~~~
+858: higher than previous
+Window sum is 2570: higher than previous
+~~~Iteration 410~~~
+863: higher than previous
+Window sum is 2578: higher than previous
+~~~Iteration 411~~~
+858: lower than previous
+Window sum is 2579: higher than previous
+~~~Iteration 412~~~
+859: higher than previous
+Window sum is 2580: higher than previous
+~~~Iteration 413~~~
+866: higher than previous
+Window sum is 2583: higher than previous
+~~~Iteration 414~~~
+865: lower than previous
+Window sum is 2590: higher than previous
+~~~Iteration 415~~~
+860: lower than previous
+Window sum is 2591: higher than previous
+~~~Iteration 416~~~
+861: higher than previous
+Window sum is 2586: lower than previous
+~~~Iteration 417~~~
+872: higher than previous
+Window sum is 2593: higher than previous
+~~~Iteration 418~~~
+868: lower than previous
+Window sum is 2601: higher than previous
+~~~Iteration 419~~~
+863: lower than previous
+Window sum is 2603: higher than previous
+~~~Iteration 420~~~
+866: higher than previous
+Window sum is 2597: lower than previous
+~~~Iteration 421~~~
+868: higher than previous
+Window sum is 2597: lower than previous
+~~~Iteration 422~~~
+864: lower than previous
+Window sum is 2598: higher than previous
+~~~Iteration 423~~~
+865: higher than previous
+Window sum is 2597: lower than previous
+~~~Iteration 424~~~
+866: higher than previous
+Window sum is 2595: lower than previous
+~~~Iteration 425~~~
+867: higher than previous
+Window sum is 2598: higher than previous
+~~~Iteration 426~~~
+880: higher than previous
+Window sum is 2613: higher than previous
+~~~Iteration 427~~~
+902: higher than previous
+Window sum is 2649: higher than previous
+~~~Iteration 428~~~
+901: lower than previous
+Window sum is 2683: higher than previous
+~~~Iteration 429~~~
+903: higher than previous
+Window sum is 2706: higher than previous
+~~~Iteration 430~~~
+902: lower than previous
+Window sum is 2706: lower than previous
+~~~Iteration 431~~~
+908: higher than previous
+Window sum is 2713: higher than previous
+~~~Iteration 432~~~
+895: lower than previous
+Window sum is 2705: lower than previous
+~~~Iteration 433~~~
+912: higher than previous
+Window sum is 2715: higher than previous
+~~~Iteration 434~~~
+932: higher than previous
+Window sum is 2739: higher than previous
+~~~Iteration 435~~~
+939: higher than previous
+Window sum is 2783: higher than previous
+~~~Iteration 436~~~
+936: lower than previous
+Window sum is 2807: higher than previous
+~~~Iteration 437~~~
+938: higher than previous
+Window sum is 2813: higher than previous
+~~~Iteration 438~~~
+939: higher than previous
+Window sum is 2813: lower than previous
+~~~Iteration 439~~~
+942: higher than previous
+Window sum is 2819: higher than previous
+~~~Iteration 440~~~
+945: higher than previous
+Window sum is 2826: higher than previous
+~~~Iteration 441~~~
+949: higher than previous
+Window sum is 2836: higher than previous
+~~~Iteration 442~~~
+950: higher than previous
+Window sum is 2844: higher than previous
+~~~Iteration 443~~~
+951: higher than previous
+Window sum is 2850: higher than previous
+~~~Iteration 444~~~
+935: lower than previous
+Window sum is 2836: lower than previous
+~~~Iteration 445~~~
+917: lower than previous
+Window sum is 2803: lower than previous
+~~~Iteration 446~~~
+907: lower than previous
+Window sum is 2759: lower than previous
+~~~Iteration 447~~~
+906: lower than previous
+Window sum is 2730: lower than previous
+~~~Iteration 448~~~
+915: higher than previous
+Window sum is 2728: lower than previous
+~~~Iteration 449~~~
+916: higher than previous
+Window sum is 2737: higher than previous
+~~~Iteration 450~~~
+917: higher than previous
+Window sum is 2748: higher than previous
+~~~Iteration 451~~~
+916: lower than previous
+Window sum is 2749: higher than previous
+~~~Iteration 452~~~
+915: lower than previous
+Window sum is 2748: lower than previous
+~~~Iteration 453~~~
+916: higher than previous
+Window sum is 2747: lower than previous
+~~~Iteration 454~~~
+919: higher than previous
+Window sum is 2750: higher than previous
+~~~Iteration 455~~~
+925: higher than previous
+Window sum is 2760: higher than previous
+~~~Iteration 456~~~
+931: higher than previous
+Window sum is 2775: higher than previous
+~~~Iteration 457~~~
+935: higher than previous
+Window sum is 2791: higher than previous
+~~~Iteration 458~~~
+934: lower than previous
+Window sum is 2800: higher than previous
+~~~Iteration 459~~~
+944: higher than previous
+Window sum is 2813: higher than previous
+~~~Iteration 460~~~
+945: higher than previous
+Window sum is 2823: higher than previous
+~~~Iteration 461~~~
+950: higher than previous
+Window sum is 2839: higher than previous
+~~~Iteration 462~~~
+972: higher than previous
+Window sum is 2867: higher than previous
+~~~Iteration 463~~~
+973: higher than previous
+Window sum is 2895: higher than previous
+~~~Iteration 464~~~
+967: lower than previous
+Window sum is 2912: higher than previous
+~~~Iteration 465~~~
+959: lower than previous
+Window sum is 2899: lower than previous
+~~~Iteration 466~~~
+961: higher than previous
+Window sum is 2887: lower than previous
+~~~Iteration 467~~~
+931: lower than previous
+Window sum is 2851: lower than previous
+~~~Iteration 468~~~
+930: lower than previous
+Window sum is 2822: lower than previous
+~~~Iteration 469~~~
+931: higher than previous
+Window sum is 2792: lower than previous
+~~~Iteration 470~~~
+927: lower than previous
+Window sum is 2788: lower than previous
+~~~Iteration 471~~~
+961: higher than previous
+Window sum is 2819: higher than previous
+~~~Iteration 472~~~
+988: higher than previous
+Window sum is 2876: higher than previous
+~~~Iteration 473~~~
+977: lower than previous
+Window sum is 2926: higher than previous
+~~~Iteration 474~~~
+986: higher than previous
+Window sum is 2951: higher than previous
+~~~Iteration 475~~~
+992: higher than previous
+Window sum is 2955: higher than previous
+~~~Iteration 476~~~
+994: higher than previous
+Window sum is 2972: higher than previous
+~~~Iteration 477~~~
+993: lower than previous
+Window sum is 2979: higher than previous
+~~~Iteration 478~~~
+980: lower than previous
+Window sum is 2967: lower than previous
+~~~Iteration 479~~~
+979: lower than previous
+Window sum is 2952: lower than previous
+~~~Iteration 480~~~
+980: higher than previous
+Window sum is 2939: lower than previous
+~~~Iteration 481~~~
+982: higher than previous
+Window sum is 2941: higher than previous
+~~~Iteration 482~~~
+986: higher than previous
+Window sum is 2948: higher than previous
+~~~Iteration 483~~~
+987: higher than previous
+Window sum is 2955: higher than previous
+~~~Iteration 484~~~
+962: lower than previous
+Window sum is 2935: lower than previous
+~~~Iteration 485~~~
+974: higher than previous
+Window sum is 2923: lower than previous
+~~~Iteration 486~~~
+987: higher than previous
+Window sum is 2923: lower than previous
+~~~Iteration 487~~~
+991: higher than previous
+Window sum is 2952: higher than previous
+~~~Iteration 488~~~
+992: higher than previous
+Window sum is 2970: higher than previous
+~~~Iteration 489~~~
+1002: higher than previous
+Window sum is 2985: higher than previous
+~~~Iteration 490~~~
+992: lower than previous
+Window sum is 2986: higher than previous
+~~~Iteration 491~~~
+969: lower than previous
+Window sum is 2963: lower than previous
+~~~Iteration 492~~~
+979: higher than previous
+Window sum is 2940: lower than previous
+~~~Iteration 493~~~
+989: higher than previous
+Window sum is 2937: lower than previous
+~~~Iteration 494~~~
+985: lower than previous
+Window sum is 2953: higher than previous
+~~~Iteration 495~~~
+991: higher than previous
+Window sum is 2965: higher than previous
+~~~Iteration 496~~~
+997: higher than previous
+Window sum is 2973: higher than previous
+~~~Iteration 497~~~
+1002: higher than previous
+Window sum is 2990: higher than previous
+~~~Iteration 498~~~
+1006: higher than previous
+Window sum is 3005: higher than previous
+~~~Iteration 499~~~
+997: lower than previous
+Window sum is 3005: lower than previous
+~~~Iteration 500~~~
+999: higher than previous
+Window sum is 3002: lower than previous
+~~~Iteration 501~~~
+989: lower than previous
+Window sum is 2985: lower than previous
+~~~Iteration 502~~~
+988: lower than previous
+Window sum is 2976: lower than previous
+~~~Iteration 503~~~
+1007: higher than previous
+Window sum is 2984: higher than previous
+~~~Iteration 504~~~
+1034: higher than previous
+Window sum is 3029: higher than previous
+~~~Iteration 505~~~
+1037: higher than previous
+Window sum is 3078: higher than previous
+~~~Iteration 506~~~
+1035: lower than previous
+Window sum is 3106: higher than previous
+~~~Iteration 507~~~
+1036: higher than previous
+Window sum is 3108: higher than previous
+~~~Iteration 508~~~
+1025: lower than previous
+Window sum is 3096: lower than previous
+~~~Iteration 509~~~
+1027: higher than previous
+Window sum is 3088: lower than previous
+~~~Iteration 510~~~
+1042: higher than previous
+Window sum is 3094: higher than previous
+~~~Iteration 511~~~
+1059: higher than previous
+Window sum is 3128: higher than previous
+~~~Iteration 512~~~
+1063: higher than previous
+Window sum is 3164: higher than previous
+~~~Iteration 513~~~
+1058: lower than previous
+Window sum is 3180: higher than previous
+~~~Iteration 514~~~
+1062: higher than previous
+Window sum is 3183: higher than previous
+~~~Iteration 515~~~
+1086: higher than previous
+Window sum is 3206: higher than previous
+~~~Iteration 516~~~
+1082: lower than previous
+Window sum is 3230: higher than previous
+~~~Iteration 517~~~
+1093: higher than previous
+Window sum is 3261: higher than previous
+~~~Iteration 518~~~
+1092: lower than previous
+Window sum is 3267: higher than previous
+~~~Iteration 519~~~
+1101: higher than previous
+Window sum is 3286: higher than previous
+~~~Iteration 520~~~
+1102: higher than previous
+Window sum is 3295: higher than previous
+~~~Iteration 521~~~
+1105: higher than previous
+Window sum is 3308: higher than previous
+~~~Iteration 522~~~
+1107: higher than previous
+Window sum is 3314: higher than previous
+~~~Iteration 523~~~
+1117: higher than previous
+Window sum is 3329: higher than previous
+~~~Iteration 524~~~
+1121: higher than previous
+Window sum is 3345: higher than previous
+~~~Iteration 525~~~
+1125: higher than previous
+Window sum is 3363: higher than previous
+~~~Iteration 526~~~
+1139: higher than previous
+Window sum is 3385: higher than previous
+~~~Iteration 527~~~
+1162: higher than previous
+Window sum is 3426: higher than previous
+~~~Iteration 528~~~
+1182: higher than previous
+Window sum is 3483: higher than previous
+~~~Iteration 529~~~
+1198: higher than previous
+Window sum is 3542: higher than previous
+~~~Iteration 530~~~
+1200: higher than previous
+Window sum is 3580: higher than previous
+~~~Iteration 531~~~
+1218: higher than previous
+Window sum is 3616: higher than previous
+~~~Iteration 532~~~
+1211: lower than previous
+Window sum is 3629: higher than previous
+~~~Iteration 533~~~
+1200: lower than previous
+Window sum is 3629: lower than previous
+~~~Iteration 534~~~
+1201: higher than previous
+Window sum is 3612: lower than previous
+~~~Iteration 535~~~
+1202: higher than previous
+Window sum is 3603: lower than previous
+~~~Iteration 536~~~
+1198: lower than previous
+Window sum is 3601: lower than previous
+~~~Iteration 537~~~
+1197: lower than previous
+Window sum is 3597: lower than previous
+~~~Iteration 538~~~
+1199: higher than previous
+Window sum is 3594: lower than previous
+~~~Iteration 539~~~
+1188: lower than previous
+Window sum is 3584: lower than previous
+~~~Iteration 540~~~
+1186: lower than previous
+Window sum is 3573: lower than previous
+~~~Iteration 541~~~
+1193: higher than previous
+Window sum is 3567: lower than previous
+~~~Iteration 542~~~
+1195: higher than previous
+Window sum is 3574: higher than previous
+~~~Iteration 543~~~
+1197: higher than previous
+Window sum is 3585: higher than previous
+~~~Iteration 544~~~
+1196: lower than previous
+Window sum is 3588: higher than previous
+~~~Iteration 545~~~
+1199: higher than previous
+Window sum is 3592: higher than previous
+~~~Iteration 546~~~
+1198: lower than previous
+Window sum is 3593: higher than previous
+~~~Iteration 547~~~
+1201: higher than previous
+Window sum is 3598: higher than previous
+~~~Iteration 548~~~
+1212: higher than previous
+Window sum is 3611: higher than previous
+~~~Iteration 549~~~
+1224: higher than previous
+Window sum is 3637: higher than previous
+~~~Iteration 550~~~
+1197: lower than previous
+Window sum is 3633: lower than previous
+~~~Iteration 551~~~
+1198: higher than previous
+Window sum is 3619: lower than previous
+~~~Iteration 552~~~
+1205: higher than previous
+Window sum is 3600: lower than previous
+~~~Iteration 553~~~
+1206: higher than previous
+Window sum is 3609: higher than previous
+~~~Iteration 554~~~
+1221: higher than previous
+Window sum is 3632: higher than previous
+~~~Iteration 555~~~
+1227: higher than previous
+Window sum is 3654: higher than previous
+~~~Iteration 556~~~
+1226: lower than previous
+Window sum is 3674: higher than previous
+~~~Iteration 557~~~
+1225: lower than previous
+Window sum is 3678: higher than previous
+~~~Iteration 558~~~
+1258: higher than previous
+Window sum is 3709: higher than previous
+~~~Iteration 559~~~
+1287: higher than previous
+Window sum is 3770: higher than previous
+~~~Iteration 560~~~
+1286: lower than previous
+Window sum is 3831: higher than previous
+~~~Iteration 561~~~
+1285: lower than previous
+Window sum is 3858: higher than previous
+~~~Iteration 562~~~
+1286: higher than previous
+Window sum is 3857: lower than previous
+~~~Iteration 563~~~
+1287: higher than previous
+Window sum is 3858: higher than previous
+~~~Iteration 564~~~
+1288: higher than previous
+Window sum is 3861: higher than previous
+~~~Iteration 565~~~
+1287: lower than previous
+Window sum is 3862: higher than previous
+~~~Iteration 566~~~
+1288: higher than previous
+Window sum is 3863: higher than previous
+~~~Iteration 567~~~
+1290: higher than previous
+Window sum is 3865: higher than previous
+~~~Iteration 568~~~
+1283: lower than previous
+Window sum is 3861: lower than previous
+~~~Iteration 569~~~
+1281: lower than previous
+Window sum is 3854: lower than previous
+~~~Iteration 570~~~
+1274: lower than previous
+Window sum is 3838: lower than previous
+~~~Iteration 571~~~
+1273: lower than previous
+Window sum is 3828: lower than previous
+~~~Iteration 572~~~
+1276: higher than previous
+Window sum is 3823: lower than previous
+~~~Iteration 573~~~
+1294: higher than previous
+Window sum is 3843: higher than previous
+~~~Iteration 574~~~
+1290: lower than previous
+Window sum is 3860: higher than previous
+~~~Iteration 575~~~
+1292: higher than previous
+Window sum is 3876: higher than previous
+~~~Iteration 576~~~
+1289: lower than previous
+Window sum is 3871: lower than previous
+~~~Iteration 577~~~
+1302: higher than previous
+Window sum is 3883: higher than previous
+~~~Iteration 578~~~
+1307: higher than previous
+Window sum is 3898: higher than previous
+~~~Iteration 579~~~
+1313: higher than previous
+Window sum is 3922: higher than previous
+~~~Iteration 580~~~
+1302: lower than previous
+Window sum is 3922: lower than previous
+~~~Iteration 581~~~
+1296: lower than previous
+Window sum is 3911: lower than previous
+~~~Iteration 582~~~
+1297: higher than previous
+Window sum is 3895: lower than previous
+~~~Iteration 583~~~
+1300: higher than previous
+Window sum is 3893: lower than previous
+~~~Iteration 584~~~
+1302: higher than previous
+Window sum is 3899: higher than previous
+~~~Iteration 585~~~
+1303: higher than previous
+Window sum is 3905: higher than previous
+~~~Iteration 586~~~
+1307: higher than previous
+Window sum is 3912: higher than previous
+~~~Iteration 587~~~
+1310: higher than previous
+Window sum is 3920: higher than previous
+~~~Iteration 588~~~
+1311: higher than previous
+Window sum is 3928: higher than previous
+~~~Iteration 589~~~
+1318: higher than previous
+Window sum is 3939: higher than previous
+~~~Iteration 590~~~
+1310: lower than previous
+Window sum is 3939: lower than previous
+~~~Iteration 591~~~
+1316: higher than previous
+Window sum is 3944: higher than previous
+~~~Iteration 592~~~
+1311: lower than previous
+Window sum is 3937: lower than previous
+~~~Iteration 593~~~
+1309: lower than previous
+Window sum is 3936: lower than previous
+~~~Iteration 594~~~
+1310: higher than previous
+Window sum is 3930: lower than previous
+~~~Iteration 595~~~
+1313: higher than previous
+Window sum is 3932: higher than previous
+~~~Iteration 596~~~
+1319: higher than previous
+Window sum is 3942: higher than previous
+~~~Iteration 597~~~
+1324: higher than previous
+Window sum is 3956: higher than previous
+~~~Iteration 598~~~
+1331: higher than previous
+Window sum is 3974: higher than previous
+~~~Iteration 599~~~
+1341: higher than previous
+Window sum is 3996: higher than previous
+~~~Iteration 600~~~
+1363: higher than previous
+Window sum is 4035: higher than previous
+~~~Iteration 601~~~
+1351: lower than previous
+Window sum is 4055: higher than previous
+~~~Iteration 602~~~
+1367: higher than previous
+Window sum is 4081: higher than previous
+~~~Iteration 603~~~
+1380: higher than previous
+Window sum is 4098: higher than previous
+~~~Iteration 604~~~
+1381: higher than previous
+Window sum is 4128: higher than previous
+~~~Iteration 605~~~
+1380: lower than previous
+Window sum is 4141: higher than previous
+~~~Iteration 606~~~
+1379: lower than previous
+Window sum is 4140: lower than previous
+~~~Iteration 607~~~
+1383: higher than previous
+Window sum is 4142: higher than previous
+~~~Iteration 608~~~
+1368: lower than previous
+Window sum is 4130: lower than previous
+~~~Iteration 609~~~
+1373: higher than previous
+Window sum is 4124: lower than previous
+~~~Iteration 610~~~
+1369: lower than previous
+Window sum is 4110: lower than previous
+~~~Iteration 611~~~
+1368: lower than previous
+Window sum is 4110: lower than previous
+~~~Iteration 612~~~
+1328: lower than previous
+Window sum is 4065: lower than previous
+~~~Iteration 613~~~
+1322: lower than previous
+Window sum is 4018: lower than previous
+~~~Iteration 614~~~
+1323: higher than previous
+Window sum is 3973: lower than previous
+~~~Iteration 615~~~
+1322: lower than previous
+Window sum is 3967: lower than previous
+~~~Iteration 616~~~
+1318: lower than previous
+Window sum is 3963: lower than previous
+~~~Iteration 617~~~
+1317: lower than previous
+Window sum is 3957: lower than previous
+~~~Iteration 618~~~
+1318: higher than previous
+Window sum is 3953: lower than previous
+~~~Iteration 619~~~
+1338: higher than previous
+Window sum is 3973: higher than previous
+~~~Iteration 620~~~
+1352: higher than previous
+Window sum is 4008: higher than previous
+~~~Iteration 621~~~
+1357: higher than previous
+Window sum is 4047: higher than previous
+~~~Iteration 622~~~
+1372: higher than previous
+Window sum is 4081: higher than previous
+~~~Iteration 623~~~
+1376: higher than previous
+Window sum is 4105: higher than previous
+~~~Iteration 624~~~
+1374: lower than previous
+Window sum is 4122: higher than previous
+~~~Iteration 625~~~
+1379: higher than previous
+Window sum is 4129: higher than previous
+~~~Iteration 626~~~
+1373: lower than previous
+Window sum is 4126: lower than previous
+~~~Iteration 627~~~
+1375: higher than previous
+Window sum is 4127: higher than previous
+~~~Iteration 628~~~
+1376: higher than previous
+Window sum is 4124: lower than previous
+~~~Iteration 629~~~
+1379: higher than previous
+Window sum is 4130: higher than previous
+~~~Iteration 630~~~
+1378: lower than previous
+Window sum is 4133: higher than previous
+~~~Iteration 631~~~
+1379: higher than previous
+Window sum is 4136: higher than previous
+~~~Iteration 632~~~
+1378: lower than previous
+Window sum is 4135: lower than previous
+~~~Iteration 633~~~
+1387: higher than previous
+Window sum is 4144: higher than previous
+~~~Iteration 634~~~
+1386: lower than previous
+Window sum is 4151: higher than previous
+~~~Iteration 635~~~
+1387: higher than previous
+Window sum is 4160: higher than previous
+~~~Iteration 636~~~
+1388: higher than previous
+Window sum is 4161: higher than previous
+~~~Iteration 637~~~
+1420: higher than previous
+Window sum is 4195: higher than previous
+~~~Iteration 638~~~
+1443: higher than previous
+Window sum is 4251: higher than previous
+~~~Iteration 639~~~
+1449: higher than previous
+Window sum is 4312: higher than previous
+~~~Iteration 640~~~
+1446: lower than previous
+Window sum is 4338: higher than previous
+~~~Iteration 641~~~
+1444: lower than previous
+Window sum is 4339: higher than previous
+~~~Iteration 642~~~
+1445: higher than previous
+Window sum is 4335: lower than previous
+~~~Iteration 643~~~
+1422: lower than previous
+Window sum is 4311: lower than previous
+~~~Iteration 644~~~
+1424: higher than previous
+Window sum is 4291: lower than previous
+~~~Iteration 645~~~
+1425: higher than previous
+Window sum is 4271: lower than previous
+~~~Iteration 646~~~
+1427: higher than previous
+Window sum is 4276: higher than previous
+~~~Iteration 647~~~
+1458: higher than previous
+Window sum is 4310: higher than previous
+~~~Iteration 648~~~
+1459: higher than previous
+Window sum is 4344: higher than previous
+~~~Iteration 649~~~
+1496: higher than previous
+Window sum is 4413: higher than previous
+~~~Iteration 650~~~
+1510: higher than previous
+Window sum is 4465: higher than previous
+~~~Iteration 651~~~
+1508: lower than previous
+Window sum is 4514: higher than previous
+~~~Iteration 652~~~
+1509: higher than previous
+Window sum is 4527: higher than previous
+~~~Iteration 653~~~
+1511: higher than previous
+Window sum is 4528: higher than previous
+~~~Iteration 654~~~
+1504: lower than previous
+Window sum is 4524: lower than previous
+~~~Iteration 655~~~
+1495: lower than previous
+Window sum is 4510: lower than previous
+~~~Iteration 656~~~
+1485: lower than previous
+Window sum is 4484: lower than previous
+~~~Iteration 657~~~
+1487: higher than previous
+Window sum is 4467: lower than previous
+~~~Iteration 658~~~
+1517: higher than previous
+Window sum is 4489: higher than previous
+~~~Iteration 659~~~
+1526: higher than previous
+Window sum is 4530: higher than previous
+~~~Iteration 660~~~
+1527: higher than previous
+Window sum is 4570: higher than previous
+~~~Iteration 661~~~
+1529: higher than previous
+Window sum is 4582: higher than previous
+~~~Iteration 662~~~
+1538: higher than previous
+Window sum is 4594: higher than previous
+~~~Iteration 663~~~
+1530: lower than previous
+Window sum is 4597: higher than previous
+~~~Iteration 664~~~
+1531: higher than previous
+Window sum is 4599: higher than previous
+~~~Iteration 665~~~
+1539: higher than previous
+Window sum is 4600: higher than previous
+~~~Iteration 666~~~
+1554: higher than previous
+Window sum is 4624: higher than previous
+~~~Iteration 667~~~
+1558: higher than previous
+Window sum is 4651: higher than previous
+~~~Iteration 668~~~
+1559: higher than previous
+Window sum is 4671: higher than previous
+~~~Iteration 669~~~
+1566: higher than previous
+Window sum is 4683: higher than previous
+~~~Iteration 670~~~
+1545: lower than previous
+Window sum is 4670: lower than previous
+~~~Iteration 671~~~
+1549: higher than previous
+Window sum is 4660: lower than previous
+~~~Iteration 672~~~
+1558: higher than previous
+Window sum is 4652: lower than previous
+~~~Iteration 673~~~
+1559: higher than previous
+Window sum is 4666: higher than previous
+~~~Iteration 674~~~
+1561: higher than previous
+Window sum is 4678: higher than previous
+~~~Iteration 675~~~
+1554: lower than previous
+Window sum is 4674: lower than previous
+~~~Iteration 676~~~
+1564: higher than previous
+Window sum is 4679: higher than previous
+~~~Iteration 677~~~
+1570: higher than previous
+Window sum is 4688: higher than previous
+~~~Iteration 678~~~
+1574: higher than previous
+Window sum is 4708: higher than previous
+~~~Iteration 679~~~
+1573: lower than previous
+Window sum is 4717: higher than previous
+~~~Iteration 680~~~
+1571: lower than previous
+Window sum is 4718: higher than previous
+~~~Iteration 681~~~
+1572: higher than previous
+Window sum is 4716: lower than previous
+~~~Iteration 682~~~
+1573: higher than previous
+Window sum is 4716: lower than previous
+~~~Iteration 683~~~
+1568: lower than previous
+Window sum is 4713: lower than previous
+~~~Iteration 684~~~
+1564: lower than previous
+Window sum is 4705: lower than previous
+~~~Iteration 685~~~
+1565: higher than previous
+Window sum is 4697: lower than previous
+~~~Iteration 686~~~
+1566: higher than previous
+Window sum is 4695: lower than previous
+~~~Iteration 687~~~
+1567: higher than previous
+Window sum is 4698: higher than previous
+~~~Iteration 688~~~
+1583: higher than previous
+Window sum is 4716: higher than previous
+~~~Iteration 689~~~
+1586: higher than previous
+Window sum is 4736: higher than previous
+~~~Iteration 690~~~
+1581: lower than previous
+Window sum is 4750: higher than previous
+~~~Iteration 691~~~
+1597: higher than previous
+Window sum is 4764: higher than previous
+~~~Iteration 692~~~
+1595: lower than previous
+Window sum is 4773: higher than previous
+~~~Iteration 693~~~
+1596: higher than previous
+Window sum is 4788: higher than previous
+~~~Iteration 694~~~
+1589: lower than previous
+Window sum is 4780: lower than previous
+~~~Iteration 695~~~
+1575: lower than previous
+Window sum is 4760: lower than previous
+~~~Iteration 696~~~
+1574: lower than previous
+Window sum is 4738: lower than previous
+~~~Iteration 697~~~
+1582: higher than previous
+Window sum is 4731: lower than previous
+~~~Iteration 698~~~
+1589: higher than previous
+Window sum is 4745: higher than previous
+~~~Iteration 699~~~
+1586: lower than previous
+Window sum is 4757: higher than previous
+~~~Iteration 700~~~
+1568: lower than previous
+Window sum is 4743: lower than previous
+~~~Iteration 701~~~
+1561: lower than previous
+Window sum is 4715: lower than previous
+~~~Iteration 702~~~
+1562: higher than previous
+Window sum is 4691: lower than previous
+~~~Iteration 703~~~
+1561: lower than previous
+Window sum is 4684: lower than previous
+~~~Iteration 704~~~
+1559: lower than previous
+Window sum is 4682: lower than previous
+~~~Iteration 705~~~
+1577: higher than previous
+Window sum is 4697: higher than previous
+~~~Iteration 706~~~
+1578: higher than previous
+Window sum is 4714: higher than previous
+~~~Iteration 707~~~
+1574: lower than previous
+Window sum is 4729: higher than previous
+~~~Iteration 708~~~
+1570: lower than previous
+Window sum is 4722: lower than previous
+~~~Iteration 709~~~
+1566: lower than previous
+Window sum is 4710: lower than previous
+~~~Iteration 710~~~
+1571: higher than previous
+Window sum is 4707: lower than previous
+~~~Iteration 711~~~
+1575: higher than previous
+Window sum is 4712: higher than previous
+~~~Iteration 712~~~
+1580: higher than previous
+Window sum is 4726: higher than previous
+~~~Iteration 713~~~
+1584: higher than previous
+Window sum is 4739: higher than previous
+~~~Iteration 714~~~
+1583: lower than previous
+Window sum is 4747: higher than previous
+~~~Iteration 715~~~
+1593: higher than previous
+Window sum is 4760: higher than previous
+~~~Iteration 716~~~
+1613: higher than previous
+Window sum is 4789: higher than previous
+~~~Iteration 717~~~
+1635: higher than previous
+Window sum is 4841: higher than previous
+~~~Iteration 718~~~
+1637: higher than previous
+Window sum is 4885: higher than previous
+~~~Iteration 719~~~
+1638: higher than previous
+Window sum is 4910: higher than previous
+~~~Iteration 720~~~
+1634: lower than previous
+Window sum is 4909: lower than previous
+~~~Iteration 721~~~
+1638: higher than previous
+Window sum is 4910: higher than previous
+~~~Iteration 722~~~
+1637: lower than previous
+Window sum is 4909: lower than previous
+~~~Iteration 723~~~
+1646: higher than previous
+Window sum is 4921: higher than previous
+~~~Iteration 724~~~
+1648: higher than previous
+Window sum is 4931: higher than previous
+~~~Iteration 725~~~
+1641: lower than previous
+Window sum is 4935: higher than previous
+~~~Iteration 726~~~
+1642: higher than previous
+Window sum is 4931: lower than previous
+~~~Iteration 727~~~
+1644: higher than previous
+Window sum is 4927: lower than previous
+~~~Iteration 728~~~
+1647: higher than previous
+Window sum is 4933: higher than previous
+~~~Iteration 729~~~
+1648: higher than previous
+Window sum is 4939: higher than previous
+~~~Iteration 730~~~
+1650: higher than previous
+Window sum is 4945: higher than previous
+~~~Iteration 731~~~
+1651: higher than previous
+Window sum is 4949: higher than previous
+~~~Iteration 732~~~
+1652: higher than previous
+Window sum is 4953: higher than previous
+~~~Iteration 733~~~
+1651: lower than previous
+Window sum is 4954: higher than previous
+~~~Iteration 734~~~
+1653: higher than previous
+Window sum is 4956: higher than previous
+~~~Iteration 735~~~
+1659: higher than previous
+Window sum is 4963: higher than previous
+~~~Iteration 736~~~
+1665: higher than previous
+Window sum is 4977: higher than previous
+~~~Iteration 737~~~
+1672: higher than previous
+Window sum is 4996: higher than previous
+~~~Iteration 738~~~
+1679: higher than previous
+Window sum is 5016: higher than previous
+~~~Iteration 739~~~
+1683: higher than previous
+Window sum is 5034: higher than previous
+~~~Iteration 740~~~
+1687: higher than previous
+Window sum is 5049: higher than previous
+~~~Iteration 741~~~
+1686: lower than previous
+Window sum is 5056: higher than previous
+~~~Iteration 742~~~
+1685: lower than previous
+Window sum is 5058: higher than previous
+~~~Iteration 743~~~
+1708: higher than previous
+Window sum is 5079: higher than previous
+~~~Iteration 744~~~
+1717: higher than previous
+Window sum is 5110: higher than previous
+~~~Iteration 745~~~
+1718: higher than previous
+Window sum is 5143: higher than previous
+~~~Iteration 746~~~
+1715: lower than previous
+Window sum is 5150: higher than previous
+~~~Iteration 747~~~
+1720: higher than previous
+Window sum is 5153: higher than previous
+~~~Iteration 748~~~
+1718: lower than previous
+Window sum is 5153: lower than previous
+~~~Iteration 749~~~
+1720: higher than previous
+Window sum is 5158: higher than previous
+~~~Iteration 750~~~
+1721: higher than previous
+Window sum is 5159: higher than previous
+~~~Iteration 751~~~
+1741: higher than previous
+Window sum is 5182: higher than previous
+~~~Iteration 752~~~
+1724: lower than previous
+Window sum is 5186: higher than previous
+~~~Iteration 753~~~
+1722: lower than previous
+Window sum is 5187: higher than previous
+~~~Iteration 754~~~
+1728: higher than previous
+Window sum is 5174: lower than previous
+~~~Iteration 755~~~
+1739: higher than previous
+Window sum is 5189: higher than previous
+~~~Iteration 756~~~
+1747: higher than previous
+Window sum is 5214: higher than previous
+~~~Iteration 757~~~
+1766: higher than previous
+Window sum is 5252: higher than previous
+~~~Iteration 758~~~
+1767: higher than previous
+Window sum is 5280: higher than previous
+~~~Iteration 759~~~
+1755: lower than previous
+Window sum is 5288: higher than previous
+~~~Iteration 760~~~
+1761: higher than previous
+Window sum is 5283: lower than previous
+~~~Iteration 761~~~
+1796: higher than previous
+Window sum is 5312: higher than previous
+~~~Iteration 762~~~
+1798: higher than previous
+Window sum is 5355: higher than previous
+~~~Iteration 763~~~
+1792: lower than previous
+Window sum is 5386: higher than previous
+~~~Iteration 764~~~
+1791: lower than previous
+Window sum is 5381: lower than previous
+~~~Iteration 765~~~
+1798: higher than previous
+Window sum is 5381: lower than previous
+~~~Iteration 766~~~
+1805: higher than previous
+Window sum is 5394: higher than previous
+~~~Iteration 767~~~
+1803: lower than previous
+Window sum is 5406: higher than previous
+~~~Iteration 768~~~
+1806: higher than previous
+Window sum is 5414: higher than previous
+~~~Iteration 769~~~
+1807: higher than previous
+Window sum is 5416: higher than previous
+~~~Iteration 770~~~
+1812: higher than previous
+Window sum is 5425: higher than previous
+~~~Iteration 771~~~
+1815: higher than previous
+Window sum is 5434: higher than previous
+~~~Iteration 772~~~
+1816: higher than previous
+Window sum is 5443: higher than previous
+~~~Iteration 773~~~
+1837: higher than previous
+Window sum is 5468: higher than previous
+~~~Iteration 774~~~
+1839: higher than previous
+Window sum is 5492: higher than previous
+~~~Iteration 775~~~
+1838: lower than previous
+Window sum is 5514: higher than previous
+~~~Iteration 776~~~
+1842: higher than previous
+Window sum is 5519: higher than previous
+~~~Iteration 777~~~
+1852: higher than previous
+Window sum is 5532: higher than previous
+~~~Iteration 778~~~
+1855: higher than previous
+Window sum is 5549: higher than previous
+~~~Iteration 779~~~
+1843: lower than previous
+Window sum is 5550: higher than previous
+~~~Iteration 780~~~
+1869: higher than previous
+Window sum is 5567: higher than previous
+~~~Iteration 781~~~
+1875: higher than previous
+Window sum is 5587: higher than previous
+~~~Iteration 782~~~
+1880: higher than previous
+Window sum is 5624: higher than previous
+~~~Iteration 783~~~
+1886: higher than previous
+Window sum is 5641: higher than previous
+~~~Iteration 784~~~
+1881: lower than previous
+Window sum is 5647: higher than previous
+~~~Iteration 785~~~
+1899: higher than previous
+Window sum is 5666: higher than previous
+~~~Iteration 786~~~
+1902: higher than previous
+Window sum is 5682: higher than previous
+~~~Iteration 787~~~
+1905: higher than previous
+Window sum is 5706: higher than previous
+~~~Iteration 788~~~
+1913: higher than previous
+Window sum is 5720: higher than previous
+~~~Iteration 789~~~
+1911: lower than previous
+Window sum is 5729: higher than previous
+~~~Iteration 790~~~
+1912: higher than previous
+Window sum is 5736: higher than previous
+~~~Iteration 791~~~
+1915: higher than previous
+Window sum is 5738: higher than previous
+~~~Iteration 792~~~
+1910: lower than previous
+Window sum is 5737: lower than previous
+~~~Iteration 793~~~
+1934: higher than previous
+Window sum is 5759: higher than previous
+~~~Iteration 794~~~
+1935: higher than previous
+Window sum is 5779: higher than previous
+~~~Iteration 795~~~
+1942: higher than previous
+Window sum is 5811: higher than previous
+~~~Iteration 796~~~
+1944: higher than previous
+Window sum is 5821: higher than previous
+~~~Iteration 797~~~
+1959: higher than previous
+Window sum is 5845: higher than previous
+~~~Iteration 798~~~
+1979: higher than previous
+Window sum is 5882: higher than previous
+~~~Iteration 799~~~
+1951: lower than previous
+Window sum is 5889: higher than previous
+~~~Iteration 800~~~
+1952: higher than previous
+Window sum is 5882: lower than previous
+~~~Iteration 801~~~
+1966: higher than previous
+Window sum is 5869: lower than previous
+~~~Iteration 802~~~
+1978: higher than previous
+Window sum is 5896: higher than previous
+~~~Iteration 803~~~
+1994: higher than previous
+Window sum is 5938: higher than previous
+~~~Iteration 804~~~
+1997: higher than previous
+Window sum is 5969: higher than previous
+~~~Iteration 805~~~
+1988: lower than previous
+Window sum is 5979: higher than previous
+~~~Iteration 806~~~
+1992: higher than previous
+Window sum is 5977: lower than previous
+~~~Iteration 807~~~
+1993: higher than previous
+Window sum is 5973: lower than previous
+~~~Iteration 808~~~
+1998: higher than previous
+Window sum is 5983: higher than previous
+~~~Iteration 809~~~
+1997: lower than previous
+Window sum is 5988: higher than previous
+~~~Iteration 810~~~
+2000: higher than previous
+Window sum is 5995: higher than previous
+~~~Iteration 811~~~
+2001: higher than previous
+Window sum is 5998: higher than previous
+~~~Iteration 812~~~
+2003: higher than previous
+Window sum is 6004: higher than previous
+~~~Iteration 813~~~
+2012: higher than previous
+Window sum is 6016: higher than previous
+~~~Iteration 814~~~
+2014: higher than previous
+Window sum is 6029: higher than previous
+~~~Iteration 815~~~
+2005: lower than previous
+Window sum is 6031: higher than previous
+~~~Iteration 816~~~
+2026: higher than previous
+Window sum is 6045: higher than previous
+~~~Iteration 817~~~
+2045: higher than previous
+Window sum is 6076: higher than previous
+~~~Iteration 818~~~
+2044: lower than previous
+Window sum is 6115: higher than previous
+~~~Iteration 819~~~
+2045: higher than previous
+Window sum is 6134: higher than previous
+~~~Iteration 820~~~
+2052: higher than previous
+Window sum is 6141: higher than previous
+~~~Iteration 821~~~
+2045: lower than previous
+Window sum is 6142: higher than previous
+~~~Iteration 822~~~
+2046: higher than previous
+Window sum is 6143: higher than previous
+~~~Iteration 823~~~
+2048: higher than previous
+Window sum is 6139: lower than previous
+~~~Iteration 824~~~
+2043: lower than previous
+Window sum is 6137: lower than previous
+~~~Iteration 825~~~
+2072: higher than previous
+Window sum is 6163: higher than previous
+~~~Iteration 826~~~
+2080: higher than previous
+Window sum is 6195: higher than previous
+~~~Iteration 827~~~
+2078: lower than previous
+Window sum is 6230: higher than previous
+~~~Iteration 828~~~
+2089: higher than previous
+Window sum is 6247: higher than previous
+~~~Iteration 829~~~
+2090: higher than previous
+Window sum is 6257: higher than previous
+~~~Iteration 830~~~
+2091: higher than previous
+Window sum is 6270: higher than previous
+~~~Iteration 831~~~
+2095: higher than previous
+Window sum is 6276: higher than previous
+~~~Iteration 832~~~
+2087: lower than previous
+Window sum is 6273: lower than previous
+~~~Iteration 833~~~
+2091: higher than previous
+Window sum is 6273: lower than previous
+~~~Iteration 834~~~
+2092: higher than previous
+Window sum is 6270: lower than previous
+~~~Iteration 835~~~
+2112: higher than previous
+Window sum is 6295: higher than previous
+~~~Iteration 836~~~
+2119: higher than previous
+Window sum is 6323: higher than previous
+~~~Iteration 837~~~
+2122: higher than previous
+Window sum is 6353: higher than previous
+~~~Iteration 838~~~
+2123: higher than previous
+Window sum is 6364: higher than previous
+~~~Iteration 839~~~
+2124: higher than previous
+Window sum is 6369: higher than previous
+~~~Iteration 840~~~
+2133: higher than previous
+Window sum is 6380: higher than previous
+~~~Iteration 841~~~
+2147: higher than previous
+Window sum is 6404: higher than previous
+~~~Iteration 842~~~
+2148: higher than previous
+Window sum is 6428: higher than previous
+~~~Iteration 843~~~
+2146: lower than previous
+Window sum is 6441: higher than previous
+~~~Iteration 844~~~
+2155: higher than previous
+Window sum is 6449: higher than previous
+~~~Iteration 845~~~
+2153: lower than previous
+Window sum is 6454: higher than previous
+~~~Iteration 846~~~
+2155: higher than previous
+Window sum is 6463: higher than previous
+~~~Iteration 847~~~
+2152: lower than previous
+Window sum is 6460: lower than previous
+~~~Iteration 848~~~
+2157: higher than previous
+Window sum is 6464: higher than previous
+~~~Iteration 849~~~
+2128: lower than previous
+Window sum is 6437: lower than previous
+~~~Iteration 850~~~
+2114: lower than previous
+Window sum is 6399: lower than previous
+~~~Iteration 851~~~
+2115: higher than previous
+Window sum is 6357: lower than previous
+~~~Iteration 852~~~
+2116: higher than previous
+Window sum is 6345: lower than previous
+~~~Iteration 853~~~
+2118: higher than previous
+Window sum is 6349: higher than previous
+~~~Iteration 854~~~
+2117: lower than previous
+Window sum is 6351: higher than previous
+~~~Iteration 855~~~
+2121: higher than previous
+Window sum is 6356: higher than previous
+~~~Iteration 856~~~
+2115: lower than previous
+Window sum is 6353: lower than previous
+~~~Iteration 857~~~
+2117: higher than previous
+Window sum is 6353: lower than previous
+~~~Iteration 858~~~
+2116: lower than previous
+Window sum is 6348: lower than previous
+~~~Iteration 859~~~
+2120: higher than previous
+Window sum is 6353: higher than previous
+~~~Iteration 860~~~
+2123: higher than previous
+Window sum is 6359: higher than previous
+~~~Iteration 861~~~
+2128: higher than previous
+Window sum is 6371: higher than previous
+~~~Iteration 862~~~
+2135: higher than previous
+Window sum is 6386: higher than previous
+~~~Iteration 863~~~
+2132: lower than previous
+Window sum is 6395: higher than previous
+~~~Iteration 864~~~
+2137: higher than previous
+Window sum is 6404: higher than previous
+~~~Iteration 865~~~
+2149: higher than previous
+Window sum is 6418: higher than previous
+~~~Iteration 866~~~
+2157: higher than previous
+Window sum is 6443: higher than previous
+~~~Iteration 867~~~
+2152: lower than previous
+Window sum is 6458: higher than previous
+~~~Iteration 868~~~
+2146: lower than previous
+Window sum is 6455: lower than previous
+~~~Iteration 869~~~
+2140: lower than previous
+Window sum is 6438: lower than previous
+~~~Iteration 870~~~
+2136: lower than previous
+Window sum is 6422: lower than previous
+~~~Iteration 871~~~
+2143: higher than previous
+Window sum is 6419: lower than previous
+~~~Iteration 872~~~
+2146: higher than previous
+Window sum is 6425: higher than previous
+~~~Iteration 873~~~
+2156: higher than previous
+Window sum is 6445: higher than previous
+~~~Iteration 874~~~
+2158: higher than previous
+Window sum is 6460: higher than previous
+~~~Iteration 875~~~
+2153: lower than previous
+Window sum is 6467: higher than previous
+~~~Iteration 876~~~
+2151: lower than previous
+Window sum is 6462: lower than previous
+~~~Iteration 877~~~
+2154: higher than previous
+Window sum is 6458: lower than previous
+~~~Iteration 878~~~
+2184: higher than previous
+Window sum is 6489: higher than previous
+~~~Iteration 879~~~
+2188: higher than previous
+Window sum is 6526: higher than previous
+~~~Iteration 880~~~
+2175: lower than previous
+Window sum is 6547: higher than previous
+~~~Iteration 881~~~
+2174: lower than previous
+Window sum is 6537: lower than previous
+~~~Iteration 882~~~
+2172: lower than previous
+Window sum is 6521: lower than previous
+~~~Iteration 883~~~
+2158: lower than previous
+Window sum is 6504: lower than previous
+~~~Iteration 884~~~
+2170: higher than previous
+Window sum is 6500: lower than previous
+~~~Iteration 885~~~
+2156: lower than previous
+Window sum is 6484: lower than previous
+~~~Iteration 886~~~
+2138: lower than previous
+Window sum is 6464: lower than previous
+~~~Iteration 887~~~
+2136: lower than previous
+Window sum is 6430: lower than previous
+~~~Iteration 888~~~
+2138: higher than previous
+Window sum is 6412: lower than previous
+~~~Iteration 889~~~
+2141: higher than previous
+Window sum is 6415: higher than previous
+~~~Iteration 890~~~
+2140: lower than previous
+Window sum is 6419: higher than previous
+~~~Iteration 891~~~
+2121: lower than previous
+Window sum is 6402: lower than previous
+~~~Iteration 892~~~
+2117: lower than previous
+Window sum is 6378: lower than previous
+~~~Iteration 893~~~
+2111: lower than previous
+Window sum is 6349: lower than previous
+~~~Iteration 894~~~
+2106: lower than previous
+Window sum is 6334: lower than previous
+~~~Iteration 895~~~
+2110: higher than previous
+Window sum is 6327: lower than previous
+~~~Iteration 896~~~
+2116: higher than previous
+Window sum is 6332: higher than previous
+~~~Iteration 897~~~
+2119: higher than previous
+Window sum is 6345: higher than previous
+~~~Iteration 898~~~
+2120: higher than previous
+Window sum is 6355: higher than previous
+~~~Iteration 899~~~
+2124: higher than previous
+Window sum is 6363: higher than previous
+~~~Iteration 900~~~
+2126: higher than previous
+Window sum is 6370: higher than previous
+~~~Iteration 901~~~
+2132: higher than previous
+Window sum is 6382: higher than previous
+~~~Iteration 902~~~
+2133: higher than previous
+Window sum is 6391: higher than previous
+~~~Iteration 903~~~
+2134: higher than previous
+Window sum is 6399: higher than previous
+~~~Iteration 904~~~
+2148: higher than previous
+Window sum is 6415: higher than previous
+~~~Iteration 905~~~
+2182: higher than previous
+Window sum is 6464: higher than previous
+~~~Iteration 906~~~
+2176: lower than previous
+Window sum is 6506: higher than previous
+~~~Iteration 907~~~
+2177: higher than previous
+Window sum is 6535: higher than previous
+~~~Iteration 908~~~
+2178: higher than previous
+Window sum is 6531: lower than previous
+~~~Iteration 909~~~
+2177: lower than previous
+Window sum is 6532: higher than previous
+~~~Iteration 910~~~
+2182: higher than previous
+Window sum is 6537: higher than previous
+~~~Iteration 911~~~
+2175: lower than previous
+Window sum is 6534: lower than previous
+~~~Iteration 912~~~
+2173: lower than previous
+Window sum is 6530: lower than previous
+~~~Iteration 913~~~
+2177: higher than previous
+Window sum is 6525: lower than previous
+~~~Iteration 914~~~
+2179: higher than previous
+Window sum is 6529: higher than previous
+~~~Iteration 915~~~
+2188: higher than previous
+Window sum is 6544: higher than previous
+~~~Iteration 916~~~
+2191: higher than previous
+Window sum is 6558: higher than previous
+~~~Iteration 917~~~
+2192: higher than previous
+Window sum is 6571: higher than previous
+~~~Iteration 918~~~
+2191: lower than previous
+Window sum is 6574: higher than previous
+~~~Iteration 919~~~
+2192: higher than previous
+Window sum is 6575: higher than previous
+~~~Iteration 920~~~
+2197: higher than previous
+Window sum is 6580: higher than previous
+~~~Iteration 921~~~
+2195: lower than previous
+Window sum is 6584: higher than previous
+~~~Iteration 922~~~
+2199: higher than previous
+Window sum is 6591: higher than previous
+~~~Iteration 923~~~
+2190: lower than previous
+Window sum is 6584: lower than previous
+~~~Iteration 924~~~
+2192: higher than previous
+Window sum is 6581: lower than previous
+~~~Iteration 925~~~
+2218: higher than previous
+Window sum is 6600: higher than previous
+~~~Iteration 926~~~
+2219: higher than previous
+Window sum is 6629: higher than previous
+~~~Iteration 927~~~
+2222: higher than previous
+Window sum is 6659: higher than previous
+~~~Iteration 928~~~
+2212: lower than previous
+Window sum is 6653: lower than previous
+~~~Iteration 929~~~
+2209: lower than previous
+Window sum is 6643: lower than previous
+~~~Iteration 930~~~
+2208: lower than previous
+Window sum is 6629: lower than previous
+~~~Iteration 931~~~
+2213: higher than previous
+Window sum is 6630: higher than previous
+~~~Iteration 932~~~
+2214: higher than previous
+Window sum is 6635: higher than previous
+~~~Iteration 933~~~
+2215: higher than previous
+Window sum is 6642: higher than previous
+~~~Iteration 934~~~
+2212: lower than previous
+Window sum is 6641: lower than previous
+~~~Iteration 935~~~
+2217: higher than previous
+Window sum is 6644: higher than previous
+~~~Iteration 936~~~
+2216: lower than previous
+Window sum is 6645: higher than previous
+~~~Iteration 937~~~
+2234: higher than previous
+Window sum is 6667: higher than previous
+~~~Iteration 938~~~
+2252: higher than previous
+Window sum is 6702: higher than previous
+~~~Iteration 939~~~
+2253: higher than previous
+Window sum is 6739: higher than previous
+~~~Iteration 940~~~
+2256: higher than previous
+Window sum is 6761: higher than previous
+~~~Iteration 941~~~
+2270: higher than previous
+Window sum is 6779: higher than previous
+~~~Iteration 942~~~
+2271: higher than previous
+Window sum is 6797: higher than previous
+~~~Iteration 943~~~
+2293: higher than previous
+Window sum is 6834: higher than previous
+~~~Iteration 944~~~
+2299: higher than previous
+Window sum is 6863: higher than previous
+~~~Iteration 945~~~
+2317: higher than previous
+Window sum is 6909: higher than previous
+~~~Iteration 946~~~
+2309: lower than previous
+Window sum is 6925: higher than previous
+~~~Iteration 947~~~
+2313: higher than previous
+Window sum is 6939: higher than previous
+~~~Iteration 948~~~
+2312: lower than previous
+Window sum is 6934: lower than previous
+~~~Iteration 949~~~
+2316: higher than previous
+Window sum is 6941: higher than previous
+~~~Iteration 950~~~
+2320: higher than previous
+Window sum is 6948: higher than previous
+~~~Iteration 951~~~
+2352: higher than previous
+Window sum is 6988: higher than previous
+~~~Iteration 952~~~
+2328: lower than previous
+Window sum is 7000: higher than previous
+~~~Iteration 953~~~
+2337: higher than previous
+Window sum is 7017: higher than previous
+~~~Iteration 954~~~
+2363: higher than previous
+Window sum is 7028: higher than previous
+~~~Iteration 955~~~
+2369: higher than previous
+Window sum is 7069: higher than previous
+~~~Iteration 956~~~
+2365: lower than previous
+Window sum is 7097: higher than previous
+~~~Iteration 957~~~
+2364: lower than previous
+Window sum is 7098: higher than previous
+~~~Iteration 958~~~
+2365: higher than previous
+Window sum is 7094: lower than previous
+~~~Iteration 959~~~
+2364: lower than previous
+Window sum is 7093: lower than previous
+~~~Iteration 960~~~
+2366: higher than previous
+Window sum is 7095: higher than previous
+~~~Iteration 961~~~
+2383: higher than previous
+Window sum is 7113: higher than previous
+~~~Iteration 962~~~
+2385: higher than previous
+Window sum is 7134: higher than previous
+~~~Iteration 963~~~
+2383: lower than previous
+Window sum is 7151: higher than previous
+~~~Iteration 964~~~
+2382: lower than previous
+Window sum is 7150: lower than previous
+~~~Iteration 965~~~
+2386: higher than previous
+Window sum is 7151: higher than previous
+~~~Iteration 966~~~
+2413: higher than previous
+Window sum is 7181: higher than previous
+~~~Iteration 967~~~
+2415: higher than previous
+Window sum is 7214: higher than previous
+~~~Iteration 968~~~
+2420: higher than previous
+Window sum is 7248: higher than previous
+~~~Iteration 969~~~
+2424: higher than previous
+Window sum is 7259: higher than previous
+~~~Iteration 970~~~
+2440: higher than previous
+Window sum is 7284: higher than previous
+~~~Iteration 971~~~
+2441: higher than previous
+Window sum is 7305: higher than previous
+~~~Iteration 972~~~
+2443: higher than previous
+Window sum is 7324: higher than previous
+~~~Iteration 973~~~
+2456: higher than previous
+Window sum is 7340: higher than previous
+~~~Iteration 974~~~
+2464: higher than previous
+Window sum is 7363: higher than previous
+~~~Iteration 975~~~
+2469: higher than previous
+Window sum is 7389: higher than previous
+~~~Iteration 976~~~
+2487: higher than previous
+Window sum is 7420: higher than previous
+~~~Iteration 977~~~
+2488: higher than previous
+Window sum is 7444: higher than previous
+~~~Iteration 978~~~
+2495: higher than previous
+Window sum is 7470: higher than previous
+~~~Iteration 979~~~
+2498: higher than previous
+Window sum is 7481: higher than previous
+~~~Iteration 980~~~
+2500: higher than previous
+Window sum is 7493: higher than previous
+~~~Iteration 981~~~
+2498: lower than previous
+Window sum is 7496: higher than previous
+~~~Iteration 982~~~
+2497: lower than previous
+Window sum is 7495: lower than previous
+~~~Iteration 983~~~
+2499: higher than previous
+Window sum is 7494: lower than previous
+~~~Iteration 984~~~
+2501: higher than previous
+Window sum is 7497: higher than previous
+~~~Iteration 985~~~
+2518: higher than previous
+Window sum is 7518: higher than previous
+~~~Iteration 986~~~
+2533: higher than previous
+Window sum is 7552: higher than previous
+~~~Iteration 987~~~
+2532: lower than previous
+Window sum is 7583: higher than previous
+~~~Iteration 988~~~
+2538: higher than previous
+Window sum is 7603: higher than previous
+~~~Iteration 989~~~
+2535: lower than previous
+Window sum is 7605: higher than previous
+~~~Iteration 990~~~
+2539: higher than previous
+Window sum is 7612: higher than previous
+~~~Iteration 991~~~
+2525: lower than previous
+Window sum is 7599: lower than previous
+~~~Iteration 992~~~
+2526: higher than previous
+Window sum is 7590: lower than previous
+~~~Iteration 993~~~
+2525: lower than previous
+Window sum is 7576: lower than previous
+~~~Iteration 994~~~
+2517: lower than previous
+Window sum is 7568: lower than previous
+~~~Iteration 995~~~
+2515: lower than previous
+Window sum is 7557: lower than previous
+~~~Iteration 996~~~
+2519: higher than previous
+Window sum is 7551: lower than previous
+~~~Iteration 997~~~
+2508: lower than previous
+Window sum is 7542: lower than previous
+~~~Iteration 998~~~
+2510: higher than previous
+Window sum is 7537: lower than previous
+~~~Iteration 999~~~
+2500: lower than previous
+Window sum is 7518: lower than previous
+~~~Iteration 1000~~~
+2508: higher than previous
+Window sum is 7518: lower than previous
+~~~Iteration 1001~~~
+2519: higher than previous
+Window sum is 7527: higher than previous
+~~~Iteration 1002~~~
+2504: lower than previous
+Window sum is 7531: higher than previous
+~~~Iteration 1003~~~
+2513: higher than previous
+Window sum is 7536: higher than previous
+~~~Iteration 1004~~~
+2515: higher than previous
+Window sum is 7532: lower than previous
+~~~Iteration 1005~~~
+2513: lower than previous
+Window sum is 7541: higher than previous
+~~~Iteration 1006~~~
+2514: higher than previous
+Window sum is 7542: higher than previous
+~~~Iteration 1007~~~
+2520: higher than previous
+Window sum is 7547: higher than previous
+~~~Iteration 1008~~~
+2523: higher than previous
+Window sum is 7557: higher than previous
+~~~Iteration 1009~~~
+2522: lower than previous
+Window sum is 7565: higher than previous
+~~~Iteration 1010~~~
+2524: higher than previous
+Window sum is 7569: higher than previous
+~~~Iteration 1011~~~
+2522: lower than previous
+Window sum is 7568: lower than previous
+~~~Iteration 1012~~~
+2529: higher than previous
+Window sum is 7575: higher than previous
+~~~Iteration 1013~~~
+2528: lower than previous
+Window sum is 7579: higher than previous
+~~~Iteration 1014~~~
+2529: higher than previous
+Window sum is 7586: higher than previous
+~~~Iteration 1015~~~
+2516: lower than previous
+Window sum is 7573: lower than previous
+~~~Iteration 1016~~~
+2515: lower than previous
+Window sum is 7560: lower than previous
+~~~Iteration 1017~~~
+2517: higher than previous
+Window sum is 7548: lower than previous
+~~~Iteration 1018~~~
+2526: higher than previous
+Window sum is 7558: higher than previous
+~~~Iteration 1019~~~
+2528: higher than previous
+Window sum is 7571: higher than previous
+~~~Iteration 1020~~~
+2533: higher than previous
+Window sum is 7587: higher than previous
+~~~Iteration 1021~~~
+2520: lower than previous
+Window sum is 7581: lower than previous
+~~~Iteration 1022~~~
+2519: lower than previous
+Window sum is 7572: lower than previous
+~~~Iteration 1023~~~
+2521: higher than previous
+Window sum is 7560: lower than previous
+~~~Iteration 1024~~~
+2517: lower than previous
+Window sum is 7557: lower than previous
+~~~Iteration 1025~~~
+2533: higher than previous
+Window sum is 7571: higher than previous
+~~~Iteration 1026~~~
+2540: higher than previous
+Window sum is 7590: higher than previous
+~~~Iteration 1027~~~
+2543: higher than previous
+Window sum is 7616: higher than previous
+~~~Iteration 1028~~~
+2545: higher than previous
+Window sum is 7628: higher than previous
+~~~Iteration 1029~~~
+2537: lower than previous
+Window sum is 7625: lower than previous
+~~~Iteration 1030~~~
+2532: lower than previous
+Window sum is 7614: lower than previous
+~~~Iteration 1031~~~
+2533: higher than previous
+Window sum is 7602: lower than previous
+~~~Iteration 1032~~~
+2535: higher than previous
+Window sum is 7600: lower than previous
+~~~Iteration 1033~~~
+2530: lower than previous
+Window sum is 7598: lower than previous
+~~~Iteration 1034~~~
+2531: higher than previous
+Window sum is 7596: lower than previous
+~~~Iteration 1035~~~
+2545: higher than previous
+Window sum is 7606: higher than previous
+~~~Iteration 1036~~~
+2569: higher than previous
+Window sum is 7645: higher than previous
+~~~Iteration 1037~~~
+2570: higher than previous
+Window sum is 7684: higher than previous
+~~~Iteration 1038~~~
+2571: higher than previous
+Window sum is 7710: higher than previous
+~~~Iteration 1039~~~
+2546: lower than previous
+Window sum is 7687: lower than previous
+~~~Iteration 1040~~~
+2563: higher than previous
+Window sum is 7680: lower than previous
+~~~Iteration 1041~~~
+2564: higher than previous
+Window sum is 7673: lower than previous
+~~~Iteration 1042~~~
+2565: higher than previous
+Window sum is 7692: higher than previous
+~~~Iteration 1043~~~
+2567: higher than previous
+Window sum is 7696: higher than previous
+~~~Iteration 1044~~~
+2549: lower than previous
+Window sum is 7681: lower than previous
+~~~Iteration 1045~~~
+2542: lower than previous
+Window sum is 7658: lower than previous
+~~~Iteration 1046~~~
+2545: higher than previous
+Window sum is 7636: lower than previous
+~~~Iteration 1047~~~
+2554: higher than previous
+Window sum is 7641: higher than previous
+~~~Iteration 1048~~~
+2580: higher than previous
+Window sum is 7679: higher than previous
+~~~Iteration 1049~~~
+2592: higher than previous
+Window sum is 7726: higher than previous
+~~~Iteration 1050~~~
+2588: lower than previous
+Window sum is 7760: higher than previous
+~~~Iteration 1051~~~
+2593: higher than previous
+Window sum is 7773: higher than previous
+~~~Iteration 1052~~~
+2595: higher than previous
+Window sum is 7776: higher than previous
+~~~Iteration 1053~~~
+2596: higher than previous
+Window sum is 7784: higher than previous
+~~~Iteration 1054~~~
+2601: higher than previous
+Window sum is 7792: higher than previous
+~~~Iteration 1055~~~
+2600: lower than previous
+Window sum is 7797: higher than previous
+~~~Iteration 1056~~~
+2601: higher than previous
+Window sum is 7802: higher than previous
+~~~Iteration 1057~~~
+2608: higher than previous
+Window sum is 7809: higher than previous
+~~~Iteration 1058~~~
+2598: lower than previous
+Window sum is 7807: lower than previous
+~~~Iteration 1059~~~
+2592: lower than previous
+Window sum is 7798: lower than previous
+~~~Iteration 1060~~~
+2584: lower than previous
+Window sum is 7774: lower than previous
+~~~Iteration 1061~~~
+2583: lower than previous
+Window sum is 7759: lower than previous
+~~~Iteration 1062~~~
+2599: higher than previous
+Window sum is 7766: higher than previous
+~~~Iteration 1063~~~
+2600: higher than previous
+Window sum is 7782: higher than previous
+~~~Iteration 1064~~~
+2603: higher than previous
+Window sum is 7802: higher than previous
+~~~Iteration 1065~~~
+2613: higher than previous
+Window sum is 7816: higher than previous
+~~~Iteration 1066~~~
+2612: lower than previous
+Window sum is 7828: higher than previous
+~~~Iteration 1067~~~
+2613: higher than previous
+Window sum is 7838: higher than previous
+~~~Iteration 1068~~~
+2622: higher than previous
+Window sum is 7847: higher than previous
+~~~Iteration 1069~~~
+2612: lower than previous
+Window sum is 7847: lower than previous
+~~~Iteration 1070~~~
+2616: higher than previous
+Window sum is 7850: higher than previous
+~~~Iteration 1071~~~
+2610: lower than previous
+Window sum is 7838: lower than previous
+~~~Iteration 1072~~~
+2611: higher than previous
+Window sum is 7837: lower than previous
+~~~Iteration 1073~~~
+2621: higher than previous
+Window sum is 7842: higher than previous
+~~~Iteration 1074~~~
+2622: higher than previous
+Window sum is 7854: higher than previous
+~~~Iteration 1075~~~
+2625: higher than previous
+Window sum is 7868: higher than previous
+~~~Iteration 1076~~~
+2634: higher than previous
+Window sum is 7881: higher than previous
+~~~Iteration 1077~~~
+2639: higher than previous
+Window sum is 7898: higher than previous
+~~~Iteration 1078~~~
+2644: higher than previous
+Window sum is 7917: higher than previous
+~~~Iteration 1079~~~
+2632: lower than previous
+Window sum is 7915: lower than previous
+~~~Iteration 1080~~~
+2635: higher than previous
+Window sum is 7911: lower than previous
+~~~Iteration 1081~~~
+2633: lower than previous
+Window sum is 7900: lower than previous
+~~~Iteration 1082~~~
+2642: higher than previous
+Window sum is 7910: higher than previous
+~~~Iteration 1083~~~
+2627: lower than previous
+Window sum is 7902: lower than previous
+~~~Iteration 1084~~~
+2617: lower than previous
+Window sum is 7886: lower than previous
+~~~Iteration 1085~~~
+2616: lower than previous
+Window sum is 7860: lower than previous
+~~~Iteration 1086~~~
+2617: higher than previous
+Window sum is 7850: lower than previous
+~~~Iteration 1087~~~
+2621: higher than previous
+Window sum is 7854: higher than previous
+~~~Iteration 1088~~~
+2620: lower than previous
+Window sum is 7858: higher than previous
+~~~Iteration 1089~~~
+2648: higher than previous
+Window sum is 7889: higher than previous
+~~~Iteration 1090~~~
+2654: higher than previous
+Window sum is 7922: higher than previous
+~~~Iteration 1091~~~
+2630: lower than previous
+Window sum is 7932: higher than previous
+~~~Iteration 1092~~~
+2633: higher than previous
+Window sum is 7917: lower than previous
+~~~Iteration 1093~~~
+2637: higher than previous
+Window sum is 7900: lower than previous
+~~~Iteration 1094~~~
+2640: higher than previous
+Window sum is 7910: higher than previous
+~~~Iteration 1095~~~
+2634: lower than previous
+Window sum is 7911: higher than previous
+~~~Iteration 1096~~~
+2636: higher than previous
+Window sum is 7910: lower than previous
+~~~Iteration 1097~~~
+2645: higher than previous
+Window sum is 7915: higher than previous
+~~~Iteration 1098~~~
+2639: lower than previous
+Window sum is 7920: higher than previous
+~~~Iteration 1099~~~
+2658: higher than previous
+Window sum is 7942: higher than previous
+~~~Iteration 1100~~~
+2660: higher than previous
+Window sum is 7957: higher than previous
+~~~Iteration 1101~~~
+2653: lower than previous
+Window sum is 7971: higher than previous
+~~~Iteration 1102~~~
+2634: lower than previous
+Window sum is 7947: lower than previous
+~~~Iteration 1103~~~
+2636: higher than previous
+Window sum is 7923: lower than previous
+~~~Iteration 1104~~~
+2638: higher than previous
+Window sum is 7908: lower than previous
+~~~Iteration 1105~~~
+2633: lower than previous
+Window sum is 7907: lower than previous
+~~~Iteration 1106~~~
+2649: higher than previous
+Window sum is 7920: higher than previous
+~~~Iteration 1107~~~
+2650: higher than previous
+Window sum is 7932: higher than previous
+~~~Iteration 1108~~~
+2651: higher than previous
+Window sum is 7950: higher than previous
+~~~Iteration 1109~~~
+2645: lower than previous
+Window sum is 7946: lower than previous
+~~~Iteration 1110~~~
+2634: lower than previous
+Window sum is 7930: lower than previous
+~~~Iteration 1111~~~
+2635: higher than previous
+Window sum is 7914: lower than previous
+~~~Iteration 1112~~~
+2661: higher than previous
+Window sum is 7930: higher than previous
+~~~Iteration 1113~~~
+2664: higher than previous
+Window sum is 7960: higher than previous
+~~~Iteration 1114~~~
+2671: higher than previous
+Window sum is 7996: higher than previous
+~~~Iteration 1115~~~
+2670: lower than previous
+Window sum is 8005: higher than previous
+~~~Iteration 1116~~~
+2662: lower than previous
+Window sum is 8003: lower than previous
+~~~Iteration 1117~~~
+2636: lower than previous
+Window sum is 7968: lower than previous
+~~~Iteration 1118~~~
+2641: higher than previous
+Window sum is 7939: lower than previous
+~~~Iteration 1119~~~
+2647: higher than previous
+Window sum is 7924: lower than previous
+~~~Iteration 1120~~~
+2639: lower than previous
+Window sum is 7927: higher than previous
+~~~Iteration 1121~~~
+2613: lower than previous
+Window sum is 7899: lower than previous
+~~~Iteration 1122~~~
+2595: lower than previous
+Window sum is 7847: lower than previous
+~~~Iteration 1123~~~
+2610: higher than previous
+Window sum is 7818: lower than previous
+~~~Iteration 1124~~~
+2608: lower than previous
+Window sum is 7813: lower than previous
+~~~Iteration 1125~~~
+2579: lower than previous
+Window sum is 7797: lower than previous
+~~~Iteration 1126~~~
+2574: lower than previous
+Window sum is 7761: lower than previous
+~~~Iteration 1127~~~
+2573: lower than previous
+Window sum is 7726: lower than previous
+~~~Iteration 1128~~~
+2574: higher than previous
+Window sum is 7721: lower than previous
+~~~Iteration 1129~~~
+2573: lower than previous
+Window sum is 7720: lower than previous
+~~~Iteration 1130~~~
+2576: higher than previous
+Window sum is 7723: higher than previous
+~~~Iteration 1131~~~
+2578: higher than previous
+Window sum is 7727: higher than previous
+~~~Iteration 1132~~~
+2575: lower than previous
+Window sum is 7729: higher than previous
+~~~Iteration 1133~~~
+2577: higher than previous
+Window sum is 7730: higher than previous
+~~~Iteration 1134~~~
+2579: higher than previous
+Window sum is 7731: higher than previous
+~~~Iteration 1135~~~
+2578: lower than previous
+Window sum is 7734: higher than previous
+~~~Iteration 1136~~~
+2579: higher than previous
+Window sum is 7736: higher than previous
+~~~Iteration 1137~~~
+2580: higher than previous
+Window sum is 7737: higher than previous
+~~~Iteration 1138~~~
+2582: higher than previous
+Window sum is 7741: higher than previous
+~~~Iteration 1139~~~
+2580: lower than previous
+Window sum is 7742: higher than previous
+~~~Iteration 1140~~~
+2576: lower than previous
+Window sum is 7738: lower than previous
+~~~Iteration 1141~~~
+2567: lower than previous
+Window sum is 7723: lower than previous
+~~~Iteration 1142~~~
+2575: higher than previous
+Window sum is 7718: lower than previous
+~~~Iteration 1143~~~
+2576: higher than previous
+Window sum is 7718: lower than previous
+~~~Iteration 1144~~~
+2570: lower than previous
+Window sum is 7721: higher than previous
+~~~Iteration 1145~~~
+2595: higher than previous
+Window sum is 7741: higher than previous
+~~~Iteration 1146~~~
+2601: higher than previous
+Window sum is 7766: higher than previous
+~~~Iteration 1147~~~
+2602: higher than previous
+Window sum is 7798: higher than previous
+~~~Iteration 1148~~~
+2587: lower than previous
+Window sum is 7790: lower than previous
+~~~Iteration 1149~~~
+2596: higher than previous
+Window sum is 7785: lower than previous
+~~~Iteration 1150~~~
+2592: lower than previous
+Window sum is 7775: lower than previous
+~~~Iteration 1151~~~
+2594: higher than previous
+Window sum is 7782: higher than previous
+~~~Iteration 1152~~~
+2599: higher than previous
+Window sum is 7785: higher than previous
+~~~Iteration 1153~~~
+2600: higher than previous
+Window sum is 7793: higher than previous
+~~~Iteration 1154~~~
+2599: lower than previous
+Window sum is 7798: higher than previous
+~~~Iteration 1155~~~
+2602: higher than previous
+Window sum is 7801: higher than previous
+~~~Iteration 1156~~~
+2603: higher than previous
+Window sum is 7804: higher than previous
+~~~Iteration 1157~~~
+2626: higher than previous
+Window sum is 7831: higher than previous
+~~~Iteration 1158~~~
+2647: higher than previous
+Window sum is 7876: higher than previous
+~~~Iteration 1159~~~
+2655: higher than previous
+Window sum is 7928: higher than previous
+~~~Iteration 1160~~~
+2658: higher than previous
+Window sum is 7960: higher than previous
+~~~Iteration 1161~~~
+2659: higher than previous
+Window sum is 7972: higher than previous
+~~~Iteration 1162~~~
+2661: higher than previous
+Window sum is 7978: higher than previous
+~~~Iteration 1163~~~
+2663: higher than previous
+Window sum is 7983: higher than previous
+~~~Iteration 1164~~~
+2672: higher than previous
+Window sum is 7996: higher than previous
+~~~Iteration 1165~~~
+2673: higher than previous
+Window sum is 8008: higher than previous
+~~~Iteration 1166~~~
+2672: lower than previous
+Window sum is 8017: higher than previous
+~~~Iteration 1167~~~
+2678: higher than previous
+Window sum is 8023: higher than previous
+~~~Iteration 1168~~~
+2696: higher than previous
+Window sum is 8046: higher than previous
+~~~Iteration 1169~~~
+2690: lower than previous
+Window sum is 8064: higher than previous
+~~~Iteration 1170~~~
+2694: higher than previous
+Window sum is 8080: higher than previous
+~~~Iteration 1171~~~
+2696: higher than previous
+Window sum is 8080: lower than previous
+~~~Iteration 1172~~~
+2704: higher than previous
+Window sum is 8094: higher than previous
+~~~Iteration 1173~~~
+2705: higher than previous
+Window sum is 8105: higher than previous
+~~~Iteration 1174~~~
+2710: higher than previous
+Window sum is 8119: higher than previous
+~~~Iteration 1175~~~
+2709: lower than previous
+Window sum is 8124: higher than previous
+~~~Iteration 1176~~~
+2713: higher than previous
+Window sum is 8132: higher than previous
+~~~Iteration 1177~~~
+2714: higher than previous
+Window sum is 8136: higher than previous
+~~~Iteration 1178~~~
+2727: higher than previous
+Window sum is 8154: higher than previous
+~~~Iteration 1179~~~
+2728: higher than previous
+Window sum is 8169: higher than previous
+~~~Iteration 1180~~~
+2730: higher than previous
+Window sum is 8185: higher than previous
+~~~Iteration 1181~~~
+2741: higher than previous
+Window sum is 8199: higher than previous
+~~~Iteration 1182~~~
+2742: higher than previous
+Window sum is 8213: higher than previous
+~~~Iteration 1183~~~
+2743: higher than previous
+Window sum is 8226: higher than previous
+~~~Iteration 1184~~~
+2737: lower than previous
+Window sum is 8222: lower than previous
+~~~Iteration 1185~~~
+2734: lower than previous
+Window sum is 8214: lower than previous
+~~~Iteration 1186~~~
+2762: higher than previous
+Window sum is 8233: higher than previous
+~~~Iteration 1187~~~
+2763: higher than previous
+Window sum is 8259: higher than previous
+~~~Iteration 1188~~~
+2762: lower than previous
+Window sum is 8287: higher than previous
+~~~Iteration 1189~~~
+2760: lower than previous
+Window sum is 8285: lower than previous
+~~~Iteration 1190~~~
+2778: higher than previous
+Window sum is 8300: higher than previous
+~~~Iteration 1191~~~
+2780: higher than previous
+Window sum is 8318: higher than previous
+~~~Iteration 1192~~~
+2783: higher than previous
+Window sum is 8341: higher than previous
+~~~Iteration 1193~~~
+2780: lower than previous
+Window sum is 8343: higher than previous
+~~~Iteration 1194~~~
+2758: lower than previous
+Window sum is 8321: lower than previous
+~~~Iteration 1195~~~
+2759: higher than previous
+Window sum is 8297: lower than previous
+~~~Iteration 1196~~~
+2783: higher than previous
+Window sum is 8300: higher than previous
+~~~Iteration 1197~~~
+2792: higher than previous
+Window sum is 8334: higher than previous
+~~~Iteration 1198~~~
+2790: lower than previous
+Window sum is 8365: higher than previous
+~~~Iteration 1199~~~
+2792: higher than previous
+Window sum is 8374: higher than previous
+~~~Iteration 1200~~~
+2789: lower than previous
+Window sum is 8371: lower than previous
+~~~Iteration 1201~~~
+2790: higher than previous
+Window sum is 8371: lower than previous
+~~~Iteration 1202~~~
+2772: lower than previous
+Window sum is 8351: lower than previous
+~~~Iteration 1203~~~
+2757: lower than previous
+Window sum is 8319: lower than previous
+~~~Iteration 1204~~~
+2756: lower than previous
+Window sum is 8285: lower than previous
+~~~Iteration 1205~~~
+2759: higher than previous
+Window sum is 8272: lower than previous
+~~~Iteration 1206~~~
+2758: lower than previous
+Window sum is 8273: higher than previous
+~~~Iteration 1207~~~
+2764: higher than previous
+Window sum is 8281: higher than previous
+~~~Iteration 1208~~~
+2765: higher than previous
+Window sum is 8287: higher than previous
+~~~Iteration 1209~~~
+2763: lower than previous
+Window sum is 8292: higher than previous
+~~~Iteration 1210~~~
+2771: higher than previous
+Window sum is 8299: higher than previous
+~~~Iteration 1211~~~
+2772: higher than previous
+Window sum is 8306: higher than previous
+~~~Iteration 1212~~~
+2773: higher than previous
+Window sum is 8316: higher than previous
+~~~Iteration 1213~~~
+2774: higher than previous
+Window sum is 8319: higher than previous
+~~~Iteration 1214~~~
+2794: higher than previous
+Window sum is 8341: higher than previous
+~~~Iteration 1215~~~
+2798: higher than previous
+Window sum is 8366: higher than previous
+~~~Iteration 1216~~~
+2797: lower than previous
+Window sum is 8389: higher than previous
+~~~Iteration 1217~~~
+2795: lower than previous
+Window sum is 8390: higher than previous
+~~~Iteration 1218~~~
+2793: lower than previous
+Window sum is 8385: lower than previous
+~~~Iteration 1219~~~
+2794: higher than previous
+Window sum is 8382: lower than previous
+~~~Iteration 1220~~~
+2805: higher than previous
+Window sum is 8392: higher than previous
+~~~Iteration 1221~~~
+2809: higher than previous
+Window sum is 8408: higher than previous
+~~~Iteration 1222~~~
+2811: higher than previous
+Window sum is 8425: higher than previous
+~~~Iteration 1223~~~
+2813: higher than previous
+Window sum is 8433: higher than previous
+~~~Iteration 1224~~~
+2814: higher than previous
+Window sum is 8438: higher than previous
+~~~Iteration 1225~~~
+2821: higher than previous
+Window sum is 8448: higher than previous
+~~~Iteration 1226~~~
+2822: higher than previous
+Window sum is 8457: higher than previous
+~~~Iteration 1227~~~
+2841: higher than previous
+Window sum is 8484: higher than previous
+~~~Iteration 1228~~~
+2826: lower than previous
+Window sum is 8489: higher than previous
+~~~Iteration 1229~~~
+2828: higher than previous
+Window sum is 8495: higher than previous
+~~~Iteration 1230~~~
+2829: higher than previous
+Window sum is 8483: lower than previous
+~~~Iteration 1231~~~
+2846: higher than previous
+Window sum is 8503: higher than previous
+~~~Iteration 1232~~~
+2833: lower than previous
+Window sum is 8508: higher than previous
+~~~Iteration 1233~~~
+2838: higher than previous
+Window sum is 8517: higher than previous
+~~~Iteration 1234~~~
+2845: higher than previous
+Window sum is 8516: lower than previous
+~~~Iteration 1235~~~
+2851: higher than previous
+Window sum is 8534: higher than previous
+~~~Iteration 1236~~~
+2850: lower than previous
+Window sum is 8546: higher than previous
+~~~Iteration 1237~~~
+2862: higher than previous
+Window sum is 8563: higher than previous
+~~~Iteration 1238~~~
+2870: higher than previous
+Window sum is 8582: higher than previous
+~~~Iteration 1239~~~
+2849: lower than previous
+Window sum is 8581: lower than previous
+~~~Iteration 1240~~~
+2864: higher than previous
+Window sum is 8583: higher than previous
+~~~Iteration 1241~~~
+2865: higher than previous
+Window sum is 8578: lower than previous
+~~~Iteration 1242~~~
+2873: higher than previous
+Window sum is 8602: higher than previous
+~~~Iteration 1243~~~
+2878: higher than previous
+Window sum is 8616: higher than previous
+~~~Iteration 1244~~~
+2880: higher than previous
+Window sum is 8631: higher than previous
+~~~Iteration 1245~~~
+2888: higher than previous
+Window sum is 8646: higher than previous
+~~~Iteration 1246~~~
+2889: higher than previous
+Window sum is 8657: higher than previous
+~~~Iteration 1247~~~
+2913: higher than previous
+Window sum is 8690: higher than previous
+~~~Iteration 1248~~~
+2921: higher than previous
+Window sum is 8723: higher than previous
+~~~Iteration 1249~~~
+2927: higher than previous
+Window sum is 8761: higher than previous
+~~~Iteration 1250~~~
+2928: higher than previous
+Window sum is 8776: higher than previous
+~~~Iteration 1251~~~
+2916: lower than previous
+Window sum is 8771: lower than previous
+~~~Iteration 1252~~~
+2909: lower than previous
+Window sum is 8753: lower than previous
+~~~Iteration 1253~~~
+2908: lower than previous
+Window sum is 8733: lower than previous
+~~~Iteration 1254~~~
+2896: lower than previous
+Window sum is 8713: lower than previous
+~~~Iteration 1255~~~
+2897: higher than previous
+Window sum is 8701: lower than previous
+~~~Iteration 1256~~~
+2922: higher than previous
+Window sum is 8715: higher than previous
+~~~Iteration 1257~~~
+2928: higher than previous
+Window sum is 8747: higher than previous
+~~~Iteration 1258~~~
+2920: lower than previous
+Window sum is 8770: higher than previous
+~~~Iteration 1259~~~
+2924: higher than previous
+Window sum is 8772: higher than previous
+~~~Iteration 1260~~~
+2934: higher than previous
+Window sum is 8778: higher than previous
+~~~Iteration 1261~~~
+2935: higher than previous
+Window sum is 8793: higher than previous
+~~~Iteration 1262~~~
+2941: higher than previous
+Window sum is 8810: higher than previous
+~~~Iteration 1263~~~
+2944: higher than previous
+Window sum is 8820: higher than previous
+~~~Iteration 1264~~~
+2945: higher than previous
+Window sum is 8830: higher than previous
+~~~Iteration 1265~~~
+2949: higher than previous
+Window sum is 8838: higher than previous
+~~~Iteration 1266~~~
+2973: higher than previous
+Window sum is 8867: higher than previous
+~~~Iteration 1267~~~
+2968: lower than previous
+Window sum is 8890: higher than previous
+~~~Iteration 1268~~~
+2979: higher than previous
+Window sum is 8920: higher than previous
+~~~Iteration 1269~~~
+2974: lower than previous
+Window sum is 8921: higher than previous
+~~~Iteration 1270~~~
+2977: higher than previous
+Window sum is 8930: higher than previous
+~~~Iteration 1271~~~
+2988: higher than previous
+Window sum is 8939: higher than previous
+~~~Iteration 1272~~~
+2989: higher than previous
+Window sum is 8954: higher than previous
+~~~Iteration 1273~~~
+2991: higher than previous
+Window sum is 8968: higher than previous
+~~~Iteration 1274~~~
+2992: higher than previous
+Window sum is 8972: higher than previous
+~~~Iteration 1275~~~
+2996: higher than previous
+Window sum is 8979: higher than previous
+~~~Iteration 1276~~~
+3002: higher than previous
+Window sum is 8990: higher than previous
+~~~Iteration 1277~~~
+2998: lower than previous
+Window sum is 8996: higher than previous
+~~~Iteration 1278~~~
+3005: higher than previous
+Window sum is 9005: higher than previous
+~~~Iteration 1279~~~
+2987: lower than previous
+Window sum is 8990: lower than previous
+~~~Iteration 1280~~~
+2996: higher than previous
+Window sum is 8988: lower than previous
+~~~Iteration 1281~~~
+3009: higher than previous
+Window sum is 8992: higher than previous
+~~~Iteration 1282~~~
+3019: higher than previous
+Window sum is 9024: higher than previous
+~~~Iteration 1283~~~
+3020: higher than previous
+Window sum is 9048: higher than previous
+~~~Iteration 1284~~~
+3012: lower than previous
+Window sum is 9051: higher than previous
+~~~Iteration 1285~~~
+3013: higher than previous
+Window sum is 9045: lower than previous
+~~~Iteration 1286~~~
+3019: higher than previous
+Window sum is 9044: lower than previous
+~~~Iteration 1287~~~
+3024: higher than previous
+Window sum is 9056: higher than previous
+~~~Iteration 1288~~~
+3036: higher than previous
+Window sum is 9079: higher than previous
+~~~Iteration 1289~~~
+3035: lower than previous
+Window sum is 9095: higher than previous
+~~~Iteration 1290~~~
+3037: higher than previous
+Window sum is 9108: higher than previous
+~~~Iteration 1291~~~
+3040: higher than previous
+Window sum is 9112: higher than previous
+~~~Iteration 1292~~~
+3047: higher than previous
+Window sum is 9124: higher than previous
+~~~Iteration 1293~~~
+3060: higher than previous
+Window sum is 9147: higher than previous
+~~~Iteration 1294~~~
+3064: higher than previous
+Window sum is 9171: higher than previous
+~~~Iteration 1295~~~
+3056: lower than previous
+Window sum is 9180: higher than previous
+~~~Iteration 1296~~~
+3045: lower than previous
+Window sum is 9165: lower than previous
+~~~Iteration 1297~~~
+3041: lower than previous
+Window sum is 9142: lower than previous
+~~~Iteration 1298~~~
+3050: higher than previous
+Window sum is 9136: lower than previous
+~~~Iteration 1299~~~
+3057: higher than previous
+Window sum is 9148: higher than previous
+~~~Iteration 1300~~~
+3060: higher than previous
+Window sum is 9167: higher than previous
+~~~Iteration 1301~~~
+3074: higher than previous
+Window sum is 9191: higher than previous
+~~~Iteration 1302~~~
+3073: lower than previous
+Window sum is 9207: higher than previous
+~~~Iteration 1303~~~
+3075: higher than previous
+Window sum is 9222: higher than previous
+~~~Iteration 1304~~~
+3078: higher than previous
+Window sum is 9226: higher than previous
+~~~Iteration 1305~~~
+3063: lower than previous
+Window sum is 9216: lower than previous
+~~~Iteration 1306~~~
+3083: higher than previous
+Window sum is 9224: higher than previous
+~~~Iteration 1307~~~
+3103: higher than previous
+Window sum is 9249: higher than previous
+~~~Iteration 1308~~~
+3104: higher than previous
+Window sum is 9290: higher than previous
+~~~Iteration 1309~~~
+3113: higher than previous
+Window sum is 9320: higher than previous
+~~~Iteration 1310~~~
+3119: higher than previous
+Window sum is 9336: higher than previous
+~~~Iteration 1311~~~
+3118: lower than previous
+Window sum is 9350: higher than previous
+~~~Iteration 1312~~~
+3126: higher than previous
+Window sum is 9363: higher than previous
+~~~Iteration 1313~~~
+3131: higher than previous
+Window sum is 9375: higher than previous
+~~~Iteration 1314~~~
+3121: lower than previous
+Window sum is 9378: higher than previous
+~~~Iteration 1315~~~
+3122: higher than previous
+Window sum is 9374: lower than previous
+~~~Iteration 1316~~~
+3124: higher than previous
+Window sum is 9367: lower than previous
+~~~Iteration 1317~~~
+3115: lower than previous
+Window sum is 9361: lower than previous
+~~~Iteration 1318~~~
+3131: higher than previous
+Window sum is 9370: higher than previous
+~~~Iteration 1319~~~
+3120: lower than previous
+Window sum is 9366: lower than previous
+~~~Iteration 1320~~~
+3116: lower than previous
+Window sum is 9367: higher than previous
+~~~Iteration 1321~~~
+3129: higher than previous
+Window sum is 9365: lower than previous
+~~~Iteration 1322~~~
+3126: lower than previous
+Window sum is 9371: higher than previous
+~~~Iteration 1323~~~
+3140: higher than previous
+Window sum is 9395: higher than previous
+~~~Iteration 1324~~~
+3148: higher than previous
+Window sum is 9414: higher than previous
+~~~Iteration 1325~~~
+3150: higher than previous
+Window sum is 9438: higher than previous
+~~~Iteration 1326~~~
+3159: higher than previous
+Window sum is 9457: higher than previous
+~~~Iteration 1327~~~
+3161: higher than previous
+Window sum is 9470: higher than previous
+~~~Iteration 1328~~~
+3162: higher than previous
+Window sum is 9482: higher than previous
+~~~Iteration 1329~~~
+3158: lower than previous
+Window sum is 9481: lower than previous
+~~~Iteration 1330~~~
+3151: lower than previous
+Window sum is 9471: lower than previous
+~~~Iteration 1331~~~
+3161: higher than previous
+Window sum is 9470: lower than previous
+~~~Iteration 1332~~~
+3163: higher than previous
+Window sum is 9475: higher than previous
+~~~Iteration 1333~~~
+3164: higher than previous
+Window sum is 9488: higher than previous
+~~~Iteration 1334~~~
+3166: higher than previous
+Window sum is 9493: higher than previous
+~~~Iteration 1335~~~
+3180: higher than previous
+Window sum is 9510: higher than previous
+~~~Iteration 1336~~~
+3183: higher than previous
+Window sum is 9529: higher than previous
+~~~Iteration 1337~~~
+3184: higher than previous
+Window sum is 9547: higher than previous
+~~~Iteration 1338~~~
+3182: lower than previous
+Window sum is 9549: higher than previous
+~~~Iteration 1339~~~
+3188: higher than previous
+Window sum is 9554: higher than previous
+~~~Iteration 1340~~~
+3186: lower than previous
+Window sum is 9556: higher than previous
+~~~Iteration 1341~~~
+3191: higher than previous
+Window sum is 9565: higher than previous
+~~~Iteration 1342~~~
+3197: higher than previous
+Window sum is 9574: higher than previous
+~~~Iteration 1343~~~
+3200: higher than previous
+Window sum is 9588: higher than previous
+~~~Iteration 1344~~~
+3199: lower than previous
+Window sum is 9596: higher than previous
+~~~Iteration 1345~~~
+3198: lower than previous
+Window sum is 9597: higher than previous
+~~~Iteration 1346~~~
+3193: lower than previous
+Window sum is 9590: lower than previous
+~~~Iteration 1347~~~
+3181: lower than previous
+Window sum is 9572: lower than previous
+~~~Iteration 1348~~~
+3170: lower than previous
+Window sum is 9544: lower than previous
+~~~Iteration 1349~~~
+3176: higher than previous
+Window sum is 9527: lower than previous
+~~~Iteration 1350~~~
+3167: lower than previous
+Window sum is 9513: lower than previous
+~~~Iteration 1351~~~
+3168: higher than previous
+Window sum is 9511: lower than previous
+~~~Iteration 1352~~~
+3165: lower than previous
+Window sum is 9500: lower than previous
+~~~Iteration 1353~~~
+3156: lower than previous
+Window sum is 9489: lower than previous
+~~~Iteration 1354~~~
+3171: higher than previous
+Window sum is 9492: higher than previous
+~~~Iteration 1355~~~
+3175: higher than previous
+Window sum is 9502: higher than previous
+~~~Iteration 1356~~~
+3173: lower than previous
+Window sum is 9519: higher than previous
+~~~Iteration 1357~~~
+3194: higher than previous
+Window sum is 9542: higher than previous
+~~~Iteration 1358~~~
+3203: higher than previous
+Window sum is 9570: higher than previous
+~~~Iteration 1359~~~
+3232: higher than previous
+Window sum is 9629: higher than previous
+~~~Iteration 1360~~~
+3238: higher than previous
+Window sum is 9673: higher than previous
+~~~Iteration 1361~~~
+3245: higher than previous
+Window sum is 9715: higher than previous
+~~~Iteration 1362~~~
+3246: higher than previous
+Window sum is 9729: higher than previous
+~~~Iteration 1363~~~
+3245: lower than previous
+Window sum is 9736: higher than previous
+~~~Iteration 1364~~~
+3251: higher than previous
+Window sum is 9742: higher than previous
+~~~Iteration 1365~~~
+3241: lower than previous
+Window sum is 9737: lower than previous
+~~~Iteration 1366~~~
+3223: lower than previous
+Window sum is 9715: lower than previous
+~~~Iteration 1367~~~
+3229: higher than previous
+Window sum is 9693: lower than previous
+~~~Iteration 1368~~~
+3228: lower than previous
+Window sum is 9680: lower than previous
+~~~Iteration 1369~~~
+3237: higher than previous
+Window sum is 9694: higher than previous
+~~~Iteration 1370~~~
+3251: higher than previous
+Window sum is 9716: higher than previous
+~~~Iteration 1371~~~
+3258: higher than previous
+Window sum is 9746: higher than previous
+~~~Iteration 1372~~~
+3260: higher than previous
+Window sum is 9769: higher than previous
+~~~Iteration 1373~~~
+3256: lower than previous
+Window sum is 9774: higher than previous
+~~~Iteration 1374~~~
+3251: lower than previous
+Window sum is 9767: lower than previous
+~~~Iteration 1375~~~
+3240: lower than previous
+Window sum is 9747: lower than previous
+~~~Iteration 1376~~~
+3241: higher than previous
+Window sum is 9732: lower than previous
+~~~Iteration 1377~~~
+3261: higher than previous
+Window sum is 9742: higher than previous
+~~~Iteration 1378~~~
+3270: higher than previous
+Window sum is 9772: higher than previous
+~~~Iteration 1379~~~
+3282: higher than previous
+Window sum is 9813: higher than previous
+~~~Iteration 1380~~~
+3277: lower than previous
+Window sum is 9829: higher than previous
+~~~Iteration 1381~~~
+3279: higher than previous
+Window sum is 9838: higher than previous
+~~~Iteration 1382~~~
+3266: lower than previous
+Window sum is 9822: lower than previous
+~~~Iteration 1383~~~
+3267: higher than previous
+Window sum is 9812: lower than previous
+~~~Iteration 1384~~~
+3269: higher than previous
+Window sum is 9802: lower than previous
+~~~Iteration 1385~~~
+3283: higher than previous
+Window sum is 9819: higher than previous
+~~~Iteration 1386~~~
+3285: higher than previous
+Window sum is 9837: higher than previous
+~~~Iteration 1387~~~
+3287: higher than previous
+Window sum is 9855: higher than previous
+~~~Iteration 1388~~~
+3282: lower than previous
+Window sum is 9854: lower than previous
+~~~Iteration 1389~~~
+3289: higher than previous
+Window sum is 9858: higher than previous
+~~~Iteration 1390~~~
+3287: lower than previous
+Window sum is 9858: lower than previous
+~~~Iteration 1391~~~
+3309: higher than previous
+Window sum is 9885: higher than previous
+~~~Iteration 1392~~~
+3301: lower than previous
+Window sum is 9897: higher than previous
+~~~Iteration 1393~~~
+3302: higher than previous
+Window sum is 9912: higher than previous
+~~~Iteration 1394~~~
+3301: lower than previous
+Window sum is 9904: lower than previous
+~~~Iteration 1395~~~
+3303: higher than previous
+Window sum is 9906: higher than previous
+~~~Iteration 1396~~~
+3305: higher than previous
+Window sum is 9909: higher than previous
+~~~Iteration 1397~~~
+3316: higher than previous
+Window sum is 9924: higher than previous
+~~~Iteration 1398~~~
+3317: higher than previous
+Window sum is 9938: higher than previous
+~~~Iteration 1399~~~
+3315: lower than previous
+Window sum is 9948: higher than previous
+~~~Iteration 1400~~~
+3319: higher than previous
+Window sum is 9951: higher than previous
+~~~Iteration 1401~~~
+3317: lower than previous
+Window sum is 9951: lower than previous
+~~~Iteration 1402~~~
+3327: higher than previous
+Window sum is 9963: higher than previous
+~~~Iteration 1403~~~
+3326: lower than previous
+Window sum is 9970: higher than previous
+~~~Iteration 1404~~~
+3324: lower than previous
+Window sum is 9977: higher than previous
+~~~Iteration 1405~~~
+3322: lower than previous
+Window sum is 9972: lower than previous
+~~~Iteration 1406~~~
+3319: lower than previous
+Window sum is 9965: lower than previous
+~~~Iteration 1407~~~
+3318: lower than previous
+Window sum is 9959: lower than previous
+~~~Iteration 1408~~~
+3319: higher than previous
+Window sum is 9956: lower than previous
+~~~Iteration 1409~~~
+3323: higher than previous
+Window sum is 9960: higher than previous
+~~~Iteration 1410~~~
+3343: higher than previous
+Window sum is 9985: higher than previous
+~~~Iteration 1411~~~
+3337: lower than previous
+Window sum is 10003: higher than previous
+~~~Iteration 1412~~~
+3363: higher than previous
+Window sum is 10043: higher than previous
+~~~Iteration 1413~~~
+3369: higher than previous
+Window sum is 10069: higher than previous
+~~~Iteration 1414~~~
+3371: higher than previous
+Window sum is 10103: higher than previous
+~~~Iteration 1415~~~
+3369: lower than previous
+Window sum is 10109: higher than previous
+~~~Iteration 1416~~~
+3361: lower than previous
+Window sum is 10101: lower than previous
+~~~Iteration 1417~~~
+3363: higher than previous
+Window sum is 10093: lower than previous
+~~~Iteration 1418~~~
+3373: higher than previous
+Window sum is 10097: higher than previous
+~~~Iteration 1419~~~
+3374: higher than previous
+Window sum is 10110: higher than previous
+~~~Iteration 1420~~~
+3378: higher than previous
+Window sum is 10125: higher than previous
+~~~Iteration 1421~~~
+3383: higher than previous
+Window sum is 10135: higher than previous
+~~~Iteration 1422~~~
+3377: lower than previous
+Window sum is 10138: higher than previous
+~~~Iteration 1423~~~
+3376: lower than previous
+Window sum is 10136: lower than previous
+~~~Iteration 1424~~~
+3375: lower than previous
+Window sum is 10128: lower than previous
+~~~Iteration 1425~~~
+3374: lower than previous
+Window sum is 10125: lower than previous
+~~~Iteration 1426~~~
+3387: higher than previous
+Window sum is 10136: higher than previous
+~~~Iteration 1427~~~
+3390: higher than previous
+Window sum is 10151: higher than previous
+~~~Iteration 1428~~~
+3392: higher than previous
+Window sum is 10169: higher than previous
+~~~Iteration 1429~~~
+3401: higher than previous
+Window sum is 10183: higher than previous
+~~~Iteration 1430~~~
+3391: lower than previous
+Window sum is 10184: higher than previous
+~~~Iteration 1431~~~
+3395: higher than previous
+Window sum is 10187: higher than previous
+~~~Iteration 1432~~~
+3416: higher than previous
+Window sum is 10202: higher than previous
+~~~Iteration 1433~~~
+3417: higher than previous
+Window sum is 10228: higher than previous
+~~~Iteration 1434~~~
+3416: lower than previous
+Window sum is 10249: higher than previous
+~~~Iteration 1435~~~
+3422: higher than previous
+Window sum is 10255: higher than previous
+~~~Iteration 1436~~~
+3423: higher than previous
+Window sum is 10261: higher than previous
+~~~Iteration 1437~~~
+3425: higher than previous
+Window sum is 10270: higher than previous
+~~~Iteration 1438~~~
+3406: lower than previous
+Window sum is 10254: lower than previous
+~~~Iteration 1439~~~
+3410: higher than previous
+Window sum is 10241: lower than previous
+~~~Iteration 1440~~~
+3411: higher than previous
+Window sum is 10227: lower than previous
+~~~Iteration 1441~~~
+3413: higher than previous
+Window sum is 10234: higher than previous
+~~~Iteration 1442~~~
+3412: lower than previous
+Window sum is 10236: higher than previous
+~~~Iteration 1443~~~
+3418: higher than previous
+Window sum is 10243: higher than previous
+~~~Iteration 1444~~~
+3415: lower than previous
+Window sum is 10245: higher than previous
+~~~Iteration 1445~~~
+3417: higher than previous
+Window sum is 10250: higher than previous
+~~~Iteration 1446~~~
+3416: lower than previous
+Window sum is 10248: lower than previous
+~~~Iteration 1447~~~
+3413: lower than previous
+Window sum is 10246: lower than previous
+~~~Iteration 1448~~~
+3414: higher than previous
+Window sum is 10243: lower than previous
+~~~Iteration 1449~~~
+3437: higher than previous
+Window sum is 10264: higher than previous
+~~~Iteration 1450~~~
+3447: higher than previous
+Window sum is 10298: higher than previous
+~~~Iteration 1451~~~
+3448: higher than previous
+Window sum is 10332: higher than previous
+~~~Iteration 1452~~~
+3449: higher than previous
+Window sum is 10344: higher than previous
+~~~Iteration 1453~~~
+3450: higher than previous
+Window sum is 10347: higher than previous
+~~~Iteration 1454~~~
+3452: higher than previous
+Window sum is 10351: higher than previous
+~~~Iteration 1455~~~
+3454: higher than previous
+Window sum is 10356: higher than previous
+~~~Iteration 1456~~~
+3450: lower than previous
+Window sum is 10356: lower than previous
+~~~Iteration 1457~~~
+3448: lower than previous
+Window sum is 10352: lower than previous
+~~~Iteration 1458~~~
+3450: higher than previous
+Window sum is 10348: lower than previous
+~~~Iteration 1459~~~
+3455: higher than previous
+Window sum is 10353: higher than previous
+~~~Iteration 1460~~~
+3458: higher than previous
+Window sum is 10363: higher than previous
+~~~Iteration 1461~~~
+3456: lower than previous
+Window sum is 10369: higher than previous
+~~~Iteration 1462~~~
+3458: higher than previous
+Window sum is 10372: higher than previous
+~~~Iteration 1463~~~
+3460: higher than previous
+Window sum is 10374: higher than previous
+~~~Iteration 1464~~~
+3457: lower than previous
+Window sum is 10375: higher than previous
+~~~Iteration 1465~~~
+3450: lower than previous
+Window sum is 10367: lower than previous
+~~~Iteration 1466~~~
+3451: higher than previous
+Window sum is 10358: lower than previous
+~~~Iteration 1467~~~
+3452: higher than previous
+Window sum is 10353: lower than previous
+~~~Iteration 1468~~~
+3453: higher than previous
+Window sum is 10356: higher than previous
+~~~Iteration 1469~~~
+3456: higher than previous
+Window sum is 10361: higher than previous
+~~~Iteration 1470~~~
+3445: lower than previous
+Window sum is 10354: lower than previous
+~~~Iteration 1471~~~
+3446: higher than previous
+Window sum is 10347: lower than previous
+~~~Iteration 1472~~~
+3435: lower than previous
+Window sum is 10326: lower than previous
+~~~Iteration 1473~~~
+3454: higher than previous
+Window sum is 10335: higher than previous
+~~~Iteration 1474~~~
+3481: higher than previous
+Window sum is 10370: higher than previous
+~~~Iteration 1475~~~
+3496: higher than previous
+Window sum is 10431: higher than previous
+~~~Iteration 1476~~~
+3498: higher than previous
+Window sum is 10475: higher than previous
+~~~Iteration 1477~~~
+3503: higher than previous
+Window sum is 10497: higher than previous
+~~~Iteration 1478~~~
+3502: lower than previous
+Window sum is 10503: higher than previous
+~~~Iteration 1479~~~
+3503: higher than previous
+Window sum is 10508: higher than previous
+~~~Iteration 1480~~~
+3504: higher than previous
+Window sum is 10509: higher than previous
+~~~Iteration 1481~~~
+3505: higher than previous
+Window sum is 10512: higher than previous
+~~~Iteration 1482~~~
+3523: higher than previous
+Window sum is 10532: higher than previous
+~~~Iteration 1483~~~
+3512: lower than previous
+Window sum is 10540: higher than previous
+~~~Iteration 1484~~~
+3525: higher than previous
+Window sum is 10560: higher than previous
+~~~Iteration 1485~~~
+3522: lower than previous
+Window sum is 10559: lower than previous
+~~~Iteration 1486~~~
+3526: higher than previous
+Window sum is 10573: higher than previous
+~~~Iteration 1487~~~
+3561: higher than previous
+Window sum is 10609: higher than previous
+~~~Iteration 1488~~~
+3562: higher than previous
+Window sum is 10649: higher than previous
+~~~Iteration 1489~~~
+3561: lower than previous
+Window sum is 10684: higher than previous
+~~~Iteration 1490~~~
+3560: lower than previous
+Window sum is 10683: lower than previous
+~~~Iteration 1491~~~
+3568: higher than previous
+Window sum is 10689: higher than previous
+~~~Iteration 1492~~~
+3567: lower than previous
+Window sum is 10695: higher than previous
+~~~Iteration 1493~~~
+3588: higher than previous
+Window sum is 10723: higher than previous
+~~~Iteration 1494~~~
+3585: lower than previous
+Window sum is 10740: higher than previous
+~~~Iteration 1495~~~
+3580: lower than previous
+Window sum is 10753: higher than previous
+~~~Iteration 1496~~~
+3591: higher than previous
+Window sum is 10756: higher than previous
+~~~Iteration 1497~~~
+3587: lower than previous
+Window sum is 10758: higher than previous
+~~~Iteration 1498~~~
+3586: lower than previous
+Window sum is 10764: higher than previous
+~~~Iteration 1499~~~
+3583: lower than previous
+Window sum is 10756: lower than previous
+~~~Iteration 1500~~~
+3580: lower than previous
+Window sum is 10749: lower than previous
+~~~Iteration 1501~~~
+3579: lower than previous
+Window sum is 10742: lower than previous
+~~~Iteration 1502~~~
+3582: higher than previous
+Window sum is 10741: lower than previous
+~~~Iteration 1503~~~
+3563: lower than previous
+Window sum is 10724: lower than previous
+~~~Iteration 1504~~~
+3588: higher than previous
+Window sum is 10733: higher than previous
+~~~Iteration 1505~~~
+3591: higher than previous
+Window sum is 10742: higher than previous
+~~~Iteration 1506~~~
+3624: higher than previous
+Window sum is 10803: higher than previous
+~~~Iteration 1507~~~
+3628: higher than previous
+Window sum is 10843: higher than previous
+~~~Iteration 1508~~~
+3626: lower than previous
+Window sum is 10878: higher than previous
+~~~Iteration 1509~~~
+3625: lower than previous
+Window sum is 10879: higher than previous
+~~~Iteration 1510~~~
+3632: higher than previous
+Window sum is 10883: higher than previous
+~~~Iteration 1511~~~
+3648: higher than previous
+Window sum is 10905: higher than previous
+~~~Iteration 1512~~~
+3652: higher than previous
+Window sum is 10932: higher than previous
+~~~Iteration 1513~~~
+3653: higher than previous
+Window sum is 10953: higher than previous
+~~~Iteration 1514~~~
+3667: higher than previous
+Window sum is 10972: higher than previous
+~~~Iteration 1515~~~
+3656: lower than previous
+Window sum is 10976: higher than previous
+~~~Iteration 1516~~~
+3654: lower than previous
+Window sum is 10977: higher than previous
+~~~Iteration 1517~~~
+3653: lower than previous
+Window sum is 10963: lower than previous
+~~~Iteration 1518~~~
+3654: higher than previous
+Window sum is 10961: lower than previous
+~~~Iteration 1519~~~
+3653: lower than previous
+Window sum is 10960: lower than previous
+~~~Iteration 1520~~~
+3655: higher than previous
+Window sum is 10962: higher than previous
+~~~Iteration 1521~~~
+3657: higher than previous
+Window sum is 10965: higher than previous
+~~~Iteration 1522~~~
+3662: higher than previous
+Window sum is 10974: higher than previous
+~~~Iteration 1523~~~
+3664: higher than previous
+Window sum is 10983: higher than previous
+~~~Iteration 1524~~~
+3668: higher than previous
+Window sum is 10994: higher than previous
+~~~Iteration 1525~~~
+3669: higher than previous
+Window sum is 11001: higher than previous
+~~~Iteration 1526~~~
+3679: higher than previous
+Window sum is 11016: higher than previous
+~~~Iteration 1527~~~
+3672: lower than previous
+Window sum is 11020: higher than previous
+~~~Iteration 1528~~~
+3673: higher than previous
+Window sum is 11024: higher than previous
+~~~Iteration 1529~~~
+3677: higher than previous
+Window sum is 11022: lower than previous
+~~~Iteration 1530~~~
+3686: higher than previous
+Window sum is 11036: higher than previous
+~~~Iteration 1531~~~
+3685: lower than previous
+Window sum is 11048: higher than previous
+~~~Iteration 1532~~~
+3688: higher than previous
+Window sum is 11059: higher than previous
+~~~Iteration 1533~~~
+3687: lower than previous
+Window sum is 11060: higher than previous
+~~~Iteration 1534~~~
+3707: higher than previous
+Window sum is 11082: higher than previous
+~~~Iteration 1535~~~
+3713: higher than previous
+Window sum is 11107: higher than previous
+~~~Iteration 1536~~~
+3708: lower than previous
+Window sum is 11128: higher than previous
+~~~Iteration 1537~~~
+3692: lower than previous
+Window sum is 11113: lower than previous
+~~~Iteration 1538~~~
+3691: lower than previous
+Window sum is 11091: lower than previous
+~~~Iteration 1539~~~
+3699: higher than previous
+Window sum is 11082: lower than previous
+~~~Iteration 1540~~~
+3711: higher than previous
+Window sum is 11101: higher than previous
+~~~Iteration 1541~~~
+3728: higher than previous
+Window sum is 11138: higher than previous
+~~~Iteration 1542~~~
+3729: higher than previous
+Window sum is 11168: higher than previous
+~~~Iteration 1543~~~
+3737: higher than previous
+Window sum is 11194: higher than previous
+~~~Iteration 1544~~~
+3746: higher than previous
+Window sum is 11212: higher than previous
+~~~Iteration 1545~~~
+3752: higher than previous
+Window sum is 11235: higher than previous
+~~~Iteration 1546~~~
+3755: higher than previous
+Window sum is 11253: higher than previous
+~~~Iteration 1547~~~
+3757: higher than previous
+Window sum is 11264: higher than previous
+~~~Iteration 1548~~~
+3762: higher than previous
+Window sum is 11274: higher than previous
+~~~Iteration 1549~~~
+3763: higher than previous
+Window sum is 11282: higher than previous
+~~~Iteration 1550~~~
+3762: lower than previous
+Window sum is 11287: higher than previous
+~~~Iteration 1551~~~
+3760: lower than previous
+Window sum is 11285: lower than previous
+~~~Iteration 1552~~~
+3762: higher than previous
+Window sum is 11284: lower than previous
+~~~Iteration 1553~~~
+3763: higher than previous
+Window sum is 11285: higher than previous
+~~~Iteration 1554~~~
+3779: higher than previous
+Window sum is 11304: higher than previous
+~~~Iteration 1555~~~
+3800: higher than previous
+Window sum is 11342: higher than previous
+~~~Iteration 1556~~~
+3790: lower than previous
+Window sum is 11369: higher than previous
+~~~Iteration 1557~~~
+3780: lower than previous
+Window sum is 11370: higher than previous
+~~~Iteration 1558~~~
+3783: higher than previous
+Window sum is 11353: lower than previous
+~~~Iteration 1559~~~
+3799: higher than previous
+Window sum is 11362: higher than previous
+~~~Iteration 1560~~~
+3817: higher than previous
+Window sum is 11399: higher than previous
+~~~Iteration 1561~~~
+3821: higher than previous
+Window sum is 11437: higher than previous
+~~~Iteration 1562~~~
+3817: lower than previous
+Window sum is 11455: higher than previous
+~~~Iteration 1563~~~
+3816: lower than previous
+Window sum is 11454: lower than previous
+~~~Iteration 1564~~~
+3820: higher than previous
+Window sum is 11453: lower than previous
+~~~Iteration 1565~~~
+3835: higher than previous
+Window sum is 11471: higher than previous
+~~~Iteration 1566~~~
+3845: higher than previous
+Window sum is 11500: higher than previous
+~~~Iteration 1567~~~
+3860: higher than previous
+Window sum is 11540: higher than previous
+~~~Iteration 1568~~~
+3868: higher than previous
+Window sum is 11573: higher than previous
+~~~Iteration 1569~~~
+3848: lower than previous
+Window sum is 11576: higher than previous
+~~~Iteration 1570~~~
+3859: higher than previous
+Window sum is 11575: lower than previous
+~~~Iteration 1571~~~
+3851: lower than previous
+Window sum is 11558: lower than previous
+~~~Iteration 1572~~~
+3853: higher than previous
+Window sum is 11563: higher than previous
+~~~Iteration 1573~~~
+3854: higher than previous
+Window sum is 11558: lower than previous
+~~~Iteration 1574~~~
+3856: higher than previous
+Window sum is 11563: higher than previous
+~~~Iteration 1575~~~
+3858: higher than previous
+Window sum is 11568: higher than previous
+~~~Iteration 1576~~~
+3859: higher than previous
+Window sum is 11573: higher than previous
+~~~Iteration 1577~~~
+3842: lower than previous
+Window sum is 11559: lower than previous
+~~~Iteration 1578~~~
+3841: lower than previous
+Window sum is 11542: lower than previous
+~~~Iteration 1579~~~
+3843: higher than previous
+Window sum is 11526: lower than previous
+~~~Iteration 1580~~~
+3868: higher than previous
+Window sum is 11552: higher than previous
+~~~Iteration 1581~~~
+3863: lower than previous
+Window sum is 11574: higher than previous
+~~~Iteration 1582~~~
+3860: lower than previous
+Window sum is 11591: higher than previous
+~~~Iteration 1583~~~
+3861: higher than previous
+Window sum is 11584: lower than previous
+~~~Iteration 1584~~~
+3864: higher than previous
+Window sum is 11585: higher than previous
+~~~Iteration 1585~~~
+3862: lower than previous
+Window sum is 11587: higher than previous
+~~~Iteration 1586~~~
+3860: lower than previous
+Window sum is 11586: lower than previous
+~~~Iteration 1587~~~
+3862: higher than previous
+Window sum is 11584: lower than previous
+~~~Iteration 1588~~~
+3881: higher than previous
+Window sum is 11603: higher than previous
+~~~Iteration 1589~~~
+3896: higher than previous
+Window sum is 11639: higher than previous
+~~~Iteration 1590~~~
+3922: higher than previous
+Window sum is 11699: higher than previous
+~~~Iteration 1591~~~
+3915: lower than previous
+Window sum is 11733: higher than previous
+~~~Iteration 1592~~~
+3916: higher than previous
+Window sum is 11753: higher than previous
+~~~Iteration 1593~~~
+3914: lower than previous
+Window sum is 11745: lower than previous
+~~~Iteration 1594~~~
+3915: higher than previous
+Window sum is 11745: lower than previous
+~~~Iteration 1595~~~
+3918: higher than previous
+Window sum is 11747: higher than previous
+~~~Iteration 1596~~~
+3919: higher than previous
+Window sum is 11752: higher than previous
+~~~Iteration 1597~~~
+3916: lower than previous
+Window sum is 11753: higher than previous
+~~~Iteration 1598~~~
+3926: higher than previous
+Window sum is 11761: higher than previous
+~~~Iteration 1599~~~
+3927: higher than previous
+Window sum is 11769: higher than previous
+~~~Iteration 1600~~~
+3942: higher than previous
+Window sum is 11795: higher than previous
+~~~Iteration 1601~~~
+3943: higher than previous
+Window sum is 11812: higher than previous
+~~~Iteration 1602~~~
+3948: higher than previous
+Window sum is 11833: higher than previous
+~~~Iteration 1603~~~
+3946: lower than previous
+Window sum is 11837: higher than previous
+~~~Iteration 1604~~~
+3949: higher than previous
+Window sum is 11843: higher than previous
+~~~Iteration 1605~~~
+3947: lower than previous
+Window sum is 11842: lower than previous
+~~~Iteration 1606~~~
+3956: higher than previous
+Window sum is 11852: higher than previous
+~~~Iteration 1607~~~
+3952: lower than previous
+Window sum is 11855: higher than previous
+~~~Iteration 1608~~~
+3963: higher than previous
+Window sum is 11871: higher than previous
+~~~Iteration 1609~~~
+3959: lower than previous
+Window sum is 11874: higher than previous
+~~~Iteration 1610~~~
+3960: higher than previous
+Window sum is 11882: higher than previous
+~~~Iteration 1611~~~
+3974: higher than previous
+Window sum is 11893: higher than previous
+~~~Iteration 1612~~~
+3992: higher than previous
+Window sum is 11926: higher than previous
+~~~Iteration 1613~~~
+3991: lower than previous
+Window sum is 11957: higher than previous
+~~~Iteration 1614~~~
+3990: lower than previous
+Window sum is 11973: higher than previous
+~~~Iteration 1615~~~
+3988: lower than previous
+Window sum is 11969: lower than previous
+~~~Iteration 1616~~~
+4000: higher than previous
+Window sum is 11978: higher than previous
+~~~Iteration 1617~~~
+4006: higher than previous
+Window sum is 11994: higher than previous
+~~~Iteration 1618~~~
+4004: lower than previous
+Window sum is 12010: higher than previous
+~~~Iteration 1619~~~
+4010: higher than previous
+Window sum is 12020: higher than previous
+~~~Iteration 1620~~~
+4009: lower than previous
+Window sum is 12023: higher than previous
+~~~Iteration 1621~~~
+4008: lower than previous
+Window sum is 12027: higher than previous
+~~~Iteration 1622~~~
+4005: lower than previous
+Window sum is 12022: lower than previous
+~~~Iteration 1623~~~
+3992: lower than previous
+Window sum is 12005: lower than previous
+~~~Iteration 1624~~~
+3988: lower than previous
+Window sum is 11985: lower than previous
+~~~Iteration 1625~~~
+3990: higher than previous
+Window sum is 11970: lower than previous
+~~~Iteration 1626~~~
+3997: higher than previous
+Window sum is 11975: higher than previous
+~~~Iteration 1627~~~
+3995: lower than previous
+Window sum is 11982: higher than previous
+~~~Iteration 1628~~~
+3996: higher than previous
+Window sum is 11988: higher than previous
+~~~Iteration 1629~~~
+3961: lower than previous
+Window sum is 11952: lower than previous
+~~~Iteration 1630~~~
+3964: higher than previous
+Window sum is 11921: lower than previous
+~~~Iteration 1631~~~
+3954: lower than previous
+Window sum is 11879: lower than previous
+~~~Iteration 1632~~~
+3963: higher than previous
+Window sum is 11881: higher than previous
+~~~Iteration 1633~~~
+3966: higher than previous
+Window sum is 11883: higher than previous
+~~~Iteration 1634~~~
+3972: higher than previous
+Window sum is 11901: higher than previous
+~~~Iteration 1635~~~
+3973: higher than previous
+Window sum is 11911: higher than previous
+~~~Iteration 1636~~~
+3974: higher than previous
+Window sum is 11919: higher than previous
+~~~Iteration 1637~~~
+3970: lower than previous
+Window sum is 11917: lower than previous
+~~~Iteration 1638~~~
+3975: higher than previous
+Window sum is 11919: higher than previous
+~~~Iteration 1639~~~
+3974: lower than previous
+Window sum is 11919: lower than previous
+~~~Iteration 1640~~~
+3975: higher than previous
+Window sum is 11924: higher than previous
+~~~Iteration 1641~~~
+3974: lower than previous
+Window sum is 11923: lower than previous
+~~~Iteration 1642~~~
+3979: higher than previous
+Window sum is 11928: higher than previous
+~~~Iteration 1643~~~
+3980: higher than previous
+Window sum is 11933: higher than previous
+~~~Iteration 1644~~~
+3984: higher than previous
+Window sum is 11943: higher than previous
+~~~Iteration 1645~~~
+3986: higher than previous
+Window sum is 11950: higher than previous
+~~~Iteration 1646~~~
+3989: higher than previous
+Window sum is 11959: higher than previous
+~~~Iteration 1647~~~
+3990: higher than previous
+Window sum is 11965: higher than previous
+~~~Iteration 1648~~~
+3989: lower than previous
+Window sum is 11968: higher than previous
+~~~Iteration 1649~~~
+3992: higher than previous
+Window sum is 11971: higher than previous
+~~~Iteration 1650~~~
+3991: lower than previous
+Window sum is 11972: higher than previous
+~~~Iteration 1651~~~
+3994: higher than previous
+Window sum is 11977: higher than previous
+~~~Iteration 1652~~~
+3993: lower than previous
+Window sum is 11978: higher than previous
+~~~Iteration 1653~~~
+3992: lower than previous
+Window sum is 11979: higher than previous
+~~~Iteration 1654~~~
+3998: higher than previous
+Window sum is 11983: higher than previous
+~~~Iteration 1655~~~
+4003: higher than previous
+Window sum is 11993: higher than previous
+~~~Iteration 1656~~~
+4004: higher than previous
+Window sum is 12005: higher than previous
+~~~Iteration 1657~~~
+3997: lower than previous
+Window sum is 12004: lower than previous
+~~~Iteration 1658~~~
+3998: higher than previous
+Window sum is 11999: lower than previous
+~~~Iteration 1659~~~
+3995: lower than previous
+Window sum is 11990: lower than previous
+~~~Iteration 1660~~~
+3988: lower than previous
+Window sum is 11981: lower than previous
+~~~Iteration 1661~~~
+3992: higher than previous
+Window sum is 11975: lower than previous
+~~~Iteration 1662~~~
+3994: higher than previous
+Window sum is 11974: lower than previous
+~~~Iteration 1663~~~
+3995: higher than previous
+Window sum is 11981: higher than previous
+~~~Iteration 1664~~~
+3969: lower than previous
+Window sum is 11958: lower than previous
+~~~Iteration 1665~~~
+3965: lower than previous
+Window sum is 11929: lower than previous
+~~~Iteration 1666~~~
+3960: lower than previous
+Window sum is 11894: lower than previous
+~~~Iteration 1667~~~
+3957: lower than previous
+Window sum is 11882: lower than previous
+~~~Iteration 1668~~~
+3960: higher than previous
+Window sum is 11877: lower than previous
+~~~Iteration 1669~~~
+3974: higher than previous
+Window sum is 11891: higher than previous
+~~~Iteration 1670~~~
+3973: lower than previous
+Window sum is 11907: higher than previous
+~~~Iteration 1671~~~
+3974: higher than previous
+Window sum is 11921: higher than previous
+~~~Iteration 1672~~~
+3977: higher than previous
+Window sum is 11924: higher than previous
+~~~Iteration 1673~~~
+3959: lower than previous
+Window sum is 11910: lower than previous
+~~~Iteration 1674~~~
+3974: higher than previous
+Window sum is 11910: lower than previous
+~~~Iteration 1675~~~
+3965: lower than previous
+Window sum is 11898: lower than previous
+~~~Iteration 1676~~~
+3943: lower than previous
+Window sum is 11882: lower than previous
+~~~Iteration 1677~~~
+3942: lower than previous
+Window sum is 11850: lower than previous
+~~~Iteration 1678~~~
+3940: lower than previous
+Window sum is 11825: lower than previous
+~~~Iteration 1679~~~
+3941: higher than previous
+Window sum is 11823: lower than previous
+~~~Iteration 1680~~~
+3954: higher than previous
+Window sum is 11835: higher than previous
+~~~Iteration 1681~~~
+3959: higher than previous
+Window sum is 11854: higher than previous
+~~~Iteration 1682~~~
+3955: lower than previous
+Window sum is 11868: higher than previous
+~~~Iteration 1683~~~
+3952: lower than previous
+Window sum is 11866: lower than previous
+~~~Iteration 1684~~~
+3953: higher than previous
+Window sum is 11860: lower than previous
+~~~Iteration 1685~~~
+3952: lower than previous
+Window sum is 11857: lower than previous
+~~~Iteration 1686~~~
+3951: lower than previous
+Window sum is 11856: lower than previous
+~~~Iteration 1687~~~
+3958: higher than previous
+Window sum is 11861: higher than previous
+~~~Iteration 1688~~~
+3971: higher than previous
+Window sum is 11880: higher than previous
+~~~Iteration 1689~~~
+3969: lower than previous
+Window sum is 11898: higher than previous
+~~~Iteration 1690~~~
+3966: lower than previous
+Window sum is 11906: higher than previous
+~~~Iteration 1691~~~
+3967: higher than previous
+Window sum is 11902: lower than previous
+~~~Iteration 1692~~~
+3982: higher than previous
+Window sum is 11915: higher than previous
+~~~Iteration 1693~~~
+3978: lower than previous
+Window sum is 11927: higher than previous
+~~~Iteration 1694~~~
+3981: higher than previous
+Window sum is 11941: higher than previous
+~~~Iteration 1695~~~
+3985: higher than previous
+Window sum is 11944: higher than previous
+~~~Iteration 1696~~~
+3989: higher than previous
+Window sum is 11955: higher than previous
+~~~Iteration 1697~~~
+3991: higher than previous
+Window sum is 11965: higher than previous
+~~~Iteration 1698~~~
+3992: higher than previous
+Window sum is 11972: higher than previous
+~~~Iteration 1699~~~
+3990: lower than previous
+Window sum is 11973: higher than previous
+~~~Iteration 1700~~~
+3992: higher than previous
+Window sum is 11974: higher than previous
+~~~Iteration 1701~~~
+3991: lower than previous
+Window sum is 11973: lower than previous
+~~~Iteration 1702~~~
+3993: higher than previous
+Window sum is 11976: higher than previous
+~~~Iteration 1703~~~
+3995: higher than previous
+Window sum is 11979: higher than previous
+~~~Iteration 1704~~~
+4002: higher than previous
+Window sum is 11990: higher than previous
+~~~Iteration 1705~~~
+4020: higher than previous
+Window sum is 12017: higher than previous
+~~~Iteration 1706~~~
+4021: higher than previous
+Window sum is 12043: higher than previous
+~~~Iteration 1707~~~
+4023: higher than previous
+Window sum is 12064: higher than previous
+~~~Iteration 1708~~~
+4020: lower than previous
+Window sum is 12064: lower than previous
+~~~Iteration 1709~~~
+4028: higher than previous
+Window sum is 12071: higher than previous
+~~~Iteration 1710~~~
+4026: lower than previous
+Window sum is 12074: higher than previous
+~~~Iteration 1711~~~
+4029: higher than previous
+Window sum is 12083: higher than previous
+~~~Iteration 1712~~~
+4021: lower than previous
+Window sum is 12076: lower than previous
+~~~Iteration 1713~~~
+4024: higher than previous
+Window sum is 12074: lower than previous
+~~~Iteration 1714~~~
+4026: higher than previous
+Window sum is 12071: lower than previous
+~~~Iteration 1715~~~
+4027: higher than previous
+Window sum is 12077: higher than previous
+~~~Iteration 1716~~~
+4034: higher than previous
+Window sum is 12087: higher than previous
+~~~Iteration 1717~~~
+4037: higher than previous
+Window sum is 12098: higher than previous
+~~~Iteration 1718~~~
+4020: lower than previous
+Window sum is 12091: lower than previous
+~~~Iteration 1719~~~
+4007: lower than previous
+Window sum is 12064: lower than previous
+~~~Iteration 1720~~~
+4008: higher than previous
+Window sum is 12035: lower than previous
+~~~Iteration 1721~~~
+4014: higher than previous
+Window sum is 12029: lower than previous
+~~~Iteration 1722~~~
+4013: lower than previous
+Window sum is 12035: higher than previous
+~~~Iteration 1723~~~
+4033: higher than previous
+Window sum is 12060: higher than previous
+~~~Iteration 1724~~~
+4030: lower than previous
+Window sum is 12076: higher than previous
+~~~Iteration 1725~~~
+4034: higher than previous
+Window sum is 12097: higher than previous
+~~~Iteration 1726~~~
+4033: lower than previous
+Window sum is 12097: lower than previous
+~~~Iteration 1727~~~
+4056: higher than previous
+Window sum is 12123: higher than previous
+~~~Iteration 1728~~~
+4075: higher than previous
+Window sum is 12164: higher than previous
+~~~Iteration 1729~~~
+4077: higher than previous
+Window sum is 12208: higher than previous
+~~~Iteration 1730~~~
+4078: higher than previous
+Window sum is 12230: higher than previous
+~~~Iteration 1731~~~
+4077: lower than previous
+Window sum is 12232: higher than previous
+~~~Iteration 1732~~~
+4066: lower than previous
+Window sum is 12221: lower than previous
+~~~Iteration 1733~~~
+4067: higher than previous
+Window sum is 12210: lower than previous
+~~~Iteration 1734~~~
+4077: higher than previous
+Window sum is 12210: lower than previous
+~~~Iteration 1735~~~
+4045: lower than previous
+Window sum is 12189: lower than previous
+~~~Iteration 1736~~~
+4043: lower than previous
+Window sum is 12165: lower than previous
+~~~Iteration 1737~~~
+4049: higher than previous
+Window sum is 12137: lower than previous
+~~~Iteration 1738~~~
+4076: higher than previous
+Window sum is 12168: higher than previous
+~~~Iteration 1739~~~
+4088: higher than previous
+Window sum is 12213: higher than previous
+~~~Iteration 1740~~~
+4071: lower than previous
+Window sum is 12235: higher than previous
+~~~Iteration 1741~~~
+4072: higher than previous
+Window sum is 12231: lower than previous
+~~~Iteration 1742~~~
+4086: higher than previous
+Window sum is 12229: lower than previous
+~~~Iteration 1743~~~
+4092: higher than previous
+Window sum is 12250: higher than previous
+~~~Iteration 1744~~~
+4093: higher than previous
+Window sum is 12271: higher than previous
+~~~Iteration 1745~~~
+4095: higher than previous
+Window sum is 12280: higher than previous
+~~~Iteration 1746~~~
+4081: lower than previous
+Window sum is 12269: lower than previous
+~~~Iteration 1747~~~
+4084: higher than previous
+Window sum is 12260: lower than previous
+~~~Iteration 1748~~~
+4083: lower than previous
+Window sum is 12248: lower than previous
+~~~Iteration 1749~~~
+4092: higher than previous
+Window sum is 12259: higher than previous
+~~~Iteration 1750~~~
+4073: lower than previous
+Window sum is 12248: lower than previous
+~~~Iteration 1751~~~
+4075: higher than previous
+Window sum is 12240: lower than previous
+~~~Iteration 1752~~~
+4094: higher than previous
+Window sum is 12242: higher than previous
+~~~Iteration 1753~~~
+4103: higher than previous
+Window sum is 12272: higher than previous
+~~~Iteration 1754~~~
+4110: higher than previous
+Window sum is 12307: higher than previous
+~~~Iteration 1755~~~
+4120: higher than previous
+Window sum is 12333: higher than previous
+~~~Iteration 1756~~~
+4121: higher than previous
+Window sum is 12351: higher than previous
+~~~Iteration 1757~~~
+4122: higher than previous
+Window sum is 12363: higher than previous
+~~~Iteration 1758~~~
+4136: higher than previous
+Window sum is 12379: higher than previous
+~~~Iteration 1759~~~
+4139: higher than previous
+Window sum is 12397: higher than previous
+~~~Iteration 1760~~~
+4140: higher than previous
+Window sum is 12415: higher than previous
+~~~Iteration 1761~~~
+4152: higher than previous
+Window sum is 12431: higher than previous
+~~~Iteration 1762~~~
+4155: higher than previous
+Window sum is 12447: higher than previous
+~~~Iteration 1763~~~
+4159: higher than previous
+Window sum is 12466: higher than previous
+~~~Iteration 1764~~~
+4195: higher than previous
+Window sum is 12509: higher than previous
+~~~Iteration 1765~~~
+4209: higher than previous
+Window sum is 12563: higher than previous
+~~~Iteration 1766~~~
+4235: higher than previous
+Window sum is 12639: higher than previous
+~~~Iteration 1767~~~
+4231: lower than previous
+Window sum is 12675: higher than previous
+~~~Iteration 1768~~~
+4232: higher than previous
+Window sum is 12698: higher than previous
+~~~Iteration 1769~~~
+4234: higher than previous
+Window sum is 12697: lower than previous
+~~~Iteration 1770~~~
+4228: lower than previous
+Window sum is 12694: lower than previous
+~~~Iteration 1771~~~
+4223: lower than previous
+Window sum is 12685: lower than previous
+~~~Iteration 1772~~~
+4225: higher than previous
+Window sum is 12676: lower than previous
+~~~Iteration 1773~~~
+4219: lower than previous
+Window sum is 12667: lower than previous
+~~~Iteration 1774~~~
+4228: higher than previous
+Window sum is 12672: higher than previous
+~~~Iteration 1775~~~
+4225: lower than previous
+Window sum is 12672: lower than previous
+~~~Iteration 1776~~~
+4226: higher than previous
+Window sum is 12679: higher than previous
+~~~Iteration 1777~~~
+4227: higher than previous
+Window sum is 12678: lower than previous
+~~~Iteration 1778~~~
+4229: higher than previous
+Window sum is 12682: higher than previous
+~~~Iteration 1779~~~
+4213: lower than previous
+Window sum is 12669: lower than previous
+~~~Iteration 1780~~~
+4205: lower than previous
+Window sum is 12647: lower than previous
+~~~Iteration 1781~~~
+4211: higher than previous
+Window sum is 12629: lower than previous
+~~~Iteration 1782~~~
+4212: higher than previous
+Window sum is 12628: lower than previous
+~~~Iteration 1783~~~
+4195: lower than previous
+Window sum is 12618: lower than previous
+~~~Iteration 1784~~~
+4198: higher than previous
+Window sum is 12605: lower than previous
+~~~Iteration 1785~~~
+4205: higher than previous
+Window sum is 12598: lower than previous
+~~~Iteration 1786~~~
+4186: lower than previous
+Window sum is 12589: lower than previous
+~~~Iteration 1787~~~
+4170: lower than previous
+Window sum is 12561: lower than previous
+~~~Iteration 1788~~~
+4186: higher than previous
+Window sum is 12542: lower than previous
+~~~Iteration 1789~~~
+4188: higher than previous
+Window sum is 12544: higher than previous
+~~~Iteration 1790~~~
+4189: higher than previous
+Window sum is 12563: higher than previous
+~~~Iteration 1791~~~
+4161: lower than previous
+Window sum is 12538: lower than previous
+~~~Iteration 1792~~~
+4163: higher than previous
+Window sum is 12513: lower than previous
+~~~Iteration 1793~~~
+4184: higher than previous
+Window sum is 12508: lower than previous
+~~~Iteration 1794~~~
+4185: higher than previous
+Window sum is 12532: higher than previous
+~~~Iteration 1795~~~
+4214: higher than previous
+Window sum is 12583: higher than previous
+~~~Iteration 1796~~~
+4218: higher than previous
+Window sum is 12617: higher than previous
+~~~Iteration 1797~~~
+4222: higher than previous
+Window sum is 12654: higher than previous
+~~~Iteration 1798~~~
+4215: lower than previous
+Window sum is 12655: higher than previous
+~~~Iteration 1799~~~
+4210: lower than previous
+Window sum is 12647: lower than previous
+~~~Iteration 1800~~~
+4203: lower than previous
+Window sum is 12628: lower than previous
+~~~Iteration 1801~~~
+4206: higher than previous
+Window sum is 12619: lower than previous
+~~~Iteration 1802~~~
+4210: higher than previous
+Window sum is 12619: lower than previous
+~~~Iteration 1803~~~
+4211: higher than previous
+Window sum is 12627: higher than previous
+~~~Iteration 1804~~~
+4239: higher than previous
+Window sum is 12660: higher than previous
+~~~Iteration 1805~~~
+4247: higher than previous
+Window sum is 12697: higher than previous
+~~~Iteration 1806~~~
+4239: lower than previous
+Window sum is 12725: higher than previous
+~~~Iteration 1807~~~
+4241: higher than previous
+Window sum is 12727: higher than previous
+~~~Iteration 1808~~~
+4247: higher than previous
+Window sum is 12727: lower than previous
+~~~Iteration 1809~~~
+4222: lower than previous
+Window sum is 12710: lower than previous
+~~~Iteration 1810~~~
+4218: lower than previous
+Window sum is 12687: lower than previous
+~~~Iteration 1811~~~
+4223: higher than previous
+Window sum is 12663: lower than previous
+~~~Iteration 1812~~~
+4209: lower than previous
+Window sum is 12650: lower than previous
+~~~Iteration 1813~~~
+4197: lower than previous
+Window sum is 12629: lower than previous
+~~~Iteration 1814~~~
+4198: higher than previous
+Window sum is 12604: lower than previous
+~~~Iteration 1815~~~
+4200: higher than previous
+Window sum is 12595: lower than previous
+~~~Iteration 1816~~~
+4199: lower than previous
+Window sum is 12597: higher than previous
+~~~Iteration 1817~~~
+4214: higher than previous
+Window sum is 12613: higher than previous
+~~~Iteration 1818~~~
+4212: lower than previous
+Window sum is 12625: higher than previous
+~~~Iteration 1819~~~
+4218: higher than previous
+Window sum is 12644: higher than previous
+~~~Iteration 1820~~~
+4217: lower than previous
+Window sum is 12647: higher than previous
+~~~Iteration 1821~~~
+4220: higher than previous
+Window sum is 12655: higher than previous
+~~~Iteration 1822~~~
+4219: lower than previous
+Window sum is 12656: higher than previous
+~~~Iteration 1823~~~
+4225: higher than previous
+Window sum is 12664: higher than previous
+~~~Iteration 1824~~~
+4226: higher than previous
+Window sum is 12670: higher than previous
+~~~Iteration 1825~~~
+4238: higher than previous
+Window sum is 12689: higher than previous
+~~~Iteration 1826~~~
+4240: higher than previous
+Window sum is 12704: higher than previous
+~~~Iteration 1827~~~
+4256: higher than previous
+Window sum is 12734: higher than previous
+~~~Iteration 1828~~~
+4257: higher than previous
+Window sum is 12753: higher than previous
+~~~Iteration 1829~~~
+4259: higher than previous
+Window sum is 12772: higher than previous
+~~~Iteration 1830~~~
+4261: higher than previous
+Window sum is 12777: higher than previous
+~~~Iteration 1831~~~
+4265: higher than previous
+Window sum is 12785: higher than previous
+~~~Iteration 1832~~~
+4283: higher than previous
+Window sum is 12809: higher than previous
+~~~Iteration 1833~~~
+4280: lower than previous
+Window sum is 12828: higher than previous
+~~~Iteration 1834~~~
+4284: higher than previous
+Window sum is 12847: higher than previous
+~~~Iteration 1835~~~
+4281: lower than previous
+Window sum is 12845: lower than previous
+~~~Iteration 1836~~~
+4282: higher than previous
+Window sum is 12847: higher than previous
+~~~Iteration 1837~~~
+4285: higher than previous
+Window sum is 12848: higher than previous
+~~~Iteration 1838~~~
+4268: lower than previous
+Window sum is 12835: lower than previous
+~~~Iteration 1839~~~
+4266: lower than previous
+Window sum is 12819: lower than previous
+~~~Iteration 1840~~~
+4294: higher than previous
+Window sum is 12828: higher than previous
+~~~Iteration 1841~~~
+4295: higher than previous
+Window sum is 12855: higher than previous
+~~~Iteration 1842~~~
+4318: higher than previous
+Window sum is 12907: higher than previous
+~~~Iteration 1843~~~
+4322: higher than previous
+Window sum is 12935: higher than previous
+~~~Iteration 1844~~~
+4326: higher than previous
+Window sum is 12966: higher than previous
+~~~Iteration 1845~~~
+4330: higher than previous
+Window sum is 12978: higher than previous
+~~~Iteration 1846~~~
+4331: higher than previous
+Window sum is 12987: higher than previous
+~~~Iteration 1847~~~
+4328: lower than previous
+Window sum is 12989: higher than previous
+~~~Iteration 1848~~~
+4339: higher than previous
+Window sum is 12998: higher than previous
+~~~Iteration 1849~~~
+4340: higher than previous
+Window sum is 13007: higher than previous
+~~~Iteration 1850~~~
+4342: higher than previous
+Window sum is 13021: higher than previous
+~~~Iteration 1851~~~
+4350: higher than previous
+Window sum is 13032: higher than previous
+~~~Iteration 1852~~~
+4359: higher than previous
+Window sum is 13051: higher than previous
+~~~Iteration 1853~~~
+4369: higher than previous
+Window sum is 13078: higher than previous
+~~~Iteration 1854~~~
+4377: higher than previous
+Window sum is 13105: higher than previous
+~~~Iteration 1855~~~
+4388: higher than previous
+Window sum is 13134: higher than previous
+~~~Iteration 1856~~~
+4398: higher than previous
+Window sum is 13163: higher than previous
+~~~Iteration 1857~~~
+4402: higher than previous
+Window sum is 13188: higher than previous
+~~~Iteration 1858~~~
+4400: lower than previous
+Window sum is 13200: higher than previous
+~~~Iteration 1859~~~
+4407: higher than previous
+Window sum is 13209: higher than previous
+~~~Iteration 1860~~~
+4403: lower than previous
+Window sum is 13210: higher than previous
+~~~Iteration 1861~~~
+4416: higher than previous
+Window sum is 13226: higher than previous
+~~~Iteration 1862~~~
+4417: higher than previous
+Window sum is 13236: higher than previous
+~~~Iteration 1863~~~
+4411: lower than previous
+Window sum is 13244: higher than previous
+~~~Iteration 1864~~~
+4398: lower than previous
+Window sum is 13226: lower than previous
+~~~Iteration 1865~~~
+4381: lower than previous
+Window sum is 13190: lower than previous
+~~~Iteration 1866~~~
+4368: lower than previous
+Window sum is 13147: lower than previous
+~~~Iteration 1867~~~
+4396: higher than previous
+Window sum is 13145: lower than previous
+~~~Iteration 1868~~~
+4397: higher than previous
+Window sum is 13161: higher than previous
+~~~Iteration 1869~~~
+4399: higher than previous
+Window sum is 13192: higher than previous
+~~~Iteration 1870~~~
+4402: higher than previous
+Window sum is 13198: higher than previous
+~~~Iteration 1871~~~
+4408: higher than previous
+Window sum is 13209: higher than previous
+~~~Iteration 1872~~~
+4389: lower than previous
+Window sum is 13199: lower than previous
+~~~Iteration 1873~~~
+4390: higher than previous
+Window sum is 13187: lower than previous
+~~~Iteration 1874~~~
+4388: lower than previous
+Window sum is 13167: lower than previous
+~~~Iteration 1875~~~
+4401: higher than previous
+Window sum is 13179: higher than previous
+~~~Iteration 1876~~~
+4406: higher than previous
+Window sum is 13195: higher than previous
+~~~Iteration 1877~~~
+4408: higher than previous
+Window sum is 13215: higher than previous
+~~~Iteration 1878~~~
+4409: higher than previous
+Window sum is 13223: higher than previous
+~~~Iteration 1879~~~
+4411: higher than previous
+Window sum is 13228: higher than previous
+~~~Iteration 1880~~~
+4417: higher than previous
+Window sum is 13237: higher than previous
+~~~Iteration 1881~~~
+4418: higher than previous
+Window sum is 13246: higher than previous
+~~~Iteration 1882~~~
+4422: higher than previous
+Window sum is 13257: higher than previous
+~~~Iteration 1883~~~
+4434: higher than previous
+Window sum is 13274: higher than previous
+~~~Iteration 1884~~~
+4470: higher than previous
+Window sum is 13326: higher than previous
+~~~Iteration 1885~~~
+4473: higher than previous
+Window sum is 13377: higher than previous
+~~~Iteration 1886~~~
+4476: higher than previous
+Window sum is 13419: higher than previous
+~~~Iteration 1887~~~
+4481: higher than previous
+Window sum is 13430: higher than previous
+~~~Iteration 1888~~~
+4493: higher than previous
+Window sum is 13450: higher than previous
+~~~Iteration 1889~~~
+4499: higher than previous
+Window sum is 13473: higher than previous
+~~~Iteration 1890~~~
+4500: higher than previous
+Window sum is 13492: higher than previous
+~~~Iteration 1891~~~
+4499: lower than previous
+Window sum is 13498: higher than previous
+~~~Iteration 1892~~~
+4502: higher than previous
+Window sum is 13501: higher than previous
+~~~Iteration 1893~~~
+4506: higher than previous
+Window sum is 13507: higher than previous
+~~~Iteration 1894~~~
+4520: higher than previous
+Window sum is 13528: higher than previous
+~~~Iteration 1895~~~
+4522: higher than previous
+Window sum is 13548: higher than previous
+~~~Iteration 1896~~~
+4519: lower than previous
+Window sum is 13561: higher than previous
+~~~Iteration 1897~~~
+4515: lower than previous
+Window sum is 13556: lower than previous
+~~~Iteration 1898~~~
+4527: higher than previous
+Window sum is 13561: higher than previous
+~~~Iteration 1899~~~
+4530: higher than previous
+Window sum is 13572: higher than previous
+~~~Iteration 1900~~~
+4534: higher than previous
+Window sum is 13591: higher than previous
+~~~Iteration 1901~~~
+4533: lower than previous
+Window sum is 13597: higher than previous
+~~~Iteration 1902~~~
+4534: higher than previous
+Window sum is 13601: higher than previous
+~~~Iteration 1903~~~
+4540: higher than previous
+Window sum is 13607: higher than previous
+~~~Iteration 1904~~~
+4541: higher than previous
+Window sum is 13615: higher than previous
+~~~Iteration 1905~~~
+4553: higher than previous
+Window sum is 13634: higher than previous
+~~~Iteration 1906~~~
+4554: higher than previous
+Window sum is 13648: higher than previous
+~~~Iteration 1907~~~
+4553: lower than previous
+Window sum is 13660: higher than previous
+~~~Iteration 1908~~~
+4554: higher than previous
+Window sum is 13661: higher than previous
+~~~Iteration 1909~~~
+4544: lower than previous
+Window sum is 13651: lower than previous
+~~~Iteration 1910~~~
+4539: lower than previous
+Window sum is 13637: lower than previous
+~~~Iteration 1911~~~
+4540: higher than previous
+Window sum is 13623: lower than previous
+~~~Iteration 1912~~~
+4546: higher than previous
+Window sum is 13625: higher than previous
+~~~Iteration 1913~~~
+4543: lower than previous
+Window sum is 13629: higher than previous
+~~~Iteration 1914~~~
+4531: lower than previous
+Window sum is 13620: lower than previous
+~~~Iteration 1915~~~
+4542: higher than previous
+Window sum is 13616: lower than previous
+~~~Iteration 1916~~~
+4543: higher than previous
+Window sum is 13616: lower than previous
+~~~Iteration 1917~~~
+4541: lower than previous
+Window sum is 13626: higher than previous
+~~~Iteration 1918~~~
+4542: higher than previous
+Window sum is 13626: lower than previous
+~~~Iteration 1919~~~
+4539: lower than previous
+Window sum is 13622: lower than previous
+~~~Iteration 1920~~~
+4538: lower than previous
+Window sum is 13619: lower than previous
+~~~Iteration 1921~~~
+4536: lower than previous
+Window sum is 13613: lower than previous
+~~~Iteration 1922~~~
+4532: lower than previous
+Window sum is 13606: lower than previous
+~~~Iteration 1923~~~
+4523: lower than previous
+Window sum is 13591: lower than previous
+~~~Iteration 1924~~~
+4521: lower than previous
+Window sum is 13576: lower than previous
+~~~Iteration 1925~~~
+4533: higher than previous
+Window sum is 13577: higher than previous
+~~~Iteration 1926~~~
+4544: higher than previous
+Window sum is 13598: higher than previous
+~~~Iteration 1927~~~
+4545: higher than previous
+Window sum is 13622: higher than previous
+~~~Iteration 1928~~~
+4546: higher than previous
+Window sum is 13635: higher than previous
+~~~Iteration 1929~~~
+4543: lower than previous
+Window sum is 13634: lower than previous
+~~~Iteration 1930~~~
+4544: higher than previous
+Window sum is 13633: lower than previous
+~~~Iteration 1931~~~
+4548: higher than previous
+Window sum is 13635: higher than previous
+~~~Iteration 1932~~~
+4552: higher than previous
+Window sum is 13644: higher than previous
+~~~Iteration 1933~~~
+4556: higher than previous
+Window sum is 13656: higher than previous
+~~~Iteration 1934~~~
+4564: higher than previous
+Window sum is 13672: higher than previous
+~~~Iteration 1935~~~
+4565: higher than previous
+Window sum is 13685: higher than previous
+~~~Iteration 1936~~~
+4566: higher than previous
+Window sum is 13695: higher than previous
+~~~Iteration 1937~~~
+4568: higher than previous
+Window sum is 13699: higher than previous
+~~~Iteration 1938~~~
+4565: lower than previous
+Window sum is 13699: lower than previous
+~~~Iteration 1939~~~
+4567: higher than previous
+Window sum is 13700: higher than previous
+~~~Iteration 1940~~~
+4577: higher than previous
+Window sum is 13709: higher than previous
+~~~Iteration 1941~~~
+4587: higher than previous
+Window sum is 13731: higher than previous
+~~~Iteration 1942~~~
+4588: higher than previous
+Window sum is 13752: higher than previous
+~~~Iteration 1943~~~
+4591: higher than previous
+Window sum is 13766: higher than previous
+~~~Iteration 1944~~~
+4594: higher than previous
+Window sum is 13773: higher than previous
+~~~Iteration 1945~~~
+4598: higher than previous
+Window sum is 13783: higher than previous
+~~~Iteration 1946~~~
+4599: higher than previous
+Window sum is 13791: higher than previous
+~~~Iteration 1947~~~
+4601: higher than previous
+Window sum is 13798: higher than previous
+~~~Iteration 1948~~~
+4597: lower than previous
+Window sum is 13797: lower than previous
+~~~Iteration 1949~~~
+4609: higher than previous
+Window sum is 13807: higher than previous
+~~~Iteration 1950~~~
+4608: lower than previous
+Window sum is 13814: higher than previous
+~~~Iteration 1951~~~
+4579: lower than previous
+Window sum is 13796: lower than previous
+~~~Iteration 1952~~~
+4594: higher than previous
+Window sum is 13781: lower than previous
+~~~Iteration 1953~~~
+4596: higher than previous
+Window sum is 13769: lower than previous
+~~~Iteration 1954~~~
+4595: lower than previous
+Window sum is 13785: higher than previous
+~~~Iteration 1955~~~
+4594: lower than previous
+Window sum is 13785: lower than previous
+~~~Iteration 1956~~~
+4592: lower than previous
+Window sum is 13781: lower than previous
+~~~Iteration 1957~~~
+4586: lower than previous
+Window sum is 13772: lower than previous
+~~~Iteration 1958~~~
+4588: higher than previous
+Window sum is 13766: lower than previous
+~~~Iteration 1959~~~
+4586: lower than previous
+Window sum is 13760: lower than previous
+~~~Iteration 1960~~~
+4582: lower than previous
+Window sum is 13756: lower than previous
+~~~Iteration 1961~~~
+4583: higher than previous
+Window sum is 13751: lower than previous
+~~~Iteration 1962~~~
+4584: higher than previous
+Window sum is 13749: lower than previous
+~~~Iteration 1963~~~
+4596: higher than previous
+Window sum is 13763: higher than previous
+~~~Iteration 1964~~~
+4605: higher than previous
+Window sum is 13785: higher than previous
+~~~Iteration 1965~~~
+4593: lower than previous
+Window sum is 13794: higher than previous
+~~~Iteration 1966~~~
+4609: higher than previous
+Window sum is 13807: higher than previous
+~~~Iteration 1967~~~
+4616: higher than previous
+Window sum is 13818: higher than previous
+~~~Iteration 1968~~~
+4614: lower than previous
+Window sum is 13839: higher than previous
+~~~Iteration 1969~~~
+4613: lower than previous
+Window sum is 13843: higher than previous
+~~~Iteration 1970~~~
+4614: higher than previous
+Window sum is 13841: lower than previous
+~~~Iteration 1971~~~
+4616: higher than previous
+Window sum is 13843: higher than previous
+~~~Iteration 1972~~~
+4617: higher than previous
+Window sum is 13847: higher than previous
+~~~Iteration 1973~~~
+4618: higher than previous
+Window sum is 13851: higher than previous
+~~~Iteration 1974~~~
+4617: lower than previous
+Window sum is 13852: higher than previous
+~~~Iteration 1975~~~
+4618: higher than previous
+Window sum is 13853: higher than previous
+~~~Iteration 1976~~~
+4616: lower than previous
+Window sum is 13851: lower than previous
+~~~Iteration 1977~~~
+4592: lower than previous
+Window sum is 13826: lower than previous
+~~~Iteration 1978~~~
+4593: higher than previous
+Window sum is 13801: lower than previous
+~~~Iteration 1979~~~
+4592: lower than previous
+Window sum is 13777: lower than previous
+~~~Iteration 1980~~~
+4593: higher than previous
+Window sum is 13778: higher than previous
+~~~Iteration 1981~~~
+4599: higher than previous
+Window sum is 13784: higher than previous
+~~~Iteration 1982~~~
+4598: lower than previous
+Window sum is 13790: higher than previous
+~~~Iteration 1983~~~
+4597: lower than previous
+Window sum is 13794: higher than previous
+~~~Iteration 1984~~~
+4600: higher than previous
+Window sum is 13795: higher than previous
+~~~Iteration 1985~~~
+4602: higher than previous
+Window sum is 13799: higher than previous
+~~~Iteration 1986~~~
+4599: lower than previous
+Window sum is 13801: higher than previous
+~~~Iteration 1987~~~
+4600: higher than previous
+Window sum is 13801: lower than previous
+~~~Iteration 1988~~~
+4609: higher than previous
+Window sum is 13808: higher than previous
+~~~Iteration 1989~~~
+4605: lower than previous
+Window sum is 13814: higher than previous
+~~~Iteration 1990~~~
+4607: higher than previous
+Window sum is 13821: higher than previous
+~~~Iteration 1991~~~
+4609: higher than previous
+Window sum is 13821: lower than previous
+~~~Iteration 1992~~~
+4610: higher than previous
+Window sum is 13826: higher than previous
+~~~Iteration 1993~~~
+4606: lower than previous
+Window sum is 13825: lower than previous
+~~~Iteration 1994~~~
+4609: higher than previous
+Window sum is 13825: lower than previous
+~~~Iteration 1995~~~
+4608: lower than previous
+Window sum is 13823: lower than previous
+~~~Iteration 1996~~~
+4612: higher than previous
+Window sum is 13829: higher than previous
+~~~Iteration 1997~~~
+4616: higher than previous
+Window sum is 13836: higher than previous
+~~~Iteration 1998~~~
+4615: lower than previous
+Window sum is 13843: higher than previous
+~~~Iteration 1999~~~
+4616: higher than previous
+Window sum is 13847: higher than previous
+~~~Iteration 2000~~~
+4618: higher than previous
+Window sum is 13849: higher than previous
+
+~~~Summary~~~
+The total higher than previous is 1316
+The total windows higher than previous is 1344
