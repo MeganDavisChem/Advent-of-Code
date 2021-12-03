@@ -17,6 +17,7 @@ def binToInt(array):
         num += str(element)
     num = int(num, 2)
     return num
+
 #Read in file, strip newline characters, store as numpy int array, transpose
 #I probably should have made this code clear instead of nesting like five
 #different things
@@ -29,20 +30,6 @@ with open('input',encoding='utf-8') as f:
 #gamma = [np.bincount(row).argmax() for row in data]
 gamma = commonNums(data, 'max')
 epsilon = commonNums(data, 'min')
-
-#Concatenate into string
-#gammaBin = ''
-#epsilonBin = ''
-#
-#for i in gamma:
-#    gammaBin += str(i)
-#for j in epsilon:
-#    epsilonBin += str(j)
-#
-##Convert string from binary into base 10 int, multiply and print result
-#gammaBin = int(gammaBin, 2)
-#epsilonBin = int(epsilonBin, 2)
-#let's see if the funciton works
 
 gammaBin = binToInt(gamma)
 epsilonBin = binToInt(epsilon)
