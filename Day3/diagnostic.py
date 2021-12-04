@@ -54,7 +54,6 @@ def ratingModule(array, mol):
                 tempData.append(line.tolist())
         #store matching numbers as array, and we do it again
         array = np.array(tempData)
-        print(array)
         #stop when we get to the value. Might not be necessary?
         if len(array) == 1:
             break
