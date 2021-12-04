@@ -1,4 +1,4 @@
-"""Calculate gamma rate and epsilon rate"""
+"""Perform power and life support diagnostics for the Elves' Submarine"""
 #pylint: disable=C0103
 import numpy as np
 
