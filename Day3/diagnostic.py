@@ -3,12 +3,21 @@
 import numpy as np
 
 def commonNums(array, minMax):
-    """Returns most common numbers"""
+    """Returns if one or zero is the most common number for each index in
+    transposed array"""
     if minMax == "max":
         common = [np.bincount(row).argmax() for row in array]
     else:
         common = [np.bincount(row).argmin() for row in array]
     return common
+
+
+def numCounts(array):
+    """Returns total count for 1 and 0,  needed for ratingModule, aka I wish I
+    had had more foresight"""
+    common = [np.bincount(row) for row in array]
+    return common
+
 
 def binToInt(array):
     """converts binary array to base 10 int"""
@@ -18,6 +27,40 @@ def binToInt(array):
     num = int(num, 2)
     return num
 
+def ratingModule(array, mol):
+    """Generate O2 or CO2 metric"""
+    #array needs to be in original format so we can iterate over each binary
+    #number and choose which ones to keep
+    array = array.transpose()
+    for i in range(len(array[0])):
+        #Calculate numCounts for current index
+        mostCommon = numCounts(array.transpose())
+
+        #Spaghetti code to pick 1 or 0 based on O2 or CO2 mode
+        if mostCommon[i][0] == mostCommon[i][1]:
+            if mol == 'O2':
+                com = 1
+            else:
+                com = 0
+        elif mol == 'O2':
+            com = mostCommon[i].argmax()
+        else:
+            com = mostCommon[i].argmin()
+        tempData = []
+        #iterate through array and append matching numbers for current bit to
+        #list
+        for line in array:
+            if com == line[i]:
+                tempData.append(line.tolist())
+        #store matching numbers as array, and we do it again
+        array = np.array(tempData)
+        print(array)
+        #stop when we get to the value. Might not be necessary?
+        if len(array) == 1:
+            break
+    #return a one dimensional array instead of [[]]
+    return array[0]
+
 #Read in file, strip newline characters, store as numpy int array, transpose
 #I probably should have made this code clear instead of nesting like five
 #different things
@@ -25,15 +68,13 @@ with open('input',encoding='utf-8') as f:
     data = np.array([list(line.rstrip()) for line in f],
             dtype='int').transpose()
 
-#Find most frequent numbers for each column
-
-#gamma = [np.bincount(row).argmax() for row in data]
+#Find most frequent nums
 gamma = commonNums(data, 'max')
 epsilon = commonNums(data, 'min')
 
+#convert from binary array to int and get power
 gammaBin = binToInt(gamma)
 epsilonBin = binToInt(epsilon)
-
 power = gammaBin * epsilonBin
 
 #Print for part one
@@ -44,51 +85,19 @@ Epsilon rate:           {epsilonBin}
 Net power consumption:  {power}
 """)
 
+#Get O2 and CO2 metrics using the ratingModule
+dataO2 = ratingModule(data, 'O2')
+dataCO2 = ratingModule(data, 'CO2')
 
-#Part two
+#convert to base 10, generate life support
+O2 = binToInt(dataO2)
+CO2 = binToInt(dataCO2)
+lifeSupport = O2 * CO2
 
-#Find most common bit of row 1
-
-#Discard all numbers that don't have that bit for data[0][number]
-
-#Repeat until all rows have been looped through or until there is only one
-#number remaining. Could do a while loop or use if len(data) == 1 break
-
-#for i,line in enumerate(data):
-#    mostCommon = commonNums(data, 'max')
-#    print(mostCommon[i])
-#    for bit in mostCommon:
-#        pass
-
-#Let's try while loop structure. Loop until one value remains
-#dataO2 = dataCO2 = data
-
-#turn dataO2 into the original form of the data which it should have been in the
-#first place
-dataO2 = data.transpose()
-
-#iterate over indices
-for i in range(len(gamma)):
-    #Calculate commonNums for current index
-    mostCommon = commonNums(dataO2.transpose(), 'max')
-    tempData = []
-    #iterate through transpose and append correct numbers to a new list
-    for line in dataO2:
-        if mostCommon[i] == line[i]:
-            tempData.append(line.tolist())
-    dataO2 = np.array(tempData)
-    if len(dataO2) == 1:
-        break
-
-#convert number from binary
-O2 = ''
-for i in dataO2[0]:
-    O2 += str(i)
-O2 = int(O2, 2)
-#This logic works!
-#Now I just need to write a function that converts from an array in binary to a
-#single number
-#Then I need to write a function that does the iteration but switches with a max
-#min flag
-#actually wait I can just do that here. Actually yeah I'll do a function that'll
-#make more sense
+#print for Part 2
+print(f"""
+~~~Life Support Diagonistics~~~
+Oxygen generator rating: {O2}
+CO2 scrubber rating:     {CO2}
+Life support rating:     {lifeSupport}
+""")
