@@ -5,8 +5,20 @@ def pos_check(array, num):
     """checks if a number is in a board and returns its position"""
     return [int(ps) for ps in np.where(array == num)]
 
-with open('example', encoding='utf-8') as file:
+with open('input', encoding='utf-8') as file:
     rawData = file.read()
+
+def get_score(bingoboard, scoreboard):
+    """Gets score for a given board"""
+    score_zeroes = np.where(scoreboard == 0)
+    zeroes_coords = []
+    score = 0
+    for num in range(len(score_zeroes[0])):
+        zeroes_coords.append([coord[num] for coord in score_zeroes])
+    for coord in zeroes_coords:
+        score += bingoboard[coord[0]][coord[1]]
+    score *= finalCall
+    return score
 
 #Split based on double lines to separate callouts and boards
 data = rawData.split('\n\n')
@@ -55,19 +67,9 @@ for callout in callouts:
         continue
     break
 
-#So now that we've selected the winningBoard and the winningScore, we need to
-#get a list of values that haven't been flagged yet
-scoreZeroes = np.where(winningScore == 0)
-zeroesCoords = []
-SCORE = 0
-for i in range(len(scoreZeroes[0])):
-    zeroesCoords.append([coord[i] for coord in scoreZeroes])
-for coord in zeroesCoords:
-    SCORE += winningBoard[coord[0]][coord[1]]
-SCORE *= finalCall
-
+winScore = get_score(winningBoard, winningScore)
 print(f"""~~~Results~~~
-The final score is: {SCORE}
+The final score is: {winScore}
 Final callout was:      {finalCall}
 
 Winning Board:
@@ -77,11 +79,15 @@ Marked numbers:
 {winningScore}
 """)
 
-goodBoards = []
 
+#Part Two logic: we tweak things slightly: Put score checking inside of the if
+#callout statement, and then make a running list of goodBoards and remove them
+#from the iterative count, and find the scores for every board til we get to the
+#last one
+goodBoards = []
 for callout in callouts:
     for i,board in enumerate(boards):
-        if callout in board:
+        if callout in board and i not in goodBoards:
             #will turn this into a function
 #            pos = [int(ps) for ps in np.where(board == callout)]
             pos = pos_check(board, callout)
@@ -89,16 +95,30 @@ for callout in callouts:
             boardScores[i][pos[0]][pos[1]] = 1
             #so far so good!
         #now we need a check for when a board has won.
-        scores = boardScores[i].sum(axis=0).tolist() +\
-        boardScores[i].sum(axis=1).tolist()
+            scores = boardScores[i].sum(axis=0).tolist() +\
+            boardScores[i].sum(axis=1).tolist()
         #this may be unpythonic and/or dumb, but basically this is a structure
         #that breaks out of the nested loop if we get to a winning board
-        if 5 in scores:
-            winningBoard = board
-            winningScore = boardScores[i]
-            finalCall = callout
-            goodBoards.append(board)
-#        if len(goo
+            if 5 in scores:
+                winningBoard = board
+                winningScore = boardScores[i]
+                finalCall = callout
+                goodBoards.append(i)
+        #break when we get to the last board
+        if len(goodBoards) == len(boards):
+            break
+    else:
+        continue
+    break
 
-print(goodBoards)
+winScore = get_score(winningBoard, winningScore)
+print(f"""~~~Results~~~
+The final score is: {winScore}
+Final callout was:      {finalCall}
 
+Winning Board:
+{winningBoard}
+
+Marked numbers:
+{winningScore}
+""")
