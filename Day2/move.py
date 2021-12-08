@@ -1,6 +1,6 @@
 """Finds sub position"""
 #pylint: disable=C0103
-with open('input', encoding='utf-8') as f:
+with openen('input', encoding='utf-8') as f:
     data = [line.split() for line in f.readlines()]
 
 #I want to use list comprehension even though it's probably not the best case
